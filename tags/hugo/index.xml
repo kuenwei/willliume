@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 未來 Liu.me</title>
+    <link>https://blog.herearoma.com/tags/hugo/</link>
+    <description>Recent content in Hugo on 未來 Liu.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+    <lastBuildDate>Sat, 09 Feb 2019 15:25:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.herearoma.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>將 Blogger 轉換至 Hugo（含優缺點評析）</title>
+      <link>https://blog.herearoma.com/blog/digital-blogger-transfer-to-hugo/</link>
+      <pubDate>Sat, 09 Feb 2019 15:25:19 +0800</pubDate>
+      
+      <guid>https://blog.herearoma.com/blog/digital-blogger-transfer-to-hugo/</guid>
+      <description>圖片來源：rawpixel.com @ PEXEL 近年許多新興語言興起，Go語言（golang）就是其中一款，能夠快速的編譯出靜態網頁，加上許多開源性的平台以及網路資源，提供了更好網站架設方式，經過許多評估與思考，決定要將自己網站打掉重練，來看看我的思考過程以及優</description>
+    </item>
+    
+  </channel>
+</rss>
