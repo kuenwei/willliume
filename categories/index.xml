@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 未來 Liu.me</title>
-    <link>https://blog.herearoma.com/categories/</link>
+    <link>https://willliu.me/categories/</link>
     <description>Recent content in Categories on 未來 Liu.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
     
-	<atom:link href="https://blog.herearoma.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://willliu.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>哩程</title>
-      <link>https://blog.herearoma.com/categories/%E5%93%A9%E7%A8%8B/</link>
+      <link>https://willliu.me/categories/%E5%93%A9%E7%A8%8B/</link>
       <pubDate>Fri, 23 Aug 2019 15:25:19 +0800</pubDate>
       
-      <guid>https://blog.herearoma.com/categories/%E5%93%A9%E7%A8%8B/</guid>
+      <guid>https://willliu.me/categories/%E5%93%A9%E7%A8%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>數位</title>
-      <link>https://blog.herearoma.com/categories/%E6%95%B8%E4%BD%8D/</link>
+      <link>https://willliu.me/categories/%E6%95%B8%E4%BD%8D/</link>
       <pubDate>Wed, 28 May 2098 15:25:19 +0800</pubDate>
       
-      <guid>https://blog.herearoma.com/categories/%E6%95%B8%E4%BD%8D/</guid>
+      <guid>https://willliu.me/categories/%E6%95%B8%E4%BD%8D/</guid>
       <description></description>
     </item>
     
     <item>
       <title>旅行</title>
-      <link>https://blog.herearoma.com/categories/%E6%97%85%E8%A1%8C/</link>
+      <link>https://willliu.me/categories/%E6%97%85%E8%A1%8C/</link>
       <pubDate>Fri, 23 Aug 2019 15:25:19 +0800</pubDate>
       
-      <guid>https://blog.herearoma.com/categories/%E6%97%85%E8%A1%8C/</guid>
+      <guid>https://willliu.me/categories/%E6%97%85%E8%A1%8C/</guid>
       <description></description>
     </item>
     
