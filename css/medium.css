@@ -30,6 +30,9 @@ pre {
     background: #F7FAFB;
     border-radius: 3px;
 }
+strong, b {
+    font-weight: 600;
+}
 .mediumnavigation {
     background:rgba(255,255,255,.97);
     box-shadow:0 2px 2px -2px rgba(0,0,0,.15);
