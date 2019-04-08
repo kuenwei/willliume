@@ -393,9 +393,9 @@ ul.tags li, ul.categories li {
     display:inline-block;
     font-size:0.9rem;
 }
-ul.caetogries li a {
-    color: rgba(0,0,0,.6);
-    padding: 5px 10px;
+ul.categories li a {
+    color: rgba(0,0,0,.6) !important;
+    padding: 5px 1px;
 }
 ul.tags li a {
     background:rgba(0,0,0,.05);
