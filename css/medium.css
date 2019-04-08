@@ -394,7 +394,7 @@ ul.tags li, ul.categories li {
     font-size:0.9rem;
 }
 ul.categories li a {
-    color: rgba(0,0,0,.6) !important;
+    color: rgba(0,0,0,.44) !important;
     padding: 5px 1px;
 }
 ul.tags li a {
