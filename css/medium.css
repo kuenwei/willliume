@@ -31,7 +31,7 @@ pre {
     border-radius: 3px;
 }
 strong, b {
-    font-weight: 600;
+    font-weight: 6 00;
 }
 .mediumnavigation {
     background:rgba(255,255,255,.97);
@@ -384,14 +384,18 @@ blockquote {
     box-shadow:0 1px 7px rgba(0,0,0,.05);
     border:0;
 }
-ul.tags {
+ul.tags, ul.categories {
     list-style:none;
     padding-left:0;
     margin:0 0 3rem 0;
 }
-ul.tags li {
+ul.tags li, ul.categories li {
     display:inline-block;
     font-size:0.9rem;
+}
+ul.caetogries li a {
+    color: rgba(0,0,0,.6);
+    padding: 5px 10px;
 }
 ul.tags li a {
     background:rgba(0,0,0,.05);
