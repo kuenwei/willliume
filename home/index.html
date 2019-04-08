@@ -246,17 +246,12 @@
 
 
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery-3.2.1.min.js"></script>
 <script type="text/javascript">
-jQuery("a").each(function(index) {
-var r = new RegExp("^(http://"+document.domain+")");
-
-if (!r.test(jQuery(this).attr('href'))) {
-jQuery(this).attr('target', '_blank');
-}
-});
+  $(document).ready(function(){
+    $('a[href^="http://"], a[href^="https://"]').not('a[href*=willliu\\.me]').attr('target','_blank');
+  });
 </script>
-
         </div>
 
     
