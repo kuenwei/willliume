@@ -666,9 +666,9 @@ iframe {
     border-radius: 30px;
     color: #fff;
     font-weight: 500;
-    text-transform: lowercase;
+    text-transform: uppercase; //lowercase;
     line-height: 2.5rem;
-    font-size: 1rem;
+    font-size: .9rem;
 }
 .layout-page .jumbotron.fortags {
    display:none;
