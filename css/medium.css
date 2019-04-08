@@ -567,6 +567,7 @@ ul.tags li a:hover {
 }
 .article-post h5 a, .article-post .h5 a{
     color: inherit !important;
+    border: 0px;
 }
 .article-post h5:before {
   content: '\0021F1';
@@ -581,11 +582,15 @@ ul.tags li a:hover {
     -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
 }
+.article-post a {
+    color: inherit !important;
+    border-bottom: 2px solid #087ee3;
+    transition:all 0.4s !important;
+}
 .article-post a:hover {
     color: #087ee3 !important;
     padding-bottom: 0px;
-    border-bottom: 2px solid #087ee3;
-    transition:all 0.2s !important;
+    transition:all 0.4s !important;
 }
 img {
    max-width:100%;
