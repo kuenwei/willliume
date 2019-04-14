@@ -53,3 +53,70 @@
 //  -moz-transform: rotate(60deg);
 //  transform: rotate(60deg);
 }
+
+/* Table CSS setting */
+table {
+  padding: auto;
+  border-collapse: collapse;
+  overflow-x: auto;
+  display: block; /*display: table;*/
+  width: fit-content;
+  max-width: 100%;
+  /* box-shadow: 0 0 1px 1px rgba(0, 0, 0, .1); */
+  margin: 2em 0px;
+  table-layout: fixed;
+}
+
+td, th {
+  border: solid rgb(255, 255, 255) 2px;
+  padding: .6rem;
+  text-align: left; 
+  font-family: inherit;
+  font-size: 1rem;
+}
+
+th {
+  background-color: rgba(8,8,8,0.8); 
+  color: white; 
+  font-weight: bold; 
+  text-align: left;
+  text-transform: uppercase;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-top: none;
+  font-family: inherit;
+}
+
+tr:nth-of-type(odd) { 
+  background: rgba(126,126,126,0.1); 
+}
+tr:nth-of-type(even) { 
+  background: rgba(126,126,126,0.05); 
+}
+
+td {
+  white-space: nowrap;
+  border-bottom: none;
+  color: rgb(60, 60, 60);
+}
+
+td:first-of-type {
+  border-left: none;
+  background-color: rgba(8,8,8,0.4);
+  color: #fff;
+  font-weight: bold; 
+}
+
+td:last-of-type, th:last-of-type {
+  border-right: none;
+}
+
+td:first-child, th:first-child {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+td:last-child, th:last-child {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://willliu.me/categories/%E6%95%B8%E4%BD%8D/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>把主站搬離 Medium 的理由以及未來走向</title>
+      <link>https://willliu.me/blog/leave-meidum/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://willliu.me/blog/leave-meidum/</guid>
+      <description>圖片來源：bruce mars @ PEXELS test 比較表 平台 Hugo Medium Blogger 自訂 https 網域 取決於主機商 不可或 USD $75 可 版型 HTML 與 CSS 不可 CSS 互動（留言、按讚） 外部插件 內建 內建 Widget 手動 不支援 很多（自動支援 ） HTML 支援 不支援 支援 Markdown 大部分支援 部分支援 不支援 中文顯示支援度 高 稍差 高 Mobile Friendly 前台支援、後台不支援 前、後台</description>
+    </item>
     
     <item>
       <title>將 Blogger 轉換至 Hugo（含優缺點評析）</title>
