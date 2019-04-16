@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://willliu.me/categories/%E5%B9%B3%E5%8F%B0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>把主站搬離 Medium 的理由以及未來走向</title>
+      <link>https://willliu.me/blog/leave-meidum/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://willliu.me/blog/leave-meidum/</guid>
+      <description>2012 年 8 月 Twitter 創辦人打造了新一代的寫作社群媒體「Medium」。 Medium 中文社群有人稱作「米店」，是近兩三年來中文作者篇好發表的平台之一，我也在一年多前跟上了這個風潮，但最近我刪除了原先在上面的 Publication，同時也調整了經營的方向，因為我發現，在我的使</description>
+    </item>
     
     <item>
       <title>將 Blogger 轉換至 Hugo（含優缺點評析）</title>
