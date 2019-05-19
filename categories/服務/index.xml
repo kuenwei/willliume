@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>服務 on 未來 Liu.me</title>
+    <link>https://willliu.me/categories/%E6%9C%8D%E5%8B%99/</link>
+    <description>Recent content in 服務 on 未來 Liu.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://willliu.me/categories/%E6%9C%8D%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>訂閱“我們”的電子報</title>
+      <link>https://willliu.me/blog/enewsletter-subscription/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://willliu.me/blog/enewsletter-subscription/</guid>
+      <description>分享一直都是我想做的事情，而除了公開的傳播外，我也希望能提供更有效率的方式，所以才興起了想要發送電子報，而且因為想分享的主題多元，所以分別散在了不同平台，包含不同的社群、部落格（未來Liu.me、塔香食譜）及課程等等，在分佈四周的環境下，電子報將成為集</description>
+    </item>
+    
+  </channel>
+</rss>
