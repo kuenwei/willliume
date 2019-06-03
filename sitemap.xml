@@ -39,12 +39,12 @@
   
   <url>
     <loc>https://willliu.me/blog/my-tools-and-services-list/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://willliu.me/tags/app/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,7 +95,7 @@
   
   <url>
     <loc>https://willliu.me/tags/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,7 +143,7 @@
   
   <url>
     <loc>https://willliu.me/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -207,7 +207,7 @@
   
   <url>
     <loc>https://willliu.me/tags/%E8%BB%9F%E9%AB%94/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -224,13 +224,13 @@
   </url>
   
   <url>
-    <loc>https://willliu.me/tags/%E9%9B%BB%E5%AD%90%E5%A0%B1/</loc>
+    <loc>https://willliu.me/categories/%E9%9B%BB%E5%AD%90%E5%A0%B1/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://willliu.me/categories/%E9%9B%BB%E5%AD%90%E5%A0%B1/</loc>
+    <loc>https://willliu.me/tags/%E9%9B%BB%E5%AD%90%E5%A0%B1/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
