@@ -54,6 +54,16 @@
 //  transform: rotate(60deg);
 }
 
+.article-post em, i {
+  text-align: left;
+  font-size: 1.3em;
+  position: relative;
+  margin: auto;
+  opacity: 0.8;
+  display: block;
+  padding: 1em 2em;
+}
+
 /* Table CSS setting */
 table {
   padding: auto;
