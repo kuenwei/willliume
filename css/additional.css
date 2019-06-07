@@ -54,7 +54,7 @@
 //  transform: rotate(60deg);
 }
 
-.article-post em, i {
+.article-post em {
   text-align: left;
   font-size: 1.3em;
   position: relative;
