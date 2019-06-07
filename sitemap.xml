@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://willliu.me/blog/good-bye-medium-and-the-reasons/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/blog/fang-yi-sheu-book-salute/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
@@ -66,7 +71,7 @@
   
   <url>
     <loc>https://willliu.me/tags/blog/</loc>
-    <lastmod>2019-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,7 +83,7 @@
   
   <url>
     <loc>https://willliu.me/blog/</loc>
-    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,7 +104,7 @@
   
   <url>
     <loc>https://willliu.me/tags/medium/</loc>
-    <lastmod>2019-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -118,6 +123,12 @@
   <url>
     <loc>https://willliu.me/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/</loc>
     <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E5%80%8B%E4%BA%BA%E7%B6%93%E9%A9%97/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -165,7 +176,7 @@
   
   <url>
     <loc>https://willliu.me/categories/%E5%B9%B3%E5%8F%B0/</loc>
-    <lastmod>2019-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -183,7 +194,7 @@
   
   <url>
     <loc>https://willliu.me/categories/%E6%95%B8%E4%BD%8D/</loc>
-    <lastmod>2019-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -201,12 +212,18 @@
   
   <url>
     <loc>https://willliu.me/</loc>
-    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://willliu.me/tags/%E7%9B%8A%E7%94%9F%E8%8F%8C/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E7%A4%BE%E7%BE%A4/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

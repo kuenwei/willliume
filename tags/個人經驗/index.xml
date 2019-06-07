@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>個人經驗 on 未來 Liu.me</title>
+    <link>https://willliu.me/tags/%E5%80%8B%E4%BA%BA%E7%B6%93%E9%A9%97/</link>
+    <description>Recent content in 個人經驗 on 未來 Liu.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://willliu.me/tags/%E5%80%8B%E4%BA%BA%E7%B6%93%E9%A9%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Medium 很好，「但是」我決定跟他說掰</title>
+      <link>https://willliu.me/blog/good-bye-medium-and-the-reasons/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://willliu.me/blog/good-bye-medium-and-the-reasons/</guid>
+      <description>兩個月前，我做了一件事情，離開了 Medium 寫作的環境，重新架設這個網站（部落格）未來Liu.me，裡面講到了很多原因，但兩個月之後，我決定要把 Medium 的寫作內容完全終止，並且減少閱讀裡面文章的次數。 為什麼？ 其實我近幾個月已經很少使用 Medium 了，剛好最近看到一篇文章說明了一</description>
+    </item>
+    
+  </channel>
+</rss>
