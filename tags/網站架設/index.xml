@@ -157,6 +157,8 @@ If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will
 &lt;li&gt;&lt;p&gt;RSS 更新
 原 rss 僅顯示摘要，為了方便訂閱者閱讀，要做全文的更新，但遇到困難點：圖片需要改為絕對位置，不能使用相對位置。因此參考以下文章，並增修絕對路徑如下。&lt;/p&gt;
 
+&lt;p&gt;檔案的部分，需要放在你選用主題底下 &lt;code&gt;layouts/_default/rss.xml&lt;/code&gt;&lt;/p&gt;
+
 &lt;pre&gt;&lt;code&gt;&amp;lt;description&amp;gt;{{ replaceRE &amp;quot;img src=\&amp;quot;(.*?)\&amp;quot;&amp;quot; (printf &amp;quot;%s%s%s&amp;quot; &amp;quot;img src=\&amp;quot;&amp;quot; .Site.Params.blogimgdir &amp;quot;$1\&amp;quot;&amp;quot;) .Content | html }}&amp;lt;/description&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
