@@ -398,8 +398,28 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 &lt;h2 id=&#34;其他&#34;&gt;其他&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;研究 relLangURL&lt;/li&gt;
+&lt;li&gt;研究 relLangURL、&lt;a href=&#34;https://gohugo.io/functions/absurl/&#34;&gt;absURL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;研究 &lt;a href=&#34;https://gohugo.io/functions/urlize/&#34;&gt;urlize&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;電子報訂閱更新：Herearoma 首頁下方，blog 如何增加？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;hugo-函數研究&#34;&gt;Hugo 函數研究&lt;/h2&gt;
+
+&lt;h2 id=&#34;replace&#34;&gt;Replace&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/replacere/&#34;&gt;replaceRE&lt;/a&gt;：可以規則表達式當替代目標的&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;html&#34;&gt;HTML&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;html：正常 HTML 顯示成文字&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/htmlescape/&#34;&gt;htmlEscape&lt;/a&gt;：不顯示跳脫符號&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/htmlunescape/&#34;&gt;htmlUnescape&lt;/a&gt;：跳脫符號顯示&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/safehtml/&#34;&gt;safeHTML&lt;/a&gt;：將 HTML 正常顯示為 code。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
