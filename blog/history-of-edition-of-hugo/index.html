@@ -127,7 +127,7 @@
                                     <i class="far fa-star"></i>
                                     Apr 8, 2019
                                     <i class="far fa-clock clock"></i>
-                                    閱讀成本 4 分鐘
+                                    閱讀成本 3 分鐘
                                 <ul class="categories">
                                     <i class="far fa-folder"></i>
                                     
@@ -213,8 +213,10 @@ Source: <a href="https://ar.al/2018/07/01/refining-the-rss/">https://ar.al/2018/
 
 <p>同時於 <code>config.toml</code> 增加函數</p>
 
-<pre><code> [params]
+<pre><code>```
+[params]
   blogimgdir = &quot;/blog/&quot;
+```
 </code></pre>
 
 <h2 id="未來-liu-me">未來 Liu.me</h2>
@@ -230,19 +232,23 @@ Source: <a href="https://ar.al/2018/07/01/refining-the-rss/">https://ar.al/2018/
 <hr />
 
 <ul>
-<li>電子郵件訂閱〈短期方案 2019.4.8〉
-先透過 Google Feedburner 收集 Email，未來在考慮是否移轉至電子報系統，目前參考系統為台灣廠商「電子豹」，但因正值改版時期，新版的訂閱表單還在開發中，尚無法透過表單收集。
-離開 Upscribe 的原因：(1) 無法自訂表單，代表活化的程度不高；(2) 已經不再使用 Medium 收集 Email，Upscribe 優勢較低。</li>
+<li><p>電子郵件訂閱〈短期方案 2019.4.8〉</p>
+
+<p>先透過 Google Feedburner 收集 Email，未來在考慮是否移轉至電子報系統，目前參考系統為台灣廠商「電子豹」，但因正值改版時期，新版的訂閱表單還在開發中，尚無法透過表單收集。</p>
+
+<p>離開 Upscribe 的原因：(1) 無法自訂表單，代表活化的程度不高；(2) 已經不再使用 Medium 收集 Email，Upscribe 優勢較低。</p></li>
 </ul>
 
 <hr />
 
 <ul>
-<li>Table 相關 css 修改〈已完成 2019.4.13〉
-Hugo 支援使用 Markdown 語法建立的表格（但原始 Markdown 即不支援合併儲存格功能），因此需要自訂表格樣式。參考如下程式碼，並以黑白為設計樣式。
-Source: <a href="https://codepen.io/cssgrid/pen/pRXQzW">https://codepen.io/cssgrid/pen/pRXQzW</a>
-Source: <a href="https://pjchender.blogspot.com/2015/12/table-with-border-radius.html">https://pjchender.blogspot.com/2015/12/table-with-border-radius.html</a></li>
-</ul>
+<li><p>Table 相關 css 修改〈已完成 2019.4.13〉</p>
+
+<p>Hugo 支援使用 Markdown 語法建立的表格（但原始 Markdown 即不支援合併儲存格功能），因此需要自訂表格樣式。參考如下程式碼，並以黑白為設計樣式。</p>
+
+<p>Source: <a href="https://codepen.io/cssgrid/pen/pRXQzW">https://codepen.io/cssgrid/pen/pRXQzW</a></p>
+
+<p>Source: <a href="https://pjchender.blogspot.com/2015/12/table-with-border-radius.html">https://pjchender.blogspot.com/2015/12/table-with-border-radius.html</a></p>
 
 <pre><code>{
   box-sizing: border-box;
@@ -294,13 +300,13 @@ td:last-child{
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
 }
-</code></pre>
+</code></pre></li>
 
-<ul>
-<li>Table css 修改後，思考如何變成 Responsive〈已完成 2019.4.13〉
-本次採用若寬度小於表格寬度，則出現橫向 scroll bar 的方式，一方面是考慮資訊的完整性（以提供資訊為主的寫作方向），同時也能夠影響到最少的版型，構思的時候，有想到符碼記憶的表現方式。
-Source: <a href="https://codepen.io/cssgrid/pen/pRXQzW">https://codepen.io/cssgrid/pen/pRXQzW</a></li>
-</ul>
+<li><p>Table css 修改後，思考如何變成 Responsive〈已完成 2019.4.13〉</p>
+
+<p>本次採用若寬度小於表格寬度，則出現橫向 scroll bar 的方式，一方面是考慮資訊的完整性（以提供資訊為主的寫作方向），同時也能夠影響到最少的版型，構思的時候，有想到符碼記憶的表現方式。</p>
+
+<p>Source: <a href="https://codepen.io/cssgrid/pen/pRXQzW">https://codepen.io/cssgrid/pen/pRXQzW</a></p>
 
 <pre><code>table {
   margin: auto;
@@ -311,14 +317,15 @@ Source: <a href="https://codepen.io/cssgrid/pen/pRXQzW">https://codepen.io/cssgr
   max-width: 100%;
   box-shadow: 0 0 1px 1px rgba(0, 0, 0, .1);
 }
-</code></pre>
+</code></pre></li>
 
-<ul>
-<li>作者下面增加 Categories 欄位〈已完成 2019.4.9〉</li>
-<li>連外網頁自動開新視窗〈已完成 2019.4.8〉
-在頁尾 <code>&lt;/body&gt;</code> 前面加上以下程式碼
-參考來源：<a href="https://gist.github.com/CrocoDillon/7989214">https://gist.github.com/CrocoDillon/7989214</a></li>
-</ul>
+<li><p>作者下面增加 Categories 欄位〈已完成 2019.4.9〉</p></li>
+
+<li><p>連外網頁自動開新視窗〈已完成 2019.4.8〉</p>
+
+<p>在頁尾 <code>&lt;/body&gt;</code> 前面加上以下程式碼</p>
+
+<p>Source：<a href="https://gist.github.com/CrocoDillon/7989214">https://gist.github.com/CrocoDillon/7989214</a></p>
 
 <pre><code>&lt;!--判斷網域後外連網址--&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
@@ -329,15 +336,19 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     } 
   }
 &lt;/script&gt;
-</code></pre>
+</code></pre></li>
 
-<ul>
-<li>左上角的 logo 改連至部落格主頁〈已完成 2019.4.8〉
-暫時使用絕對路徑後面連綴 <code>/blog/</code></li>
-<li>本文內的超連結改為黑色字體，主色的底線，移動過去後改變字體顏色（參考報導者網站後的想法）〈已完成 2019.4.8〉
-透過 css 單獨設定文章區塊的 <code>a</code> 以及 <code>a:hover</code></li>
-<li>LINE 的分享按鈕製作〈已完成 2019.4.7〉
-<a href="https://org-media.line.me/zh_TW/how_to_install#lineitbutton">https://org-media.line.me/zh_TW/how_to_install#lineitbutton</a></li>
+<li><p>左上角的 logo 改連至部落格主頁〈已完成 2019.4.8〉</p>
+
+<p>暫時使用絕對路徑後面連綴 <code>/blog/</code></p></li>
+
+<li><p>本文內的超連結改為黑色字體，主色的底線，移動過去後改變字體顏色（參考報導者網站後的想法）〈已完成 2019.4.8〉</p>
+
+<p>透過 css 單獨設定文章區塊的 <code>a</code> 以及 <code>a:hover</code></p></li>
+
+<li><p>LINE 的分享按鈕製作〈已完成 2019.4.7〉</p>
+
+<p>Source: <a href="https://org-media.line.me/zh_TW/how_to_install#lineitbutton">https://org-media.line.me/zh_TW/how_to_install#lineitbutton</a></p></li>
 </ul>
 
 <hr />
@@ -357,15 +368,6 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
 <li><a href="http://note.qidong.name/2017/10/hugo-taxonomy/">http://note.qidong.name/2017/10/hugo-taxonomy/</a></li>
 <li><a href="https://gohugo.io/functions/">https://gohugo.io/functions/</a></li>
 </ul>
-
-<hr />
-
-<p>點擊進入頁面，訂閱電子報
-由「Herearoma 循香匯」與「未來 Liu.me」作者共同出版的電子報，進入頁面下方後填寫資料，就可以立即訂閱囉！willliu.me
-【喜歡我文章的你/妳，可以…】用力拍手，也可以到最下方訂閱最新文章與資訊，或者使用更實際的方式透過「街口支付」請我喝飲料（贊助金額由您決定）！讓我能持續跟你分享更多好的觀點。如果您不知道怎麼使用，請參考小額贊助，大大動力：使用「街口支付」。
-想好贊助金額的朋友，請直接打開街口支付 App 掃描右下 QRCode，即可請我喝飲料囉！
-小額贊助，大大動力：使用「街口支付」
-三大 Pay 帶動行動支付在台灣闖出一片天，其實也有很多本土業者推出掃碼的行動支付服務，街口支付就是這樣的一個服務。medium.com</p>
 
 
                     </div>
