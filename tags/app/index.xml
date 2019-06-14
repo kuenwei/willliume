@@ -8,9 +8,7 @@
     <language>zh-tw</language>
     <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
     <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://willliu.me/tags/app/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://willliu.me/tags/app/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>我使用的服務/工具一覽</title>
@@ -18,7 +16,111 @@
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://willliu.me/blog/my-tools-and-services-list/</guid>
-      <description>我訂閱的服務 Notion（於 2019.6.3 開始年度訂閱[以 Credit 折抵 USD$48]） 愛奇藝 一年（已於 2018.11.27 購買一年期[TWD$990]，2018.3.20購買一年期[$1899]） LINE Mobile 211（2018.11.11 綁約一年，到期後費率不變[TWD$211]） LINE Mobile 111（20</description>
+      <description>
+        
+
+&lt;h2 id=&#34;我訂閱的服務&#34;&gt;我訂閱的服務&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Notion（於 2019.6.3 開始年度訂閱[以 Credit 折抵 USD$48]）&lt;/li&gt;
+&lt;li&gt;愛奇藝 一年（已於 2018.11.27 購買一年期[TWD$990]，2018.3.20購買一年期[$1899]）&lt;/li&gt;
+&lt;li&gt;LINE Mobile 211（2018.11.11 綁約一年，到期後費率不變[TWD$211]）&lt;/li&gt;
+&lt;li&gt;LINE Mobile 111（2018.11.11 綁約一年，到期後費率不變[TWD$111]）&lt;/li&gt;
+&lt;li&gt;中華電信 月租（2018.3.19 綁約兩年[TWD$499-&amp;gt;TWD$599]）&lt;/li&gt;
+&lt;li&gt;iCloud 200G 月租（2018.2.27 起月度訂閱[TWD$90]）&lt;/li&gt;
+&lt;li&gt;Spotify 月租（2018.2.25 起月度訂閱[TWD$149]，2017.11.22 試用三個月優惠方案[USD$19]）&lt;/li&gt;
+&lt;li&gt;JustFont（2018.12.24 首次續約，於 2017.12.24 開始年度訂閱，企業方案年繳[TWD$588]）&lt;/li&gt;
+&lt;li&gt;得到（專欄式訂閱。2018.1.31 怎样成为演讲高手[RMB$9.99]，2017.10.16 5 分钟商学院-实战[RMB$199]，2017.9.2 如何成为有效学习高手[RMB$9.99]，2017.9.2 每天听本书 VIP 年度会员[RMB$335]，2017.7.18 武志红的心理学课[RMB$199]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Medium 一年&lt;/del&gt;（於 2019.3.16 終止，2018.3.16 購買一年期[USD$50]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Bear 一年&lt;/del&gt;（於 2018.12 終止，2017.12.23 年度訂閱[$470]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;台灣之星 188 月租&lt;/del&gt;（於 2018.11.12 終止，2017.11.11 雙十一優惠月租[TWD$211]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;MeisterTask 一年&lt;/del&gt;（於 2018.11 終止，免付費優惠方案）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;爱奇艺 一年&lt;/del&gt;（於 2019.3.19 終止，於 2018.3.20 購買一年期[TWD$1140]）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;使用的免費服務&#34;&gt;使用的免費服務&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Newsleopard（免費試用至 2019.6.12 到期）&lt;/li&gt;
+&lt;li&gt;ATracker（免費試用至 2019.6.5 到期，評估是否訂閱中, NTD 860 / 年）&lt;/li&gt;
+&lt;li&gt;Yandex（Customized Domain Email）&lt;/li&gt;
+&lt;li&gt;Inoreader&lt;/li&gt;
+&lt;li&gt;Github/Github Page&lt;/li&gt;
+&lt;li&gt;Po.st&lt;/li&gt;
+&lt;li&gt;OneDrive&lt;/li&gt;
+&lt;li&gt;Dropbox Basic&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Upscribe&lt;/del&gt;（已停止使用）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;WordPlus&lt;/del&gt;（已停止使用）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Bitly&lt;/del&gt;（已停止使用）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Blogger&lt;/del&gt;（已停止使用）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Tumblr&lt;/del&gt;（已停止使用）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;購買的-app&#34;&gt;購買的 App&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;長圖拼接（2019.4.19 購入[TWD$90]）&lt;/li&gt;
+&lt;li&gt;ATracker Pro（2018.10.25 購入[TWD$150]）&lt;/li&gt;
+&lt;li&gt;MWeb 3 Mac 版（2018.7.21 購入，新上市優惠半價[TWD$270]）&lt;/li&gt;
+&lt;li&gt;MWeb 3 iOS 版（2019.5.29 購入，優惠半價期[TWD$170]）&lt;/li&gt;
+&lt;li&gt;SublimeText 3（2018.4.28 購入[USD$80]）&lt;/li&gt;
+&lt;li&gt;SimpleMind+（2017.11.24 購入 Mac 版[TWD$890]，2017.9.12 購入 iOS 版[TWD$150]）&lt;/li&gt;
+&lt;li&gt;PDF Expert（2017.11.24 購入，Black Friday Bundle by Readdle[TWD$50]）&lt;/li&gt;
+&lt;li&gt;Scanner Pro（2017.11.24 購入，Black Friday Bundle by Readdle[TWD$50]）&lt;/li&gt;
+&lt;li&gt;Printer Pro（2017.11.24 購入，Black Friday Bundle by Readdle[TWD$0]）&lt;/li&gt;
+&lt;li&gt;TextPad（2017.10.20 購入[TWD$450]）&lt;/li&gt;
+&lt;li&gt;Noteshelf 2（2017.10.17 購入，新上市優惠半價[TWD$150]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Calendar 5：自然語言輸入&lt;/del&gt;（已停止使用，2017.11.24 購入，Black Friday Bundle by Readdle[TWD$50]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;番茄清單&lt;/del&gt;（已停止使用，2016.12.23 購入[TWD$30]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;瘋狂番茄：無法紀錄零碎時間&lt;/del&gt;（已停止使用，2016.12.23 購入 Mac 版[TWD$120]）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;硬體工具&#34;&gt;硬體工具&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Monitormate M2 Cube MacBook Pro USB-C 充電轉接器（2019.6.11 購入[TWD$1173]）&lt;/li&gt;
+&lt;li&gt;BASEUS 倍思 極速系列 一拖三數據線(1.2m)（2019.6.11 購入[TWD$304]）&lt;/li&gt;
+&lt;li&gt;Keychron K1 v2 無線機械式鍵盤，限量早鳥搶購中！ - 英文版｜104 鍵 RGB 彩色背光燈版 * 1（2019.6.11 購入[TWD$3090]）&lt;/li&gt;
+&lt;li&gt;充電器 ADAM OMNIA P5 + PeAK II C120B USB to Lightning Cable （2019.6.10 購入[TWD$1390])&lt;/li&gt;
+&lt;li&gt;Moshi Integra USB-C to USB-C 充電/傳輸編織線（2019.6.10 購入[TWD$690]）&lt;/li&gt;
+&lt;li&gt;iPad Pro 12.9 SMART KEYBOARD FOLIO（2019.4.15 購入[TWD$6490/MPP]）&lt;/li&gt;
+&lt;li&gt;iPad Pro 12.9 WIFI 256GB SPACE GRAY（2019.4.13 購入[TWD$38900/MPP]）&lt;/li&gt;
+&lt;li&gt;Apple Pencil 2ND GEN（2019.4.13 購入[TWD$3560/MPP]）&lt;/li&gt;
+&lt;li&gt;iPhone Xs 64G（2018.9.21 購入[TWD$35900/MPP]）&lt;/li&gt;
+&lt;li&gt;Apple Pencil（感恩同事贈送）&lt;/li&gt;
+&lt;li&gt;iPad Pro 2017 10.5 WIFI 256GB GOLD（2017.8.11 購入[TWD$23900]）&lt;/li&gt;
+&lt;li&gt;iPad Pro 2017 10.5 SMART KEYBOARD（2017.8.11 購入[TWD$4990]）&lt;/li&gt;
+&lt;li&gt;MacBook Pro 2017 13（2017.11.15 購入[TWD$51412]）&lt;/li&gt;
+&lt;li&gt;ThinkPad E540（影片剪接用）&lt;/li&gt;
+&lt;li&gt;MacBook Air 2011 13（文書事務用）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;iPhone 6 Plus&lt;/del&gt;（2018.9.21 已停止使用，已售出）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;網路免費工具&#34;&gt;網路免費工具&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;QR Code 產生器：QRCode Monkey&lt;/li&gt;
+&lt;li&gt;Embed.ly&lt;/li&gt;
+&lt;li&gt;日文可商用字型：Font Bear&lt;/li&gt;
+&lt;li&gt;全字庫&lt;/li&gt;
+&lt;li&gt;鄧文原：鄧僉事平安家書&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.canva.com/&#34;&gt;Canva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hootsuite Free Plan&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;社群經營&#34;&gt;社群經營&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Twitter&lt;/li&gt;
+&lt;li&gt;Facebook 個人頁&lt;/li&gt;
+&lt;li&gt;Facebook 社團&lt;/li&gt;
+&lt;li&gt;新浪微博&lt;/li&gt;
+&lt;li&gt;簡書&lt;/li&gt;
+&lt;li&gt;Medium&lt;/li&gt;
+&lt;li&gt;Instagram&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
     </item>
     
   </channel>

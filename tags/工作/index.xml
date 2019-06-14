@@ -8,9 +8,7 @@
     <language>zh-tw</language>
     <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
     <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://willliu.me/tags/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://willliu.me/tags/%E5%B7%A5%E4%BD%9C/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>將 Blogger 轉換至 Hugo（含優缺點評析）</title>
@@ -18,7 +16,107 @@
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://willliu.me/blog/digital-blogger-transfer-to-hugo/</guid>
-      <description>圖片來源：rawpixel.com @ PEXEL 近年許多新興語言興起，Go語言（golang）就是其中一款，能夠快速的編譯出靜態網頁，加上許多開源性的平台以及網路資源，提供了更好網站架設方式，經過許多評估與思考，決定要將自己網站打掉重練，來看看我的思考過程以及優</description>
+      <description>
+        
+
+&lt;h5 id=&#34;圖片來源-rawpixel-com-pexel-https-www-pexels-com-rawpixel&#34;&gt;圖片來源：&lt;a href=&#34;https://www.pexels.com/@rawpixel&#34;&gt;rawpixel.com @ PEXEL&lt;/a&gt;&lt;/h5&gt;
+
+&lt;h4 id=&#34;近年許多新興語言興起-go語言-golang-就是其中一款-能夠快速的編譯出靜態網頁-加上許多開源性的平台以及網路資源-提供了更好網站架設方式-經過許多評估與思考-決定要將自己網站打掉重練-來看看我的思考過程以及優缺點在哪呢&#34;&gt;近年許多新興語言興起，Go語言（golang）就是其中一款，能夠快速的編譯出靜態網頁，加上許多開源性的平台以及網路資源，提供了更好網站架設方式，經過許多評估與思考，決定要將自己網站打掉重練，來看看我的思考過程以及優缺點在哪呢？&lt;/h4&gt;
+
+&lt;p&gt;最近花了一點時間，將原本架設在 Blogger 的網站，全數都轉使用 Hugo 的架構，並且利用 GitHub Pages 當作網頁伺服器，主要的三個網站：&lt;a href=&#34;https://www.herearoma.com&#34;&gt;循香匯&lt;/a&gt;、&lt;a href=&#34;https://blog.herearoma.com&#34;&gt;塔香食譜&lt;/a&gt;、&lt;a href=&#34;https://willliu.me/blog/&#34;&gt;未來 Liu.me&lt;/a&gt;，透過不同的版型全數上架。花了兩三個整天的時間，想說來特別來記錄一下。&lt;/p&gt;
+
+&lt;h2 id=&#34;為什麼想要換&#34;&gt;為什麼想要換&lt;/h2&gt;
+
+&lt;p&gt;更換的原因可以列出很多，但如果找一個最主要的原因，其實是需求上的改變。&lt;/p&gt;
+
+&lt;p&gt;其實寫部落格已經超過 10 年了（自 eyewithouts 第一篇文章 2006.12.6 開始，網站已封存），在那個還是學生的時代，其實也寫過不少所謂的爆文，6 年累積了 14 多萬的點閱數，不乏有單篇過萬。但隨著人生階段的改變，以及數位工具的演進，寫作時間、觀點與模式都已經有所不同。&lt;/p&gt;
+
+&lt;p&gt;從寫作時間來說，以往能夠有一段完整的時間寫作，加上充份的 Input 與 Output 的情況下，只要開啟平台，就能夠行雲流水的寫出來。但隨著工作的繁重，以及自我成長的議題改變，時間愈趨碎片化，要能夠有一個完整的時間好好寫作，已經相對困難。&lt;/p&gt;
+
+&lt;p&gt;另外一方面，在 Blog 盛行的年代，許多寫作者並沒有太多工具可以選擇，甚至部分需要透過 HTML 去完整一篇文章。但就像我說的，當我們時間碎片化，要能夠兼顧排版等等，其實更需要有效的管理工具，這一部分 Blogger 相對來說，就支援有限。&lt;/p&gt;
+
+&lt;p&gt;因為 Blogger 目前並沒有一個很好的官方寫作平台，尤其是沒有一個能夠適用於各種裝置的平台，除非我們透過第三方軟體，但這也不是我習慣的方式。&lt;/p&gt;
+
+&lt;p&gt;同時，隨著越來越龐大的版型，每一次的修改版型對我的技術限制來說，就是疊床架屋，要重新梳理又太曠日費時，因此起了打掉重練的念頭。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;選擇的重點&#34;&gt;選擇的重點&lt;/h2&gt;
+
+&lt;p&gt;決定打掉重練之後，就會有一個選擇的過程，而在每一次的選擇之中，都是重新思考的需求的契機。&lt;/p&gt;
+
+&lt;p&gt;我這次的轉變，需求是：
+1. 簡單：操作與版型的調整簡單，所謂的簡單是在既有能力之下好操作。
+2. 方便：能夠適應新的書寫模式，並且打破書寫時間、環境的限制。
+3. 乾淨：讓閱讀者有良好的經驗，乾淨與跨裝飾自適應的版面。&lt;/p&gt;
+
+&lt;p&gt;因為我實際的需求，並不是要架設一個複雜的網站，加上希望在成本低廉的情況下進行，所以能夠有免費資源可能是最重要的。&lt;/p&gt;
+
+&lt;p&gt;很開心現在的網路環境更加開放，以前要找個免費空間，不是被廣告綁架，就是有很多限制。現在開源的概念下，有了 GitHub 這個很棒的服務，能夠架設靜態網站架構，雖然會讓程式碼開源（可以加購 Pro 版改變隱私權），但因本來我所有東西都是公開的，就少了這層疑慮。&lt;/p&gt;
+
+&lt;p&gt;經過許多評估，期間看過 Wordpress、Jekyll 或者參考 Blogger 其他簡潔的版型，最後終於在看到 Hugo 的時候，找到了想要嘗試看看的標的。&lt;/p&gt;
+
+&lt;p&gt;選擇 Hugo 大致上已經滿足了以上的我的需求，其中一個就是書寫的環境，我近年使用 Markdown 的頻率增加，Hugo 可以完全支持 Markdown 並透過 CSS 設定格式，真的是大獲我心。&lt;/p&gt;
+
+&lt;p&gt;加上配置簡單，這兩點讓我最終在現行的需求下，選擇了 Hugo。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;更換後的感覺&#34;&gt;更換後的感覺&lt;/h2&gt;
+
+&lt;p&gt;更換最痛苦的就是搬文章的過程，但好處是有重新省視的機會，還好 Hugo 兼容 Markdown 與 HTML，讓我不用每一篇都要重新用 Markdown 的方式編輯，這好像也是 Markdown 原生就可以跟 HTML 共生。&lt;/p&gt;
+
+&lt;p&gt;不過，在使用軟體與服務上面則大幅改變，也幫助我重新梳理我的數位工作型態，以往習慣寫好後用 Blogger 透過 HTML 完整編輯的方式，有了全新的套路。&lt;/p&gt;
+
+&lt;h3 id=&#34;編輯流程&#34;&gt;編輯流程&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;書寫：MWeb&lt;/li&gt;
+&lt;li&gt;排版：Sublime Text&lt;/li&gt;
+&lt;li&gt;轉譯：Hugo&lt;/li&gt;
+&lt;li&gt;上傳：GitHub Desktop&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;圖床&#34;&gt;圖床&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;根圖床：GitHub Page（與網站存放空間相同）&lt;/li&gt;
+&lt;li&gt;主圖床：imgbox（大型圖檔使用）&lt;/li&gt;
+&lt;li&gt;次圖床：imgur（備份用）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;小提醒：圖片還是要在自己電腦中留一份。&lt;/p&gt;
+
+&lt;p&gt;其實這個新的流程，產生了一個新的數位寫作以及網站經營的模式，未來也會一一上述的軟體或者服務（Hugo已於這篇概述）來介紹一下。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;優缺點評析&#34;&gt;優缺點評析&lt;/h2&gt;
+
+&lt;p&gt;優點&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;能使用 Markdown 書寫，同時兼容 HTML&lt;/li&gt;
+&lt;li&gt;轉換成網頁的速度極快&lt;/li&gt;
+&lt;li&gt;提供模組並且簡單的客製化&lt;/li&gt;
+&lt;li&gt;CSS、HTML 技巧的沿用&lt;/li&gt;
+&lt;li&gt;多元的版型可以使用&lt;/li&gt;
+&lt;li&gt;靜態網頁的免費空間好找&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;缺點&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;靜態網頁生成，沒有互動性&lt;/li&gt;
+&lt;li&gt;互動要靠外掛模組，例如 DISQUS&lt;/li&gt;
+&lt;li&gt;模板外的模組，需要自己增建，不小心容易疊床架屋&lt;/li&gt;
+&lt;li&gt;版型多元但豐富性不足&lt;/li&gt;
+&lt;li&gt;進階的功能需要高度程式能力&lt;/li&gt;
+&lt;li&gt;需要另外安裝在本機去執行轉譯&lt;/li&gt;
+&lt;li&gt;要能夠完整的發布，需要自己配置伺服器設定&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
     </item>
     
     <item>
@@ -27,7 +125,111 @@
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://willliu.me/blog/my-tools-and-services-list/</guid>
-      <description>我訂閱的服務 Notion（於 2019.6.3 開始年度訂閱[以 Credit 折抵 USD$48]） 愛奇藝 一年（已於 2018.11.27 購買一年期[TWD$990]，2018.3.20購買一年期[$1899]） LINE Mobile 211（2018.11.11 綁約一年，到期後費率不變[TWD$211]） LINE Mobile 111（20</description>
+      <description>
+        
+
+&lt;h2 id=&#34;我訂閱的服務&#34;&gt;我訂閱的服務&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Notion（於 2019.6.3 開始年度訂閱[以 Credit 折抵 USD$48]）&lt;/li&gt;
+&lt;li&gt;愛奇藝 一年（已於 2018.11.27 購買一年期[TWD$990]，2018.3.20購買一年期[$1899]）&lt;/li&gt;
+&lt;li&gt;LINE Mobile 211（2018.11.11 綁約一年，到期後費率不變[TWD$211]）&lt;/li&gt;
+&lt;li&gt;LINE Mobile 111（2018.11.11 綁約一年，到期後費率不變[TWD$111]）&lt;/li&gt;
+&lt;li&gt;中華電信 月租（2018.3.19 綁約兩年[TWD$499-&amp;gt;TWD$599]）&lt;/li&gt;
+&lt;li&gt;iCloud 200G 月租（2018.2.27 起月度訂閱[TWD$90]）&lt;/li&gt;
+&lt;li&gt;Spotify 月租（2018.2.25 起月度訂閱[TWD$149]，2017.11.22 試用三個月優惠方案[USD$19]）&lt;/li&gt;
+&lt;li&gt;JustFont（2018.12.24 首次續約，於 2017.12.24 開始年度訂閱，企業方案年繳[TWD$588]）&lt;/li&gt;
+&lt;li&gt;得到（專欄式訂閱。2018.1.31 怎样成为演讲高手[RMB$9.99]，2017.10.16 5 分钟商学院-实战[RMB$199]，2017.9.2 如何成为有效学习高手[RMB$9.99]，2017.9.2 每天听本书 VIP 年度会员[RMB$335]，2017.7.18 武志红的心理学课[RMB$199]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Medium 一年&lt;/del&gt;（於 2019.3.16 終止，2018.3.16 購買一年期[USD$50]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Bear 一年&lt;/del&gt;（於 2018.12 終止，2017.12.23 年度訂閱[$470]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;台灣之星 188 月租&lt;/del&gt;（於 2018.11.12 終止，2017.11.11 雙十一優惠月租[TWD$211]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;MeisterTask 一年&lt;/del&gt;（於 2018.11 終止，免付費優惠方案）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;爱奇艺 一年&lt;/del&gt;（於 2019.3.19 終止，於 2018.3.20 購買一年期[TWD$1140]）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;使用的免費服務&#34;&gt;使用的免費服務&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Newsleopard（免費試用至 2019.6.12 到期）&lt;/li&gt;
+&lt;li&gt;ATracker（免費試用至 2019.6.5 到期，評估是否訂閱中, NTD 860 / 年）&lt;/li&gt;
+&lt;li&gt;Yandex（Customized Domain Email）&lt;/li&gt;
+&lt;li&gt;Inoreader&lt;/li&gt;
+&lt;li&gt;Github/Github Page&lt;/li&gt;
+&lt;li&gt;Po.st&lt;/li&gt;
+&lt;li&gt;OneDrive&lt;/li&gt;
+&lt;li&gt;Dropbox Basic&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Upscribe&lt;/del&gt;（已停止使用）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;WordPlus&lt;/del&gt;（已停止使用）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Bitly&lt;/del&gt;（已停止使用）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Blogger&lt;/del&gt;（已停止使用）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Tumblr&lt;/del&gt;（已停止使用）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;購買的-app&#34;&gt;購買的 App&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;長圖拼接（2019.4.19 購入[TWD$90]）&lt;/li&gt;
+&lt;li&gt;ATracker Pro（2018.10.25 購入[TWD$150]）&lt;/li&gt;
+&lt;li&gt;MWeb 3 Mac 版（2018.7.21 購入，新上市優惠半價[TWD$270]）&lt;/li&gt;
+&lt;li&gt;MWeb 3 iOS 版（2019.5.29 購入，優惠半價期[TWD$170]）&lt;/li&gt;
+&lt;li&gt;SublimeText 3（2018.4.28 購入[USD$80]）&lt;/li&gt;
+&lt;li&gt;SimpleMind+（2017.11.24 購入 Mac 版[TWD$890]，2017.9.12 購入 iOS 版[TWD$150]）&lt;/li&gt;
+&lt;li&gt;PDF Expert（2017.11.24 購入，Black Friday Bundle by Readdle[TWD$50]）&lt;/li&gt;
+&lt;li&gt;Scanner Pro（2017.11.24 購入，Black Friday Bundle by Readdle[TWD$50]）&lt;/li&gt;
+&lt;li&gt;Printer Pro（2017.11.24 購入，Black Friday Bundle by Readdle[TWD$0]）&lt;/li&gt;
+&lt;li&gt;TextPad（2017.10.20 購入[TWD$450]）&lt;/li&gt;
+&lt;li&gt;Noteshelf 2（2017.10.17 購入，新上市優惠半價[TWD$150]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Calendar 5：自然語言輸入&lt;/del&gt;（已停止使用，2017.11.24 購入，Black Friday Bundle by Readdle[TWD$50]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;番茄清單&lt;/del&gt;（已停止使用，2016.12.23 購入[TWD$30]）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;瘋狂番茄：無法紀錄零碎時間&lt;/del&gt;（已停止使用，2016.12.23 購入 Mac 版[TWD$120]）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;硬體工具&#34;&gt;硬體工具&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Monitormate M2 Cube MacBook Pro USB-C 充電轉接器（2019.6.11 購入[TWD$1173]）&lt;/li&gt;
+&lt;li&gt;BASEUS 倍思 極速系列 一拖三數據線(1.2m)（2019.6.11 購入[TWD$304]）&lt;/li&gt;
+&lt;li&gt;Keychron K1 v2 無線機械式鍵盤，限量早鳥搶購中！ - 英文版｜104 鍵 RGB 彩色背光燈版 * 1（2019.6.11 購入[TWD$3090]）&lt;/li&gt;
+&lt;li&gt;充電器 ADAM OMNIA P5 + PeAK II C120B USB to Lightning Cable （2019.6.10 購入[TWD$1390])&lt;/li&gt;
+&lt;li&gt;Moshi Integra USB-C to USB-C 充電/傳輸編織線（2019.6.10 購入[TWD$690]）&lt;/li&gt;
+&lt;li&gt;iPad Pro 12.9 SMART KEYBOARD FOLIO（2019.4.15 購入[TWD$6490/MPP]）&lt;/li&gt;
+&lt;li&gt;iPad Pro 12.9 WIFI 256GB SPACE GRAY（2019.4.13 購入[TWD$38900/MPP]）&lt;/li&gt;
+&lt;li&gt;Apple Pencil 2ND GEN（2019.4.13 購入[TWD$3560/MPP]）&lt;/li&gt;
+&lt;li&gt;iPhone Xs 64G（2018.9.21 購入[TWD$35900/MPP]）&lt;/li&gt;
+&lt;li&gt;Apple Pencil（感恩同事贈送）&lt;/li&gt;
+&lt;li&gt;iPad Pro 2017 10.5 WIFI 256GB GOLD（2017.8.11 購入[TWD$23900]）&lt;/li&gt;
+&lt;li&gt;iPad Pro 2017 10.5 SMART KEYBOARD（2017.8.11 購入[TWD$4990]）&lt;/li&gt;
+&lt;li&gt;MacBook Pro 2017 13（2017.11.15 購入[TWD$51412]）&lt;/li&gt;
+&lt;li&gt;ThinkPad E540（影片剪接用）&lt;/li&gt;
+&lt;li&gt;MacBook Air 2011 13（文書事務用）&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;iPhone 6 Plus&lt;/del&gt;（2018.9.21 已停止使用，已售出）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;網路免費工具&#34;&gt;網路免費工具&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;QR Code 產生器：QRCode Monkey&lt;/li&gt;
+&lt;li&gt;Embed.ly&lt;/li&gt;
+&lt;li&gt;日文可商用字型：Font Bear&lt;/li&gt;
+&lt;li&gt;全字庫&lt;/li&gt;
+&lt;li&gt;鄧文原：鄧僉事平安家書&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.canva.com/&#34;&gt;Canva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hootsuite Free Plan&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;社群經營&#34;&gt;社群經營&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Twitter&lt;/li&gt;
+&lt;li&gt;Facebook 個人頁&lt;/li&gt;
+&lt;li&gt;Facebook 社團&lt;/li&gt;
+&lt;li&gt;新浪微博&lt;/li&gt;
+&lt;li&gt;簡書&lt;/li&gt;
+&lt;li&gt;Medium&lt;/li&gt;
+&lt;li&gt;Instagram&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
     </item>
     
   </channel>
