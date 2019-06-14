@@ -203,8 +203,9 @@ If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will
 <pre><code>&lt;description&gt;{{ replaceRE &quot;img src=\&quot;(.*?)\&quot;&quot; (printf &quot;%s%s%s&quot; &quot;img src=\&quot;&quot; .Site.Params.blogimgdir &quot;$1\&quot;&quot;) .Content | html }}&lt;/description&gt;
 </code></pre>
 
-<p>Source: <a href="https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/">https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/</a>
-Source: <a href="https://ar.al/2018/07/01/refining-the-rss/">https://ar.al/2018/07/01/refining-the-rss/</a></p></li>
+<p>Source: <a href="https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/">https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/</a></p>
+
+<p>Source: <a href="https://ar.al/2018/07/01/refining-the-rss/">https://ar.al/2018/07/01/refining-the-rss/</a></p></li>
 
 <li><p>更新圖片為絕對路徑
 修改文章顯示文章的 partial HTML 內的 <code>{{ .Content }}</code> 如下。</p>

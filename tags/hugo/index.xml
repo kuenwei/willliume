@@ -61,8 +61,9 @@ If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will
 &lt;pre&gt;&lt;code&gt;&amp;lt;description&amp;gt;{{ replaceRE &amp;quot;img src=\&amp;quot;(.*?)\&amp;quot;&amp;quot; (printf &amp;quot;%s%s%s&amp;quot; &amp;quot;img src=\&amp;quot;&amp;quot; .Site.Params.blogimgdir &amp;quot;$1\&amp;quot;&amp;quot;) .Content | html }}&amp;lt;/description&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Source: &lt;a href=&#34;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&#34;&gt;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&lt;/a&gt;
-Source: &lt;a href=&#34;https://ar.al/2018/07/01/refining-the-rss/&#34;&gt;https://ar.al/2018/07/01/refining-the-rss/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&#34;&gt;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&#34;https://ar.al/2018/07/01/refining-the-rss/&#34;&gt;https://ar.al/2018/07/01/refining-the-rss/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;更新圖片為絕對路徑
 修改文章顯示文章的 partial HTML 內的 &lt;code&gt;{{ .Content }}&lt;/code&gt; 如下。&lt;/p&gt;
