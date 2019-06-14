@@ -208,16 +208,14 @@ Source: <a href="https://ar.al/2018/07/01/refining-the-rss/">https://ar.al/2018/
 修改文章顯示文章的 partial HTML 內的 <code>{{ .Content }}</code> 如下。</p>
 
 <pre><code>{{ replaceRE &quot;img src=\&quot;(.*?)\&quot;&quot; (printf &quot;%s%s%s&quot; &quot;img src=\&quot;&quot; .Site.Params.blogimgdir &quot;$1\&quot;&quot;) .Content | safeHTML }}
-</code></pre></li>
-</ul>
+</code></pre>
 
 <p>同時於 <code>config.toml</code> 增加函數</p>
 
-<pre><code>```
-[params]
+<pre><code>[params]
   blogimgdir = &quot;/blog/&quot;
-```
-</code></pre>
+</code></pre></li>
+</ul>
 
 <h2 id="未來-liu-me">未來 Liu.me</h2>
 

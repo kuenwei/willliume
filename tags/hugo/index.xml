@@ -66,16 +66,14 @@ Source: &lt;a href=&#34;https://ar.al/2018/07/01/refining-the-rss/&#34;&gt;https
 修改文章顯示文章的 partial HTML 內的 &lt;code&gt;{{ .Content }}&lt;/code&gt; 如下。&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;{{ replaceRE &amp;quot;img src=\&amp;quot;(.*?)\&amp;quot;&amp;quot; (printf &amp;quot;%s%s%s&amp;quot; &amp;quot;img src=\&amp;quot;&amp;quot; .Site.Params.blogimgdir &amp;quot;$1\&amp;quot;&amp;quot;) .Content | safeHTML }}
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;同時於 &lt;code&gt;config.toml&lt;/code&gt; 增加函數&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;```
-[params]
+&lt;pre&gt;&lt;code&gt;[params]
   blogimgdir = &amp;quot;/blog/&amp;quot;
-```
-&lt;/code&gt;&lt;/pre&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;未來-liu-me&#34;&gt;未來 Liu.me&lt;/h2&gt;
 
