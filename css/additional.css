@@ -73,6 +73,7 @@
 .related-post h3 {
   font-family:  jf-jinxuan, sans-serif !important;
   font-weight: 600;
+  margin-bottom: 15px;
 }   
 .related-post ul{
   width:100%;
@@ -82,7 +83,6 @@
 .related-post li{
   width:33%;
   padding: 0px 5px;
-  margin-bottom: 10px;
   float:left;
   display:block;
 }
@@ -91,6 +91,7 @@
   min-height: 3.5em;
   height: auto;
   padding: 5px;
+  padding-bottom: 0px;
   text-align: center;
 }
 .related-post li a {
