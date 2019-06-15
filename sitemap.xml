@@ -88,6 +88,11 @@
   </url>
   
   <url>
+    <loc>https://willliu.me/blog/book-the-untethered-soul-the-journey-beyond-yourself/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/blog/book-guideline-for-a-nice-guy/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
@@ -304,6 +309,12 @@
   </url>
   
   <url>
+    <loc>https://willliu.me/categories/%E6%B4%BB%E5%8B%95/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/tags/%E6%B5%81%E5%8B%95/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -311,6 +322,12 @@
   
   <url>
     <loc>https://willliu.me/categories/%E7%86%B1%E9%BB%9E/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E7%99%82%E7%99%92/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -386,6 +403,12 @@
   </url>
   
   <url>
+    <loc>https://willliu.me/tags/%E8%BA%AB%E5%BF%83%E9%9D%88/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/tags/%E8%BA%AB%E9%AB%94/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -405,7 +428,7 @@
   
   <url>
     <loc>https://willliu.me/categories/%E9%96%B1%E8%AE%80/</loc>
-    <lastmod>2019-04-05T15:25:19+08:00</lastmod>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -424,6 +447,12 @@
   <url>
     <loc>https://willliu.me/tags/%E9%9B%BB%E5%AD%90%E5%A0%B1/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/categories/%E9%9B%BB%E5%BD%B1/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
