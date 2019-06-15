@@ -637,7 +637,7 @@ iframe {
 }
 
 .related-post li{
-  width:100% !important;
+  width:33% !important;
   padding: 0px 5px;
   margin-bottom: 20px;
   float:left;
