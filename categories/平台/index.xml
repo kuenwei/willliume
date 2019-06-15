@@ -410,7 +410,7 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 
 &lt;h2 id=&#34;hugo-函數研究&#34;&gt;Hugo 函數研究&lt;/h2&gt;
 
-&lt;h2 id=&#34;replace&#34;&gt;Replace&lt;/h2&gt;
+&lt;h3 id=&#34;replace&#34;&gt;Replace&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/replacere/&#34;&gt;replaceRE&lt;/a&gt;：可以規則表達式當替代目標的&lt;/li&gt;

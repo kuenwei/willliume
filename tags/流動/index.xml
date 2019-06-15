@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>流動 on 未來 Liu.me</title>
+    <link>https://willliu.me/tags/%E6%B5%81%E5%8B%95/</link>
+    <description>Recent content in 流動 on 未來 Liu.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://willliu.me/tags/%E6%B5%81%E5%8B%95/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>整理跑道數位篇：部落格</title>
+      <link>https://willliu.me/blog/leave-medium-go-to-hugo/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://willliu.me/blog/leave-medium-go-to-hugo/</guid>
+        <description>
+
+&lt;h4 id=&#34;這是延續近一個月來的-流動-這個主題-剛好假期有比較多的時間-本來想好好整理家裡-但一看到自己寫作的地方很亂-沒有組織-剛好順勢有一個比較長的時間-順勢整理起來-以下是一點心得&#34;&gt;這是延續近一個月來的「流動」這個主題，剛好假期有比較多的時間，本來想好好整理家裡，但一看到自己寫作的地方很亂、沒有組織，剛好順勢有一個比較長的時間，順勢整理起來。以下是一點心得。&lt;/h4&gt;
+
+&lt;p&gt;雖然大家都說斜槓青年是近年流行的風潮，但因為嘗試了很多東西，加上跨界蠻大的，所以一直都維持平行的分享方式，把不同的主題放在不同的地方，讓彼此不太衝突。&lt;/p&gt;
+
+&lt;p&gt;漸漸的就有了四、五個放文章的地方，看起來好像很多東西，其實實際上因為紊亂，所以每次想到要管理跟分類，就會覺得還沒動手已經先累！&lt;/p&gt;
+
+&lt;p&gt;另外一方面，近年來社群的興起，自媒體的興盛，行銷已經不是注重分門別類的時代，更重要的是「個人品牌」，以人為主題的重要性已經漸漸地超越了，以不同分類為主體。&lt;/p&gt;
+
+&lt;p&gt;而許多不同平台的部落格，反而讓自己寫作上面，一次都要轉好多回，有些平台可以適用的方式，轉到了另外一個平台，就變得需要微幅修改，例如 Medium 就是一個對於格式限制比較多，且不開放自訂的系統；Blogger 的編輯器較舊，同時無法支援行動裝置；純網頁 HTML 的不靈活等等。&lt;/p&gt;
+
+&lt;p&gt;當我在進行流動的第一步「清理庫存」的時候，順勢想要一起解決這一部分。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;齊一-精簡-強化&#34;&gt;齊一、精簡、強化&lt;/h2&gt;
+
+&lt;p&gt;在這樣的背景思考下，還沒動手就已經學得很累，看起來是一個很嚴重的問題，要怎麼能更省力，掌握人從一開始到感覺疲累的時間差，這件事情就至關重要。&lt;/p&gt;
+
+&lt;p&gt;回到品牌創造的原始概念，其實我的重點在「創粉」，找到屬於自己的粉絲，在背後依歸的品牌是「我這個人」，因此重點要回歸到，創造「我」的價值以內容，不再以創造哪個議題為主要思考。&lt;/p&gt;
+
+&lt;p&gt;根據這兩個基礎的思考，具體就能夠條列幾項目標：
+1. 齊一流程：包含未來管理、創作流程；
+2. 精簡平台：方便別人找到我，發現我；
+3. 強化內容：內容才是王道，質量並行。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;hugo-成為了目前的藥方&#34;&gt;Hugo 成為了目前的藥方&lt;/h2&gt;
+
+&lt;p&gt;這一篇主要是談論數位化的內容精簡，尤其在原本的部落格上面著手，總計我大概花了 12 小時（當然之前已經開始做了一點，只是自己沒有意識到），重新形塑了平台與流程。&lt;/p&gt;
+
+&lt;p&gt;這次的最大的重點是「把所有部落格移至同一個平台」，以往分佈在 Blogger（出發地有情感的依據捨不得放棄）、Medium（希望享受社群的沒好，也喜歡簡潔的頁面）、HTML（希望維持簡單方便的平台 WordPlus.Host）。&lt;/p&gt;
+
+&lt;p&gt;這些雜亂的平台，在今天都已經移到了 Hugo 平台之上，目前暫時透過 Github Page 架設，等有一天需要大流量的時候，會在近一步思考下一階段的系統規劃與轉型。剛好這幾天看到有一個很類似 Medium 的版型（&lt;a href=&#34;https://themes.gohugo.io/mediumish-gohugo-theme/），剛好補足了對於不順手的地方想修改的慾望。&#34;&gt;https://themes.gohugo.io/mediumish-gohugo-theme/），剛好補足了對於不順手的地方想修改的慾望。&lt;/a&gt;
+之前有一篇轉換以 Hugo 為主要平台，大概有把相關優點說明了，畢竟我目前正逐漸以 Markdown 當作主要的寫作語法與工具，一直以來就是很喜觀能夠規格化的東西，莫名對美感的追求，可以參考為什麼我採用這樣的方式。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://willliu.me/blog/digital-blogger-transfer-to-hugo/?utm_source=willliume&amp;utm_campaign=innerline&#34;&gt;將 Blogger 轉換至 Hugo（含優缺點評析）&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;近年許多新興語言興起，Go語言（golang）就是其中一款，能夠快速的編譯出靜態網頁，加上許多開源性的平台以及網路資源，提供了更好網站架設方式，經過許多評估與思考，決定要將自己網站打掉重練，來看看我的思考過程以及優缺點在哪呢？&lt;/p&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;小結心得&#34;&gt;小結心得&lt;/h2&gt;
+
+&lt;p&gt;寫部落格已經超過 10 個年頭，記得是 2006 年就已經開始的活動，經歷過不同身份的轉換，到今（2019）年有了不同的想法與轉機，這也是上半年忽然想到以「流動」為主軸，重新檢視自己身邊生活的一切，更希望回到初衷的分享與記錄。&lt;/p&gt;
+
+&lt;p&gt;這次的重新整理，也讓我開始重拾紙筆（其實是手摸鍵盤）寫了幾篇文章，拿回了一個寫文架構，將會持續使用看看，希望有更多可以跟大家分享的時候，在用文章的方式呈現。&lt;/p&gt;
+
+&lt;p&gt;未來 Medium 將會著重在個人筆記，一切屬於想給自己看的東西，當然並行會有些心得與感想，受眾鎖定在我自己的暫存資料庫，同時也是透過這邊社群讓大家了解我的管道之一。想要看更多分享內容的，可以到：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;未來 Liu.me：&lt;a href=&#34;https://willliu.me&#34;&gt;https://willliu.me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;塔香食譜：&lt;a href=&#34;https://blog.he2.tw&#34;&gt;https://blog.he2.tw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;工作室：&lt;a href=&#34;https://he2.tw&#34;&gt;https://he2.tw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;寫作架構&#34;&gt;寫作架構&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;起：緣起(Why)&lt;/li&gt;
+&lt;li&gt;承：問題&amp;amp;目標(What)&lt;/li&gt;
+&lt;li&gt;轉：解決方法(How)&lt;/li&gt;
+&lt;li&gt;合：小結心得&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;而 Who, When, Where 其實會不斷穿插在這三者之間，不必然需要歸屬在任何一方。&lt;/p&gt;
+
+        </description>
+    </item>
+    
+  </channel>
+</rss>
