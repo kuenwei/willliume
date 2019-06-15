@@ -68,6 +68,11 @@
   </url>
   
   <url>
+    <loc>https://willliu.me/blog/book-review-tsai-dad-and-son/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/blog/my-tools-and-services-list/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
   </url>
@@ -219,6 +224,12 @@
   </url>
   
   <url>
+    <loc>https://willliu.me/tags/%E6%83%85%E7%B7%92%E9%9A%9C%E7%A4%99/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/categories/%E6%88%90%E9%95%B7/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -291,6 +302,18 @@
   <url>
     <loc>https://willliu.me/tags/%E8%85%B8%E9%81%93%E4%BF%9D%E5%81%A5/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E8%87%AA%E9%96%89%E7%97%87/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E8%A6%AA%E6%83%85/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
