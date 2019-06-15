@@ -146,25 +146,25 @@
 &lt;h2 id=&#34;hugo-重要設定-已完成&#34;&gt;Hugo 重要設定（已完成）&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;感謝 Google 大神，網路上找到了一段設定值，這個很有用，基本上同時解決了許多問題，包含(1)字數統計失真；(2)摘要擷取判斷錯誤。&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;感謝 Google 大神，網路上找到了一段設定值，這個很有用，基本上同時解決了許多問題，包含(1)字數統計失真；(2)摘要擷取判斷錯誤。&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;hasCJKLanguage (false)
 If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will make .Summary and .WordCount behave correctly for CJK languages.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;RSS 更新
-原 rss 僅顯示摘要，為了方便訂閱者閱讀，要做全文的更新，但遇到困難點：圖片需要改為絕對位置，不能使用相對位置。因此參考以下文章，並增修絕對路徑如下。&lt;/p&gt;
+&lt;li&gt;RSS 更新
+原 rss 僅顯示摘要，為了方便訂閱者閱讀，要做全文的更新，但遇到困難點：圖片需要改為絕對位置，不能使用相對位置。因此參考以下文章，並增修絕對路徑如下。
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;檔案的部分，需要放在你選用主題底下 &lt;code&gt;layouts/_default/rss.xml&lt;/code&gt;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;&amp;lt;description&amp;gt;{{ replaceRE &amp;quot;img src=\&amp;quot;(.*?)\&amp;quot;&amp;quot; (printf &amp;quot;%s%s%s&amp;quot; &amp;quot;img src=\&amp;quot;&amp;quot; .Site.Params.blogimgdir &amp;quot;$1\&amp;quot;&amp;quot;) .Content | html }}&amp;lt;/description&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Source: &lt;a href=&#34;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&#34;&gt;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&#34;https://ar.al/2018/07/01/refining-the-rss/&#34;&gt;https://ar.al/2018/07/01/refining-the-rss/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&#34;&gt;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&lt;/a&gt;
+Source: &lt;a href=&#34;https://ar.al/2018/07/01/refining-the-rss/&#34;&gt;https://ar.al/2018/07/01/refining-the-rss/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;更新圖片為絕對路徑
 修改文章顯示文章的 partial HTML 內的 &lt;code&gt;{{ .Content }}&lt;/code&gt; 如下。&lt;/p&gt;
@@ -177,6 +177,55 @@ If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will
 &lt;pre&gt;&lt;code&gt;[params]
   blogimgdir = &amp;quot;/blog/&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;相關文章&#34;&gt;相關文章&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;新增 partials HTML 檔案，原始檔案參考如下：
+Source: &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;https://gohugo.io/content-management/related/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;修改 CSS 樣式
+&lt;code&gt;
+.related-post {
+  width:100%;
+  height: auto;
+  float:left;
+  padding-top: 20px;
+}    
+.related-post h3 {
+  font-family:  jf-jinxuan, sans-serif !important;
+  font-weight: 600;
+}   
+.related-post ul{
+  width:100%;
+  list-style-position: inside;
+  padding-left: 0;
+}    
+.related-post li{
+  width:33%; // 一欄三列
+  padding: 0px 5px;
+  margin-bottom: 20px;
+  float:left;
+  display:block;
+}
+.related-post li p {
+  background-color: #333;
+  min-height: 3.5em;
+  height: auto;
+  padding: 5px;
+  text-align: center;
+}
+.related-post li a {
+  color: #fff;
+}
+.related-post img {
+  width: 100%;
+  max-height: 150px;
+  object-fit: cover; //圖片裁切
+}
+&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;增加 partial 檔案在想要出現的地方&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;未來-liu-me&#34;&gt;未來 Liu.me&lt;/h2&gt;
@@ -325,7 +374,7 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 
 &lt;h2 id=&#34;hugo-函數研究&#34;&gt;Hugo 函數研究&lt;/h2&gt;
 
-&lt;h3 id=&#34;replace&#34;&gt;Replace&lt;/h3&gt;
+&lt;h2 id=&#34;replace&#34;&gt;Replace&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/replacere/&#34;&gt;replaceRE&lt;/a&gt;：可以規則表達式當替代目標的&lt;/li&gt;
