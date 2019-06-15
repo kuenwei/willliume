@@ -98,7 +98,7 @@
 }
 .related-post img {
   width: 100%;
-  max-height: 150px;
+  max-height: 135px;
   object-fit: cover; /*magic*/
 }
 
