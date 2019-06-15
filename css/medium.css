@@ -635,6 +635,15 @@ iframe {
     background: rgba(0,0,0,0.75);
     color: #fff;
 }
+.related-post li{
+  width:100%;
+  padding: 0px 5px;
+  margin-bottom: 20px;
+  float:left;
+  display:block;
+}
+
+
 @media (min-width:768px) {
     .jumbotron.fortags {
         margin-bottom:-50px;
