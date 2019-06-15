@@ -98,6 +98,11 @@
   </url>
   
   <url>
+    <loc>https://willliu.me/blog/book-hiyawu-persecution-effect/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/blog/book-the-untethered-soul-the-journey-beyond-yourself/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
@@ -109,7 +114,7 @@
   
   <url>
     <loc>https://willliu.me/blog/my-library-books-shopping-record/</loc>
-    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -237,6 +242,12 @@
   <url>
     <loc>https://willliu.me/tags/%E5%A4%96%E6%96%87%E6%9B%B8/</loc>
     <lastmod>2019-04-05T15:25:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E5%A4%A7%E7%9C%BE%E5%B0%8F%E8%AA%AA/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
