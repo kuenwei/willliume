@@ -78,6 +78,11 @@
   </url>
   
   <url>
+    <loc>https://willliu.me/blog/book-murakami-haruki-wind-pinball/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/blog/book-review-tsai-dad-and-son/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
@@ -261,6 +266,12 @@
   </url>
   
   <url>
+    <loc>https://willliu.me/tags/%E6%84%9B%E6%83%85/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/categories/%E6%88%90%E9%95%B7/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -297,6 +308,12 @@
   </url>
   
   <url>
+    <loc>https://willliu.me/tags/%E6%97%A5%E6%96%87%E6%9B%B8/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/categories/%E6%9C%8D%E5%8B%99/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -305,6 +322,12 @@
   <url>
     <loc>https://willliu.me/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
