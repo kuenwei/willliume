@@ -88,10 +88,9 @@
 }
 .related-post li p {
   background-color: #333;
-  min-height: 3.5em;
+  min-height: 3.7em;
   height: auto;
   padding: 5px;
-  padding-bottom: 0px;
   text-align: center;
 }
 .related-post li a {
