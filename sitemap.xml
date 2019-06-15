@@ -78,12 +78,13 @@
   </url>
   
   <url>
-    <loc>https://willliu.me/blog/my-library-books-shopping-record/</loc>
+    <loc>https://willliu.me/blog/book-guideline-for-a-nice-guy/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://willliu.me/blog/15486077929217/</loc>
+    <loc>https://willliu.me/blog/my-library-books-shopping-record/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -306,6 +307,12 @@
   <url>
     <loc>https://willliu.me/tags/%E8%85%B8%E9%81%93%E4%BF%9D%E5%81%A5/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E8%87%AA%E6%88%91%E6%88%90%E9%95%B7/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
