@@ -727,5 +727,49 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
         </description>
     </item>
     
+    <item>
+      <title>[Sublime&#43;XeLatex] 安裝 package</title>
+      <link>https://willliu.me/blog/package-install-sublimetext-xelatex/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://willliu.me/blog/package-install-sublimetext-xelatex/</guid>
+        <description>
+
+&lt;h4 id=&#34;雖然土法煉鋼-還是想要紀錄跟分享&#34;&gt;雖然土法煉鋼，還是想要紀錄跟分享。&lt;/h4&gt;
+
+&lt;p&gt;自從開始使用 Macbook Pro 之後，就用最精簡以及方便的方式使用軟體，其中包含了直接使用 Sublime Text 3 + Latex + XeLatex + Skim 的方式，去製作文檔以及想要使用的簡報。&lt;/p&gt;
+
+&lt;p&gt;但因為 Latex 總是需要安裝很多封包，但以前 Latex 會自動安裝，但現在好像沒有這個功能，因此我找了一下，終於排除萬難的解決了這個問題。&lt;/p&gt;
+
+&lt;h2 id=&#34;使用方法&#34;&gt;使用方法&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;進入終端機&lt;/li&gt;
+&lt;li&gt;輸入 &lt;code&gt;sudo tlmgr update --self&lt;/code&gt;
+這邊可能會要輸入 Mac 使用者的密碼&lt;/li&gt;
+&lt;li&gt;輸入 &lt;code&gt;sudo tlmgr install packagename&lt;/code&gt;
+Packagename 是還沒有被安裝過的 Tex 巨集名稱，例如我這次要安裝的就是 framed 這個套件，就打入 &lt;code&gt;sudo tlmgr install framed&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;安裝完成&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;錯誤訊息&#34;&gt;錯誤訊息&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt; You don&#39;t have permission to change the installation in any way, specifically, the directory /usr/local/texlive/2017basic/tlpkg/ is not writable.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;我已經是使用管理員登入，所以我只好很土法煉鋼的，去修改 &lt;code&gt;/usr/local/texlive/2017basic/tlpkg/&lt;/code&gt; 的權限（藍色框框處），雖然有點危險，但這是目前我會的方法，如果大家有更好的方法再請提供給我喔！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/media/15606821384929/15606821609233.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;修改-tlpkg-資料夾權限-為可寫入&#34;&gt;修改 tlpkg 資料夾權限，為可寫入。&lt;/h5&gt;
+
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://tex.stackexchange.com/questions/12102/how-do-i-install-ctan-packages-on-mac-os-with-texshop&#34;&gt;How do I install CTAN packages on Mac OS with TexShop?&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Thanks for contributing an answer to TeX - LaTeX Stack Exchange! Please be sure to answer the question. Provide details and share your research! Asking for help, clarification, or responding to other answers. Making statements based on opinion; back them up with references or personal experience.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+        </description>
+    </item>
+    
   </channel>
 </rss>
