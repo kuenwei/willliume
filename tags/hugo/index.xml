@@ -130,13 +130,10 @@ Source: &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;ht
 
 &lt;p&gt;單獨設定標籤與分類樣式，需要在 &lt;code&gt;layouts/_default/&lt;/code&gt; 新增樣式設定檔案 &lt;code&gt;term.html&lt;/code&gt;（或&lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;其他可用的檔案名稱&lt;/a&gt;），並設定成自己想要的模板。記得頭尾的 &lt;code&gt;partial&lt;/code&gt; 都要引入。&lt;/p&gt;
 
-&lt;p&gt;Source: &lt;a href=&#34;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&#34;&gt;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;https://gohugo.io/templates/lookup-order/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&#34;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&#34;&gt;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&#34;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&#34;&gt;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href=&#34;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&#34;&gt;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&lt;/a&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;https://gohugo.io/templates/lookup-order/&lt;/a&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&#34;&gt;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&lt;/a&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&#34;&gt;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;未來-liu-me&#34;&gt;未來 Liu.me&lt;/h2&gt;
 
