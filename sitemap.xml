@@ -153,6 +153,11 @@
   </url>
   
   <url>
+    <loc>https://willliu.me/blog/the-day-i-clean-up-to-do-list/</loc>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/blog/my-library-books-shopping-record/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
@@ -328,6 +333,12 @@
   </url>
   
   <url>
+    <loc>https://willliu.me/tags/%E5%B7%A5%E4%BD%9C%E6%B3%95/</loc>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/tags/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -402,6 +413,12 @@
   <url>
     <loc>https://willliu.me/categories/%E6%95%B8%E4%BD%8D/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E6%95%B8%E4%BD%8D%E5%B7%A5%E4%BD%9C/</loc>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
