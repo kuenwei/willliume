@@ -59,7 +59,7 @@
                 </li>
                  
                 <li class="nav-item ">
-                    <a class="nav-link" href="/categories">分類帽</a>
+                    <a class="nav-link" href="/tags">標籤盒</a>
                 </li>
                  
                 <li class="nav-item ">
@@ -225,10 +225,9 @@ Source: <a href="https://ar.al/2018/07/01/refining-the-rss/">https://ar.al/2018/
 <ul>
 <li>新增 partials HTML 檔案，原始檔案參考如下：
 Source: <a href="https://gohugo.io/content-management/related/">https://gohugo.io/content-management/related/</a></li>
-
-<li><p>修改 CSS 樣式</p>
-
-<pre><code>.related-post {
+<li>修改 CSS 樣式
+<code>
+.related-post {
   width:100%;
   height: auto;
   float:left;
@@ -265,10 +264,21 @@ Source: <a href="https://gohugo.io/content-management/related/">https://gohugo.i
   max-height: 150px;
   object-fit: cover; //圖片裁切
 }
-</code></pre></li>
-
-<li><p>增加 partial 檔案在想要出現的地方</p></li>
+</code></li>
+<li>增加 partial 檔案在想要出現的地方<br /></li>
 </ul>
+
+<h3 id="標籤雲">標籤雲</h3>
+
+<p>單獨設定標籤與分類樣式，需要在 <code>layouts/_default/</code> 新增樣式設定檔案 <code>term.html</code>（或<a href="https://gohugo.io/templates/lookup-order/">其他可用的檔案名稱</a>），並設定成自己想要的模板。記得頭尾的 <code>partial</code> 都要引入。</p>
+
+<p>Source: <a href="http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/">http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/</a></p>
+
+<p>Source: <a href="https://gohugo.io/templates/lookup-order/">https://gohugo.io/templates/lookup-order/</a></p>
+
+<p>Source: <a href="https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/">https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/</a></p>
+
+<p>Source: <a href="https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/">https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/</a></p>
 
 <h2 id="未來-liu-me">未來 Liu.me</h2>
 
@@ -431,6 +441,16 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
 <li><a href="https://gohugo.io/functions/safehtml/">safeHTML</a>：將 HTML 正常顯示為 code。</li>
 </ul>
 
+<h3 id="字元">字元</h3>
+
+<ul>
+<li><a href="https://gohugo.io/functions/strings.runecount/">strings.RuneCount</a>：計算字元數，會把英文字母當一個字元。</li>
+<li><a href="https://gohugo.io/functions/countrunes/">countrunes</a>：依照 CJK 方式計算字元</li>
+<li>更多參考資料：
+<a href="https://kodify.net/hugo/strings/string-length/">https://kodify.net/hugo/strings/string-length/</a>
+<br /></li>
+</ul>
+
 <hr />
 
 <h3 id="參考資料">參考資料</h3>
@@ -513,7 +533,7 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
 	<div class="d-md-flex h-100">
 		<div class="col-md-4 transpdark align-self-center text-center h-100">
 			<div class="d-md-flex align-items-center justify-content-center h-100">
-				<h2 class="d-md-block d-none align-self-center py-1 font-weight-light">抽取盒內標籤看更多&nbsp;<span class="d-none d-md-inline">→</span></h2>
+				<h2 class="d-md-block d-none align-self-center py-1 font-weight-light">點不同分類帽看更多&nbsp;<span class="d-none d-md-inline">→</span></h2>
 			</div>
 		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">
@@ -548,117 +568,8 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
 			
 			<a href="/categories/%E9%9B%BB%E5%BD%B1">電影</a>
 			
-			
-			<a href="/tags/app">app</a>
-			
-			<a href="/tags/asiamiles">asiamiles</a>
-			
-			<a href="/tags/blog">blog</a>
-			
-			<a href="/tags/blogger">blogger</a>
-			
-			<a href="/tags/hugo">hugo</a>
-			
-			<a href="/tags/medium">medium</a>
-			
-			<a href="/tags/%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%BD%B1">中國電影</a>
-			
-			<a href="/tags/%E4%B8%AD%E6%96%87%E6%9B%B8">中文書</a>
-			
-			<a href="/tags/%E4%B8%AD%E8%8F%AF%E8%88%AA%E7%A9%BA">中華航空</a>
-			
-			<a href="/tags/%E4%BA%9E%E6%B4%B2%E8%90%AC%E9%87%8C%E9%80%9A">亞洲萬里通</a>
-			
-			<a href="/tags/%E4%BC%81%E6%A5%AD">企業</a>
-			
-			<a href="/tags/%E4%BD%BF%E7%94%A8%E5%A0%B1%E5%91%8A">使用報告</a>
-			
-			<a href="/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1">信用卡</a>
-			
-			<a href="/tags/%E5%80%8B%E4%BA%BA%E7%B6%93%E9%A9%97">個人經驗</a>
-			
-			<a href="/tags/%E5%81%A5%E5%BA%B7">健康</a>
-			
-			<a href="/tags/%E5%90%B8%E5%BC%95%E5%8A%9B%E6%B3%95%E5%89%87">吸引力法則</a>
-			
-			<a href="/tags/%E5%9C%8B%E6%B3%B0%E8%88%AA%E7%A9%BA">國泰航空</a>
-			
-			<a href="/tags/%E5%A4%96%E6%96%87%E6%9B%B8">外文書</a>
-			
-			<a href="/tags/%E5%A4%A7%E7%9C%BE%E5%B0%8F%E8%AA%AA">大眾小說</a>
-			
-			<a href="/tags/%E5%B7%A5%E4%BD%9C">工作</a>
-			
-			<a href="/tags/%E5%B7%A5%E5%85%B7">工具</a>
-			
-			<a href="/tags/%E5%BF%83%E6%85%8B">心態</a>
-			
-			<a href="/tags/%E6%83%85%E7%B7%92%E9%9A%9C%E7%A4%99">情緒障礙</a>
-			
-			<a href="/tags/%E6%84%9B%E6%83%85">愛情</a>
-			
-			<a href="/tags/%E6%8C%91%E6%88%B0">挑戰</a>
-			
-			<a href="/tags/%E6%94%BF%E6%B2%BB">政治</a>
-			
-			<a href="/tags/%E6%95%B8%E4%BD%8D">數位</a>
-			
-			<a href="/tags/%E6%96%B0%E8%81%9E">新聞</a>
-			
-			<a href="/tags/%E6%97%A5%E6%96%87%E6%9B%B8">日文書</a>
-			
-			<a href="/tags/%E6%97%A5%E6%9C%AC">日本</a>
-			
-			<a href="/tags/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9">村上春樹</a>
-			
-			<a href="/tags/%E6%B5%81%E5%8B%95">流動</a>
-			
-			<a href="/tags/%E7%99%82%E7%99%92">療癒</a>
-			
-			<a href="/tags/%E7%9B%8A%E7%94%9F%E8%8F%8C">益生菌</a>
-			
-			<a href="/tags/%E7%A4%BE%E6%9C%83">社會</a>
-			
-			<a href="/tags/%E7%A4%BE%E7%BE%A4">社群</a>
-			
-			<a href="/tags/%E7%B6%93%E6%BF%9F">經濟</a>
-			
-			<a href="/tags/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD">網站架設</a>
-			
-			<a href="/tags/%E7%BD%B7%E5%B7%A5">罷工</a>
-			
-			<a href="/tags/%E8%85%B8%E9%81%93%E4%BF%9D%E5%81%A5">腸道保健</a>
-			
-			<a href="/tags/%E8%87%AA%E6%88%91%E6%88%90%E9%95%B7">自我成長</a>
-			
-			<a href="/tags/%E8%87%AA%E9%96%89%E7%97%87">自閉症</a>
-			
-			<a href="/tags/%E8%8F%AF%E8%88%AA">華航</a>
-			
-			<a href="/tags/%E8%A1%8C%E5%8B%95%E6%94%AF%E4%BB%98">行動支付</a>
-			
-			<a href="/tags/%E8%A6%AA%E6%83%85">親情</a>
-			
-			<a href="/tags/%E8%AC%9B%E5%BA%A7">講座</a>
-			
-			<a href="/tags/%E8%BA%AB%E5%BF%83%E9%9D%88">身心靈</a>
-			
-			<a href="/tags/%E8%BA%AB%E9%AB%94">身體</a>
-			
-			<a href="/tags/%E8%BB%9F%E9%AB%94">軟體</a>
-			
-			<a href="/tags/%E9%81%8A%E8%A8%98">遊記</a>
-			
-			<a href="/tags/%E9%87%91%E8%9E%8D">金融</a>
-			
-			<a href="/tags/%E9%8D%B5%E7%9B%A4">鍵盤</a>
-			
-			<a href="/tags/%E9%96%B1%E8%AE%80%E5%BF%83%E5%BE%97">閱讀心得</a>
-			
-			<a href="/tags/%E9%9B%86%E8%B3%87">集資</a>
-			
-			<a href="/tags/%E9%9B%BB%E5%AD%90%E5%A0%B1">電子報</a>
-			
+			<a href="/tags/">其他標籤</a>
+		
 		</div>
 	</div>
 </div>

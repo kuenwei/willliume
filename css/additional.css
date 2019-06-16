@@ -99,9 +99,40 @@
 .related-post img {
   width: 100%;
   max-height: 135px;
-  object-fit: cover; /*magic*/
+  object-fit: cover;
 }
 
+.categories-card-text {
+  color:rgba(0,0,0,.66);
+  font-size:0.95rem;
+  line-height:1.4;
+  font-weight:400;
+  /*
+  width: 18em;
+  white-space: nowrap;
+  overflow: hidden !important;
+  text-overflow: ellipsis; */
+}
+
+.categories-card-text a {
+  color:rgba(0,0,0,.66);
+}
+
+#tag-cloud a {
+  padding-left: 5px;
+  transition: .5s;-webkit-transition: .5s;-moz-transition: .5s;-o-transition: .5s;
+  background-color: rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 1px #999999;
+  color: rgba(0, 0, 0, 0.88) !important;
+  display: inline-block;
+  float: none;
+  margin: 2px 1px;
+  padding: 5px 5px;
+  text-decoration: none;
+  transition: .5s;-webkit-transition: .5s;-moz-transition: .5s;-o-transition: .5s;
+  border-radius: 8px 6px 8px / 4px 8px;
+  text-transform: uppercase;
+}
 
 /* Table CSS setting */
 table {

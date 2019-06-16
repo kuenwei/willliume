@@ -520,10 +520,9 @@ Source: &lt;a href=&#34;https://ar.al/2018/07/01/refining-the-rss/&#34;&gt;https
 &lt;ul&gt;
 &lt;li&gt;新增 partials HTML 檔案，原始檔案參考如下：
 Source: &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;https://gohugo.io/content-management/related/&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;修改 CSS 樣式&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;.related-post {
+&lt;li&gt;修改 CSS 樣式
+&lt;code&gt;
+.related-post {
   width:100%;
   height: auto;
   float:left;
@@ -560,10 +559,21 @@ Source: &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;ht
   max-height: 150px;
   object-fit: cover; //圖片裁切
 }
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;增加 partial 檔案在想要出現的地方&lt;/p&gt;&lt;/li&gt;
+&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;增加 partial 檔案在想要出現的地方&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;標籤雲&#34;&gt;標籤雲&lt;/h3&gt;
+
+&lt;p&gt;單獨設定標籤與分類樣式，需要在 &lt;code&gt;layouts/_default/&lt;/code&gt; 新增樣式設定檔案 &lt;code&gt;term.html&lt;/code&gt;（或&lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;其他可用的檔案名稱&lt;/a&gt;），並設定成自己想要的模板。記得頭尾的 &lt;code&gt;partial&lt;/code&gt; 都要引入。&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&#34;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&#34;&gt;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;https://gohugo.io/templates/lookup-order/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&#34;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&#34;&gt;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&#34;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&#34;&gt;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;未來-liu-me&#34;&gt;未來 Liu.me&lt;/h2&gt;
 
@@ -724,6 +734,16 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/htmlescape/&#34;&gt;htmlEscape&lt;/a&gt;：不顯示跳脫符號&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/htmlunescape/&#34;&gt;htmlUnescape&lt;/a&gt;：跳脫符號顯示&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/safehtml/&#34;&gt;safeHTML&lt;/a&gt;：將 HTML 正常顯示為 code。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;字元&#34;&gt;字元&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/strings.runecount/&#34;&gt;strings.RuneCount&lt;/a&gt;：計算字元數，會把英文字母當一個字元。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/countrunes/&#34;&gt;countrunes&lt;/a&gt;：依照 CJK 方式計算字元&lt;/li&gt;
+&lt;li&gt;更多參考資料：
+&lt;a href=&#34;https://kodify.net/hugo/strings/string-length/&#34;&gt;https://kodify.net/hugo/strings/string-length/&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -1656,15 +1676,15 @@ Poppy(Julianne Morre), Kingsman: The Golden Circle&lt;/p&gt;
 
 &lt;h4 id=&#34;我大概是去年開始思考配置哩程卡在我使用的信用卡之中-其實我掙扎了很久-同時也參考了無數的文章-包含了-ptt-卡版-https-www-ptt-cc-bbs-creditcard-index-html-cardu-卡優網-https-www-cardu-com-tw-money101-https-www-money101-com-tw-等比較的網站-卻始終卡在幾個點無法做決定&#34;&gt;我大概是去年開始思考配置哩程卡在我使用的信用卡之中，其實我掙扎了很久，同時也參考了無數的文章，包含了 &lt;a href=&#34;https://www.ptt.cc/bbs/creditcard/index.html&#34;&gt;PTT 卡版&lt;/a&gt;、&lt;a href=&#34;https://www.cardu.com.tw&#34;&gt;Cardu 卡優網&lt;/a&gt;、&lt;a href=&#34;https://www.money101.com.tw&#34;&gt;Money101&lt;/a&gt; 等比較的網站，卻始終卡在幾個點無法做決定。&lt;/h4&gt;
 
-&lt;p&gt;第一個門檻是年費問題，不否認市面上有許多免年費的哩程卡，例如之前風行一陣的&lt;a href=&#34;https://t.grz.fyi/澳盛飛行白金卡&#34;&gt;澳盛（現已改為星展）飛行白金卡&lt;/a&gt;，我也是有申辦過，但使用率為「0」，完全沒有拿來刷過，除了沒決心要集哩程外，也是覺得 30 元一飛行積點（可換一哩）回饋率很低。&lt;/p&gt;
+&lt;p&gt;第一個門檻是年費問題，不否認市面上有許多免年費的哩程卡，例如之前風行一陣的澳盛（現已改為星展）飛行白金卡，我也是有申辦過，但使用率為「0」，完全沒有拿來刷過，除了沒決心要集哩程外，也是覺得 30 元一飛行積點（可換一哩）回饋率很低。&lt;/p&gt;
 
-&lt;p&gt;此外，對於要選擇哪一家哩程一直抱持的模糊地帶，我不常搭兩大國籍航空—中華航空（安全疑慮）、長榮航空（價格因素）—在價格以及熟悉度考量下，&lt;a href=&#34;https://t.grz.fyi/國泰航空&#34;&gt;國泰航空&lt;/a&gt;成為了我出國首選。&lt;/p&gt;
+&lt;p&gt;此外，對於要選擇哪一家哩程一直抱持的模糊地帶，我不常搭兩大國籍航空—中華航空（安全疑慮）、長榮航空（價格因素）—在價格以及熟悉度考量下，國泰航空成為了我出國首選。&lt;/p&gt;
 
-&lt;p&gt;既然如此哩程當然應該就配著使用&lt;a href=&#34;https://t.grz.fyi/亞洲萬里通&#34;&gt;亞洲萬里通&lt;/a&gt;，搜尋過一輪看不到好的卡片，同時又被許多說亞洲萬里通哩程貶值潛移默化後，哩程卡就冷淡了起來。直到 2018 年 11 月台新銀行與國泰航空發行聯名卡，我才真的開始嘗試集哩程換機票這個回饋方式。&lt;/p&gt;
+&lt;p&gt;既然如此哩程當然應該就配著使用亞洲萬里通，搜尋過一輪看不到好的卡片，同時又被許多說亞洲萬里通哩程貶值潛移默化後，哩程卡就冷淡了起來。直到 2018 年 11 月台新銀行與國泰航空發行聯名卡，我才真的開始嘗試集哩程換機票這個回饋方式。&lt;/p&gt;
 
 &lt;p&gt;經過快要一年的時間，感覺自己有點小心得，漸漸想要陸續整理哩程卡的使用心得，當作自己的紀錄，也讓讓大家有不同角度的觀點，幫助自己面對選擇時，有更好的評估方式。&lt;/p&gt;
 
-&lt;p&gt;未來將透過三個角度：&lt;a href=&#34;https://t.grz.fyi/信用卡&#34;&gt;信用卡&lt;/a&gt;、哩程累積、旅行，這三個互相關聯的內容，去與大家分享，一樣維持我的寫作風格，一定是自己的親身經驗，同時希望給大家更多能在生活中實用的方法，去評估並找到自己可行的方式。&lt;/p&gt;
+&lt;p&gt;未來將透過三個角度：信用卡、哩程累積、旅行，這三個互相關聯的內容，去與大家分享，一樣維持我的寫作風格，一定是自己的親身經驗，同時希望給大家更多能在生活中實用的方法，去評估並找到自己可行的方式。&lt;/p&gt;
 
         </description>
     </item>

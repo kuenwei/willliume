@@ -83,10 +83,9 @@ Source: &lt;a href=&#34;https://ar.al/2018/07/01/refining-the-rss/&#34;&gt;https
 &lt;ul&gt;
 &lt;li&gt;新增 partials HTML 檔案，原始檔案參考如下：
 Source: &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;https://gohugo.io/content-management/related/&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;修改 CSS 樣式&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;.related-post {
+&lt;li&gt;修改 CSS 樣式
+&lt;code&gt;
+.related-post {
   width:100%;
   height: auto;
   float:left;
@@ -123,10 +122,21 @@ Source: &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;ht
   max-height: 150px;
   object-fit: cover; //圖片裁切
 }
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;增加 partial 檔案在想要出現的地方&lt;/p&gt;&lt;/li&gt;
+&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;增加 partial 檔案在想要出現的地方&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;標籤雲&#34;&gt;標籤雲&lt;/h3&gt;
+
+&lt;p&gt;單獨設定標籤與分類樣式，需要在 &lt;code&gt;layouts/_default/&lt;/code&gt; 新增樣式設定檔案 &lt;code&gt;term.html&lt;/code&gt;（或&lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;其他可用的檔案名稱&lt;/a&gt;），並設定成自己想要的模板。記得頭尾的 &lt;code&gt;partial&lt;/code&gt; 都要引入。&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&#34;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&#34;&gt;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;https://gohugo.io/templates/lookup-order/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&#34;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&#34;&gt;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&#34;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&#34;&gt;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;未來-liu-me&#34;&gt;未來 Liu.me&lt;/h2&gt;
 
@@ -287,6 +297,16 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/htmlescape/&#34;&gt;htmlEscape&lt;/a&gt;：不顯示跳脫符號&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/htmlunescape/&#34;&gt;htmlUnescape&lt;/a&gt;：跳脫符號顯示&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/safehtml/&#34;&gt;safeHTML&lt;/a&gt;：將 HTML 正常顯示為 code。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;字元&#34;&gt;字元&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/strings.runecount/&#34;&gt;strings.RuneCount&lt;/a&gt;：計算字元數，會把英文字母當一個字元。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/countrunes/&#34;&gt;countrunes&lt;/a&gt;：依照 CJK 方式計算字元&lt;/li&gt;
+&lt;li&gt;更多參考資料：
+&lt;a href=&#34;https://kodify.net/hugo/strings/string-length/&#34;&gt;https://kodify.net/hugo/strings/string-length/&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
