@@ -10,7 +10,7 @@
 	<meta property="og:title" content="未來 Liu.me">
 	<meta property="og:type" content="website"/>
 	<meta property="og:site_name" content="未來 Liu.me"/>
-	<meta property="og:url" content="https://willliu.me/blog/history-of-edition-of-hugo/"/>
+	<meta property="og:url" content="/blog/history-of-edition-of-hugo/"/>
 	
 	
 	<meta property="og:title" content="Hugo Blog 進化筆記">
@@ -18,8 +18,8 @@
 	
 	
 	
-	<meta property="og:image" content="/blog/media/15605321624858/15605327864541.jpg">
-	
+    <meta property="og:image" content="https://ik.imagekit.io/kuenwei/willliu_me/15605327864541_dkRiepmWyI.jpg">
+    
 	
 	
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -57,15 +57,15 @@
         <div class="collapse navbar-collapse" id="navbarMediumish">
             
             <ul class="navbar-nav ml-auto">
-                 
+                
                 <li class="nav-item ">
                     <a class="nav-link" href="/blog">書寫櫃</a>
                 </li>
-                 
+                
                 <li class="nav-item ">
                     <a class="nav-link" href="/tags">標籤盒</a>
                 </li>
-                 
+                
                 <li class="nav-item ">
                     <a class="nav-link" href="/">歐巴宓</a>
                 </li>
@@ -97,13 +97,13 @@
         <i class="fab fa-twitter"></i>
         </a>
         </li>
-        
+
         <li class="ml-1 mr-1">
         <a target="_blank" href="https://facebook.com/sharer.php?u=https%3a%2f%2fwillliu.me%2fblog%2fhistory-of-edition-of-hugo%2f" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
         <i class="fab fa-facebook-f"></i>
         </a>
         </li>
-        
+
         <li class="ml-1 mr-1">
         <a target="_blank" href="https://social-plugins.line.me/lineit/share?url=https%3a%2f%2fwillliu.me%2fblog%2fhistory-of-edition-of-hugo%2f" onclick="window.open(this.href, 'line-share', 'width=550,height=435');return false;">
         <i class="fab fa-line"></i>
@@ -156,7 +156,7 @@
                     
                     
                     
-                        <img class="featured-image img-fluid" src="/blog/media/15605321624858/15605327864541.jpg" alt="thumbnail for this post">
+                        <img class="featured-image img-fluid" src="https://ik.imagekit.io/kuenwei/willliu_me/15605327864541_dkRiepmWyI.jpg" alt="thumbnail for this post">
                     
                     
                     
@@ -164,7 +164,6 @@
                     
                     <div class="article-post">
                         
-                         
 
 <h4 id="把自己栽入-hugo-成為網站的工具的人生-一點點紀錄-然後有計劃地慢慢往前進">把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。</h4>
 
@@ -201,8 +200,7 @@ If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will
 
 <ul>
 <li>RSS 更新
-原 rss 僅顯示摘要，為了方便訂閱者閱讀，要做全文的更新，但遇到困難點：圖片需要改為絕對位置，不能使用相對位置。因此參考以下文章，並增修絕對路徑如下。
-<br /></li>
+原 rss 僅顯示摘要，為了方便訂閱者閱讀，要做全文的更新，但遇到困難點：圖片需要改為絕對位置，不能使用相對位置。因此參考以下文章，並增修絕對路徑如下。</li>
 </ul>
 
 <p>檔案的部分，需要放在你選用主題底下 <code>layouts/_default/rss.xml</code></p>
@@ -239,16 +237,16 @@ Source: <a href="https://gohugo.io/content-management/related/">https://gohugo.i
   height: auto;
   float:left;
   padding-top: 20px;
-}    
+}
 .related-post h3 {
   font-family:  jf-jinxuan, sans-serif !important;
   font-weight: 600;
-}   
+}
 .related-post ul{
   width:100%;
   list-style-position: inside;
   padding-left: 0;
-}    
+}
 .related-post li{
   width:33%; // 一欄三列
   padding: 0px 5px;
@@ -280,10 +278,10 @@ Source: <a href="https://gohugo.io/content-management/related/">https://gohugo.i
 
 <p>單獨設定標籤與分類樣式，需要在 <code>layouts/_default/</code> 新增樣式設定檔案 <code>term.html</code>（或<a href="https://gohugo.io/templates/lookup-order/">其他可用的檔案名稱</a>），並設定成自己想要的模板。記得頭尾的 <code>partial</code> 都要引入。</p>
 
-<p>Source: <a href="http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/">http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/</a><br />
-Source: <a href="https://gohugo.io/templates/lookup-order/">https://gohugo.io/templates/lookup-order/</a><br />
-Source: <a href="https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/">https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/</a><br />
-Source: <a href="https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/">https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/</a><br />
+<p>Source: <a href="http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/">http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/</a>
+Source: <a href="https://gohugo.io/templates/lookup-order/">https://gohugo.io/templates/lookup-order/</a>
+Source: <a href="https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/">https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/</a>
+Source: <a href="https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/">https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/</a>
 Source: <a href="https://note.qidong.name/2017/10/hugo-taxonomy/">https://note.qidong.name/2017/10/hugo-taxonomy/</a></p>
 
 <h2 id="未來-liu-me">未來 Liu.me</h2>
@@ -400,7 +398,7 @@ td:last-child{
 for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     if (links[i].hostname != window.location.hostname) {
         links[i].target = '_blank';
-    } 
+    }
   }
 &lt;/script&gt;
 </code></pre></li>
@@ -453,8 +451,7 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
 <li><a href="https://gohugo.io/functions/strings.runecount/">strings.RuneCount</a>：計算字元數，會把英文字母當一個字元。</li>
 <li><a href="https://gohugo.io/functions/countrunes/">countrunes</a>：依照 CJK 方式計算字元</li>
 <li>更多參考資料：
-<a href="https://kodify.net/hugo/strings/string-length/">https://kodify.net/hugo/strings/string-length/</a>
-<br /></li>
+<a href="https://kodify.net/hugo/strings/string-length/">https://kodify.net/hugo/strings/string-length/</a></li>
 </ul>
 
 <hr />
@@ -466,7 +463,7 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
 <li><a href="https://gohugo.io/functions/">https://gohugo.io/functions/</a></li>
 </ul>
 
-
+                        
                     </div>
 
 <div id="related-post" class="related-post">
@@ -475,15 +472,19 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
 	
 	<li>
 		
-        	<img class="" src="/blog/media/15484845705513/15546154225342.jpg" alt="thumbnail for this post">
-        	
+            
+                 <img class="" src="https://ik.imagekit.io/kuenwei/willliu_me/15546154225342_xDlHA6sOE.jpg" alt="thumbnail for this post">
+            
+        
         <p><a href="/blog/digital-blogger-transfer-to-hugo/">將 Blogger 轉換至 Hugo（含優缺點評析）</a></p>
 	</li>
 	
 	<li>
 		
-        	<img class="" src="/blog/media/15605651462896/15605652452996.jpg" alt="thumbnail for this post">
-        	
+            
+                 <img class="" src="https://ik.imagekit.io/kuenwei/willliu_me/15605652452996_nS8Qq3_YA.jpg" alt="thumbnail for this post">
+            
+        
         <p><a href="/blog/leave-medium-go-to-hugo/">整理跑道數位篇：部落格</a></p>
 	</li>
 	
@@ -544,7 +545,7 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
 		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">
 			
-			<a href="/categories/%E5%85%8D%E8%B2%BB">免費</a>
+			<a href="/categories/%E5%80%8B%E4%BA%BA">個人</a>
 			
 			<a href="/categories/%E5%93%A9%E7%A8%8B">哩程</a>
 			
@@ -555,6 +556,8 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
 			<a href="/categories/%E6%88%90%E9%95%B7">成長</a>
 			
 			<a href="/categories/%E6%8A%80%E8%A1%93">技術</a>
+			
+			<a href="/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98">技術筆記</a>
 			
 			<a href="/categories/%E6%95%B8%E4%BD%8D">數位</a>
 			
@@ -567,6 +570,8 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
 			<a href="/categories/%E7%86%B1%E9%BB%9E">熱點</a>
 			
 			<a href="/categories/%E7%A1%AC%E9%AB%94">硬體</a>
+			
+			<a href="/categories/%E7%A4%BE%E7%BE%A4">社群</a>
 			
 			<a href="/categories/%E8%A9%95%E8%AB%96">評論</a>
 			

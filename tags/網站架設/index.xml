@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>網站架設 on 未來 Liu.me</title>
-    <link>https://willliu.me/tags/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD/</link>
+    <link>/tags/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD/</link>
     <description>Recent content in 網站架設 on 未來 Liu.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
     <lastBuildDate>Sat, 13 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://willliu.me/tags/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>把主站搬離 Medium 的理由以及未來走向</title>
-      <link>https://willliu.me/blog/leave-meidum-and-how-to-use-it-in-the-future/</link>
+      <link>/blog/leave-meidum-and-how-to-use-it-in-the-future/</link>
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://willliu.me/blog/leave-meidum-and-how-to-use-it-in-the-future/</guid>
+      <guid>/blog/leave-meidum-and-how-to-use-it-in-the-future/</guid>
         <description>
 
 &lt;h5 id=&#34;2012-年-8-月-twitter-創辦人打造了新一代的寫作社群媒體-medium&#34;&gt;2012 年 8 月 Twitter 創辦人打造了新一代的寫作社群媒體「Medium」。&lt;/h5&gt;
@@ -37,7 +37,7 @@
 
 &lt;p&gt;Medium 是 Twitter 創辦人之一所設計的服務，希望透過好的文章質量，創造各個作者相連，去成為類似一本本的雜誌的網站。這一點，當你加入 Medium Mebmership 之後，感覺會更明顯，每週都會收到 The Editon，編輯幫你選文推薦。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/media/15546522808923/15552339828931.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15552339828931_Ie6CzbVS3n.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;meidum-每週都會透過-email-提供文章精選-the-edition&#34;&gt;Meidum 每週都會透過 Email 提供文章精選「The Edition」&lt;/h5&gt;
 
@@ -55,7 +55,7 @@
 
 &lt;p&gt;從閱讀以及編輯體驗可以明顯感覺出來，&lt;strong&gt;整個設計是以「紙本出版」為核心概念&lt;/strong&gt;，兼具質感與方便性，卻也造成了很大的侷限，整個平台，就算你交互各種樣式，能使用的格式約莫 20 餘種（包含部分支援的 Markdown 語法）。其中像很基本的改變字體顏色，字體底色（需要透過 highlight）目前都無法做到。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/media/15546522808923/15552363225435.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15552363225435_uEQC6F6i8P.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;medium-編輯器提供簡單的格式設定&#34;&gt;Medium 編輯器提供簡單的格式設定&lt;/h5&gt;
 
@@ -77,7 +77,7 @@
 
 &lt;p&gt;以中文知識經濟的大宗「得到」來說，先不論商業模式，平台的定位就是以收費為導向，而且善於區別作者取向，提供不同的內容與服務形式。例如，創辦人羅胖（羅振宇）專心做行銷，提供免費內容，再找「大家」、「網紅」提供更多的收費內容，然後創造出一年的專欄、電子書、有聲書、技巧課、大師課等等。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/media/15546522808923/15553707265744.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15553707265744_qIQQdxv9I.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;得到-app-由-羅輯思維-主講人羅振宇一手打造出的知識經濟產品&#34;&gt;得到 APP，由「羅輯思維」主講人羅振宇一手打造出的知識經濟產品。&lt;/h5&gt;
 
@@ -112,10 +112,10 @@
     
     <item>
       <title>Hugo Blog 進化筆記</title>
-      <link>https://willliu.me/blog/history-of-edition-of-hugo/</link>
+      <link>/blog/history-of-edition-of-hugo/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://willliu.me/blog/history-of-edition-of-hugo/</guid>
+      <guid>/blog/history-of-edition-of-hugo/</guid>
         <description>
 
 &lt;h4 id=&#34;把自己栽入-hugo-成為網站的工具的人生-一點點紀錄-然後有計劃地慢慢往前進&#34;&gt;把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。&lt;/h4&gt;
@@ -153,8 +153,7 @@ If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will
 
 &lt;ul&gt;
 &lt;li&gt;RSS 更新
-原 rss 僅顯示摘要，為了方便訂閱者閱讀，要做全文的更新，但遇到困難點：圖片需要改為絕對位置，不能使用相對位置。因此參考以下文章，並增修絕對路徑如下。
-&lt;br /&gt;&lt;/li&gt;
+原 rss 僅顯示摘要，為了方便訂閱者閱讀，要做全文的更新，但遇到困難點：圖片需要改為絕對位置，不能使用相對位置。因此參考以下文章，並增修絕對路徑如下。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;檔案的部分，需要放在你選用主題底下 &lt;code&gt;layouts/_default/rss.xml&lt;/code&gt;&lt;/p&gt;
@@ -191,16 +190,16 @@ Source: &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;ht
   height: auto;
   float:left;
   padding-top: 20px;
-}    
+}
 .related-post h3 {
   font-family:  jf-jinxuan, sans-serif !important;
   font-weight: 600;
-}   
+}
 .related-post ul{
   width:100%;
   list-style-position: inside;
   padding-left: 0;
-}    
+}
 .related-post li{
   width:33%; // 一欄三列
   padding: 0px 5px;
@@ -232,10 +231,10 @@ Source: &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;ht
 
 &lt;p&gt;單獨設定標籤與分類樣式，需要在 &lt;code&gt;layouts/_default/&lt;/code&gt; 新增樣式設定檔案 &lt;code&gt;term.html&lt;/code&gt;（或&lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;其他可用的檔案名稱&lt;/a&gt;），並設定成自己想要的模板。記得頭尾的 &lt;code&gt;partial&lt;/code&gt; 都要引入。&lt;/p&gt;
 
-&lt;p&gt;Source: &lt;a href=&#34;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&#34;&gt;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&lt;/a&gt;&lt;br /&gt;
-Source: &lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;https://gohugo.io/templates/lookup-order/&lt;/a&gt;&lt;br /&gt;
-Source: &lt;a href=&#34;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&#34;&gt;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&lt;/a&gt;&lt;br /&gt;
-Source: &lt;a href=&#34;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&#34;&gt;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;Source: &lt;a href=&#34;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&#34;&gt;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&lt;/a&gt;
+Source: &lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;https://gohugo.io/templates/lookup-order/&lt;/a&gt;
+Source: &lt;a href=&#34;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&#34;&gt;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&lt;/a&gt;
+Source: &lt;a href=&#34;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&#34;&gt;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&lt;/a&gt;
 Source: &lt;a href=&#34;https://note.qidong.name/2017/10/hugo-taxonomy/&#34;&gt;https://note.qidong.name/2017/10/hugo-taxonomy/&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;未來-liu-me&#34;&gt;未來 Liu.me&lt;/h2&gt;
@@ -352,7 +351,7 @@ td:last-child{
 for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
     if (links[i].hostname != window.location.hostname) {
         links[i].target = &#39;_blank&#39;;
-    } 
+    }
   }
 &amp;lt;/script&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
@@ -405,8 +404,7 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/strings.runecount/&#34;&gt;strings.RuneCount&lt;/a&gt;：計算字元數，會把英文字母當一個字元。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/countrunes/&#34;&gt;countrunes&lt;/a&gt;：依照 CJK 方式計算字元&lt;/li&gt;
 &lt;li&gt;更多參考資料：
-&lt;a href=&#34;https://kodify.net/hugo/strings/string-length/&#34;&gt;https://kodify.net/hugo/strings/string-length/&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
+&lt;a href=&#34;https://kodify.net/hugo/strings/string-length/&#34;&gt;https://kodify.net/hugo/strings/string-length/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;

@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>技術 on 未來 Liu.me</title>
-    <link>https://willliu.me/categories/%E6%8A%80%E8%A1%93/</link>
+    <link>/categories/%E6%8A%80%E8%A1%93/</link>
     <description>Recent content in 技術 on 未來 Liu.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
     <lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://willliu.me/categories/%E6%8A%80%E8%A1%93/" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/%E6%8A%80%E8%A1%93/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>[Sublime&#43;XeLatex] 安裝 package</title>
-      <link>https://willliu.me/blog/package-install-sublimetext-xelatex/</link>
+      <link>/blog/package-install-sublimetext-xelatex/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://willliu.me/blog/package-install-sublimetext-xelatex/</guid>
+      <guid>/blog/package-install-sublimetext-xelatex/</guid>
         <description>
 
 &lt;h4 id=&#34;雖然土法煉鋼-還是想要紀錄跟分享&#34;&gt;雖然土法煉鋼，還是想要紀錄跟分享。&lt;/h4&gt;
@@ -41,7 +41,7 @@ Packagename 是還沒有被安裝過的 Tex 巨集名稱，例如我這次要安
 
 &lt;p&gt;我已經是使用管理員登入，所以我只好很土法煉鋼的，去修改 &lt;code&gt;/usr/local/texlive/2017basic/tlpkg/&lt;/code&gt; 的權限（藍色框框處），雖然有點危險，但這是目前我會的方法，如果大家有更好的方法再請提供給我喔！&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/media/15606821384929/15606821609233.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15606821609233_89fPVK4tc.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;修改-tlpkg-資料夾權限-為可寫入&#34;&gt;修改 tlpkg 資料夾權限，為可寫入。&lt;/h5&gt;
 

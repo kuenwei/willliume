@@ -1,26 +1,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>APP on 未來 Liu.me</title>
-    <link>https://willliu.me/tags/app/</link>
+    <link>/tags/app/</link>
     <description>Recent content in APP on 未來 Liu.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
     <lastBuildDate>Fri, 06 Apr 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://willliu.me/tags/app/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/app/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>我使用的服務/工具一覽</title>
-      <link>https://willliu.me/blog/my-tools-and-services-list/</link>
+      <link>/blog/my-tools-and-services-list/</link>
       <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://willliu.me/blog/my-tools-and-services-list/</guid>
+      <guid>/blog/my-tools-and-services-list/</guid>
         <description>
 
 &lt;h2 id=&#34;我訂閱的服務&#34;&gt;我訂閱的服務&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Notion（於 2019.6.3 開始年度訂閱[以 Credit 折抵 USD$48]）&lt;/li&gt;
+&lt;li&gt;Notion（於 2019.6.3 開始年度訂閱[以 Credit 折抵 USD$48]，2019.9.20 開始轉用教育方案[免費]）&lt;/li&gt;
 &lt;li&gt;愛奇藝 一年（已於 2018.11.27 購買一年期[TWD$990]，2018.3.20購買一年期[$1899]）&lt;/li&gt;
 &lt;li&gt;LINE Mobile 211（2018.11.11 綁約一年，到期後費率不變[TWD$211]）&lt;/li&gt;
 &lt;li&gt;LINE Mobile 111（2018.11.11 綁約一年，到期後費率不變[TWD$111]）&lt;/li&gt;
@@ -110,12 +110,12 @@
 
 &lt;ul&gt;
 &lt;li&gt;Twitter&lt;/li&gt;
-&lt;li&gt;Facebook 個人頁&lt;/li&gt;
 &lt;li&gt;Facebook 社團&lt;/li&gt;
 &lt;li&gt;新浪微博&lt;/li&gt;
 &lt;li&gt;簡書&lt;/li&gt;
-&lt;li&gt;Medium&lt;/li&gt;
+&lt;li&gt;Medium（&lt;a href=&#34;https://willliu.me/blog/good-bye-medium-and-the-reasons/&#34;&gt;低度維護&lt;/a&gt;）&lt;/li&gt;
 &lt;li&gt;Instagram&lt;/li&gt;
+&lt;li&gt;Matter&lt;/li&gt;
 &lt;/ul&gt;
 
         </description>
