@@ -17,7 +17,7 @@
       <guid>/blog/good-bye-medium-and-the-reasons/</guid>
         <description>
 
-&lt;h4 id=&#34;兩個月前-我做了一件事情-離開了-medium-寫作的環境-重新架設這個網站-部落格-未來liu-me-https-g-willliu-me-zawnwh-裡面講到了很多原因-但兩個月之後-我決定要把-medium-的寫作內容完全終止-並且減少閱讀裡面文章的次數&#34;&gt;兩個月前，我做了一件事情，&lt;a href=&#34;https://g.willliu.me/ZawnWH&#34;&gt;離開了 Medium 寫作的環境，重新架設這個網站（部落格）未來Liu.me&lt;/a&gt;，裡面講到了很多原因，但兩個月之後，我決定要把 Medium 的寫作內容完全終止，並且減少閱讀裡面文章的次數。&lt;/h4&gt;
+&lt;h4 id=&#34;兩個月前-我做了一件事情-離開了-medium-寫作的環境-重新架設這個網站-部落格-未來6米-https-g-willliu-me-zawnwh-裡面講到了很多原因-但兩個月之後-我決定要把-medium-的寫作內容完全終止-並且減少閱讀裡面文章的次數&#34;&gt;兩個月前，我做了一件事情，&lt;a href=&#34;https://g.willliu.me/ZawnWH&#34;&gt;離開了 Medium 寫作的環境，重新架設這個網站（部落格）未來6米&lt;/a&gt;，裡面講到了很多原因，但兩個月之後，我決定要把 Medium 的寫作內容完全終止，並且減少閱讀裡面文章的次數。&lt;/h4&gt;
 
 &lt;h2 id=&#34;為什麼&#34;&gt;為什麼？&lt;/h2&gt;
 
@@ -83,7 +83,7 @@
 
 &lt;p&gt;但我覺得，經營 Medium 在考量 SEO 的情況下，你放類似的文字仍然會影響搜尋的排名，且時間也會有額外增加，在成本效益分析上，現階段看起來，是可以被放置的選項。&lt;/p&gt;
 
-&lt;p&gt;接下來，會花點時間把發表過的文章，原版轉放置在「未來Liu.me」上，也一步步將原本的文章修改連結到網站中。&lt;/p&gt;
+&lt;p&gt;接下來，會花點時間把發表過的文章，原版轉放置在「未來6米」上，也一步步將原本的文章修改連結到網站中。&lt;/p&gt;
 
 &lt;p&gt;至於閱讀習慣，目前透過 Facebook、RSS 閱讀器，加上電子書、實體書都已經有很大的滿足。未來實驗後再慢慢分享出來。&lt;/p&gt;
 
@@ -516,7 +516,7 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 
 &lt;h4 id=&#34;近年許多新興語言興起-go語言-golang-就是其中一款-能夠快速的編譯出靜態網頁-加上許多開源性的平台以及網路資源-提供了更好網站架設方式-經過許多評估與思考-決定要將自己網站打掉重練-來看看我的思考過程以及優缺點在哪呢&#34;&gt;近年許多新興語言興起，Go語言（golang）就是其中一款，能夠快速的編譯出靜態網頁，加上許多開源性的平台以及網路資源，提供了更好網站架設方式，經過許多評估與思考，決定要將自己網站打掉重練，來看看我的思考過程以及優缺點在哪呢？&lt;/h4&gt;
 
-&lt;p&gt;最近花了一點時間，將原本架設在 Blogger 的網站，全數都轉使用 Hugo 的架構，並且利用 GitHub Pages 當作網頁伺服器，主要的三個網站：&lt;a href=&#34;https://www.herearoma.com&#34;&gt;循香匯&lt;/a&gt;、&lt;a href=&#34;https://blog.herearoma.com&#34;&gt;塔香食譜&lt;/a&gt;、&lt;a href=&#34;https://willliu.me/blog/&#34;&gt;未來 Liu.me&lt;/a&gt;，透過不同的版型全數上架。花了兩三個整天的時間，想說來特別來記錄一下。&lt;/p&gt;
+&lt;p&gt;最近花了一點時間，將原本架設在 Blogger 的網站，全數都轉使用 Hugo 的架構，並且利用 GitHub Pages 當作網頁伺服器，主要的三個網站：&lt;a href=&#34;https://www.herearoma.com&#34;&gt;循香匯&lt;/a&gt;、&lt;a href=&#34;https://blog.herearoma.com&#34;&gt;塔香食譜&lt;/a&gt;、&lt;a href=&#34;https://willliu.me/blog/&#34;&gt;未來6米&lt;/a&gt;，透過不同的版型全數上架。花了兩三個整天的時間，想說來特別來記錄一下。&lt;/p&gt;
 
 &lt;h2 id=&#34;為什麼想要換&#34;&gt;為什麼想要換&lt;/h2&gt;
 
