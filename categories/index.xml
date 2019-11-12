@@ -6,8 +6,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JGC</title>
+      <link>/categories/jgc/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/jgc/</guid>
+        <description>
+        </description>
+    </item>
     
     <item>
       <title>硬體</title>
