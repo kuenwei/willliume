@@ -320,22 +320,25 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 
 &lt;li&gt;&lt;p&gt;因應會在不同裝置的情況，不自動放大縮小，還是開放 scroll bar 捲動。&lt;/p&gt;
 
-&lt;p&gt;const EventRegEnd = Date.parse(&amp;lsquo;08 Mar 2020 09:00:00 GMT+8&amp;rsquo;); //設定活動截止公告時間&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+const EventRegEnd = Date.parse(&#39;08 Mar 2020 09:00:00 GMT+8&#39;); //設定活動截止公告時間
 
-&lt;p&gt;if ( EventRegEnd &amp;gt; Date.now())
-{&lt;/p&gt;
+if ( EventRegEnd &amp;gt; Date.now())
+{
 
-&lt;p&gt;document.writeln(&amp;rsquo;&lt;div style=&#34;display: table; overflow: hidden; width: 600px; height: 130px; max-height: 130px; margin: 0px auto; background-image: url(\&#39;https://ik.imagekit.io/kuenwei/banner/20191208_EO_Background_800x150_ABaTu4uz3.png\&#39;); background-repeat: no-repeat; background-size: cover; background-attachment: ; background-position: left top; padding-right: 1.5%; padding-left: 185px; border: 1px solid #333;&#34;&gt;&amp;rsquo;);
-document.writeln(&amp;rsquo;&lt;div style=&#34;display: table-cell; vertical-align: middle;&#34;&gt;&amp;rsquo;);
-document.writeln(&amp;rsquo;&lt;div&gt;&amp;rsquo;);
-document.writeln(&amp;rsquo;&lt;h3 style=&#34;font-size: 25px !important; margin:0px; margin-bottom: 3px; padding: 0px; text-align: left; line-height: 1.1em;&#34;&gt;EO 公益體驗&lt;/h3&gt;&amp;rsquo;); //活動標題
-document.writeln(&amp;rsquo;&lt;span style=&#34;font-size: 15px !important; font-family: sans-serif; line-height: 0.9em;&#34;&gt;即日起至 2020/3/8 ，限額 15 人，額滿即止。&lt;/span&gt;&amp;rsquo;); //活動文字
-document.writeln(&amp;rsquo;&lt;a href=&#34;https://he2.tw/eoevent&#34; style=&#34;font-weight: bold; font-size: 15px !important; cursor: pointer; font-family: sans-serif !important;&#34;&gt;【點此參加】&lt;/a&gt;&amp;rsquo;); //活動連結
-document.writeln(&amp;rsquo;&lt;/div&gt;&amp;rsquo;);
-document.writeln(&amp;rsquo;&lt;/div&gt;&amp;rsquo;);
-document.writeln(&amp;rsquo;&lt;/div&gt;&amp;rsquo;);&lt;/p&gt;
+document.writeln(&#39;&amp;lt;div style=&amp;quot;display: table; overflow: hidden; width: 600px; height: 130px; max-height: 130px; margin: 0px auto; background-image: url(\&#39;https://ik.imagekit.io/kuenwei/banner/20191208_EO_Background_800x150_ABaTu4uz3.png\&#39;); background-repeat: no-repeat; background-size: cover; background-attachment: ; background-position: left top; padding-right: 1.5%; padding-left: 185px; border: 1px solid #333;&amp;quot;&amp;gt;&#39;);
+document.writeln(&#39;&amp;lt;div style=&amp;quot;display: table-cell; vertical-align: middle;&amp;quot;&amp;gt;&#39;);
+document.writeln(&#39;&amp;lt;div&amp;gt;&#39;);
+document.writeln(&#39;&amp;lt;h3 style=&amp;quot;font-size: 25px !important; margin:0px; margin-bottom: 3px; padding: 0px; text-align: left; line-height: 1.1em;&amp;quot;&amp;gt;EO 公益體驗&amp;lt;/h3&amp;gt;&#39;); //活動標題
+document.writeln(&#39;&amp;lt;span style=&amp;quot;font-size: 15px !important; font-family: sans-serif; line-height: 0.9em;&amp;quot;&amp;gt;即日起至 2020/3/8 ，限額 15 人，額滿即止。&amp;lt;/span&amp;gt;&#39;); //活動文字
+document.writeln(&#39;&amp;lt;a href=&amp;quot;https://he2.tw/eoevent&amp;quot; style=&amp;quot;font-weight: bold; font-size: 15px !important; cursor: pointer; font-family: sans-serif !important;&amp;quot;&amp;gt;【點此參加】&amp;lt;/a&amp;gt;&#39;); //活動連結
+document.writeln(&#39;&amp;lt;/div&amp;gt;&#39;);
+document.writeln(&#39;&amp;lt;/div&amp;gt;&#39;);
+document.writeln(&#39;&amp;lt;/div&amp;gt;&#39;);
 
-&lt;p&gt;}&lt;/p&gt;&lt;/li&gt;
+}
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
