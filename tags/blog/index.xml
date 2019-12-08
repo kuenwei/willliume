@@ -494,6 +494,38 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 
 &lt;hr /&gt;
 
+&lt;h2 id=&#34;plugins&#34;&gt;Plugins&lt;/h2&gt;
+
+&lt;h3 id=&#34;banner&#34;&gt;Banner&lt;/h3&gt;
+
+&lt;p&gt;使用 Javascript 方便在不同的頁面內嵌，透過文字跟底圖的方式，可用一張底圖代表活動類型，並每次修改文字，減少製圖的時間與金錢成本。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;透過時間判斷，自動下架已經不再開放的活動，避免需要手動下架。&lt;/li&gt;
+&lt;li&gt;使用 div-table 讓文字可以自動置中。&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;因應會在不同裝置的情況，不自動放大縮小，還是開放 scroll bar 捲動。&lt;/p&gt;
+
+&lt;p&gt;const EventRegEnd = Date.parse(&amp;lsquo;08 Mar 2020 09:00:00 GMT+8&amp;rsquo;); //設定活動截止公告時間&lt;/p&gt;
+
+&lt;p&gt;if ( EventRegEnd &amp;gt; Date.now())
+{&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;rsquo;&lt;div style=&#34;display: table; overflow: hidden; width: 600px; height: 130px; max-height: 130px; margin: 0px auto; background-image: url(\&#39;https://ik.imagekit.io/kuenwei/banner/20191208_EO_Background_800x150_ABaTu4uz3.png\&#39;); background-repeat: no-repeat; background-size: cover; background-attachment: ; background-position: left top; padding-right: 1.5%; padding-left: 185px; border: 1px solid #333;&#34;&gt;&amp;rsquo;);
+document.writeln(&amp;rsquo;&lt;div style=&#34;display: table-cell; vertical-align: middle;&#34;&gt;&amp;rsquo;);
+document.writeln(&amp;rsquo;&lt;div&gt;&amp;rsquo;);
+document.writeln(&amp;rsquo;&lt;h3 style=&#34;font-size: 25px !important; margin:0px; margin-bottom: 3px; padding: 0px; text-align: left; line-height: 1.1em;&#34;&gt;EO 公益體驗&lt;/h3&gt;&amp;rsquo;); //活動標題
+document.writeln(&amp;rsquo;&lt;span style=&#34;font-size: 15px !important; font-family: sans-serif; line-height: 0.9em;&#34;&gt;即日起至 2020/3/8 ，限額 15 人，額滿即止。&lt;/span&gt;&amp;rsquo;); //活動文字
+document.writeln(&amp;rsquo;&lt;a href=&#34;https://he2.tw/eoevent&#34; style=&#34;font-weight: bold; font-size: 15px !important; cursor: pointer; font-family: sans-serif !important;&#34;&gt;【點此參加】&lt;/a&gt;&amp;rsquo;); //活動連結
+document.writeln(&amp;rsquo;&lt;/div&gt;&amp;rsquo;);
+document.writeln(&amp;rsquo;&lt;/div&gt;&amp;rsquo;);
+document.writeln(&amp;rsquo;&lt;/div&gt;&amp;rsquo;);&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
 &lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
 
 &lt;ul&gt;

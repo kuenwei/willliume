@@ -133,7 +133,7 @@
                                     <i class="far fa-star"></i>
                                     Apr 8, 2019
                                     <i class="far fa-clock clock"></i>
-                                    閱讀成本 4 分鐘
+                                    閱讀成本 5 分鐘
                                 <ul class="categories">
                                     <i class="far fa-folder"></i>
                                     
@@ -454,6 +454,38 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
 <li><a href="https://gohugo.io/functions/countrunes/">countrunes</a>：依照 CJK 方式計算字元</li>
 <li>更多參考資料：
 <a href="https://kodify.net/hugo/strings/string-length/">https://kodify.net/hugo/strings/string-length/</a></li>
+</ul>
+
+<hr />
+
+<h2 id="plugins">Plugins</h2>
+
+<h3 id="banner">Banner</h3>
+
+<p>使用 Javascript 方便在不同的頁面內嵌，透過文字跟底圖的方式，可用一張底圖代表活動類型，並每次修改文字，減少製圖的時間與金錢成本。</p>
+
+<ul>
+<li>透過時間判斷，自動下架已經不再開放的活動，避免需要手動下架。</li>
+<li>使用 div-table 讓文字可以自動置中。</li>
+
+<li><p>因應會在不同裝置的情況，不自動放大縮小，還是開放 scroll bar 捲動。</p>
+
+<p>const EventRegEnd = Date.parse(&lsquo;08 Mar 2020 09:00:00 GMT+8&rsquo;); //設定活動截止公告時間</p>
+
+<p>if ( EventRegEnd &gt; Date.now())
+{</p>
+
+<p>document.writeln(&rsquo;<div style="display: table; overflow: hidden; width: 600px; height: 130px; max-height: 130px; margin: 0px auto; background-image: url(\'https://ik.imagekit.io/kuenwei/banner/20191208_EO_Background_800x150_ABaTu4uz3.png\'); background-repeat: no-repeat; background-size: cover; background-attachment: ; background-position: left top; padding-right: 1.5%; padding-left: 185px; border: 1px solid #333;">&rsquo;);
+document.writeln(&rsquo;<div style="display: table-cell; vertical-align: middle;">&rsquo;);
+document.writeln(&rsquo;<div>&rsquo;);
+document.writeln(&rsquo;<h3 style="font-size: 25px !important; margin:0px; margin-bottom: 3px; padding: 0px; text-align: left; line-height: 1.1em;">EO 公益體驗</h3>&rsquo;); //活動標題
+document.writeln(&rsquo;<span style="font-size: 15px !important; font-family: sans-serif; line-height: 0.9em;">即日起至 2020/3/8 ，限額 15 人，額滿即止。</span>&rsquo;); //活動文字
+document.writeln(&rsquo;<a href="https://he2.tw/eoevent" style="font-weight: bold; font-size: 15px !important; cursor: pointer; font-family: sans-serif !important;">【點此參加】</a>&rsquo;); //活動連結
+document.writeln(&rsquo;</div>&rsquo;);
+document.writeln(&rsquo;</div>&rsquo;);
+document.writeln(&rsquo;</div>&rsquo;);</p>
+
+<p>}</p></li>
 </ul>
 
 <hr />
