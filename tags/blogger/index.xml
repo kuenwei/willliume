@@ -15,84 +15,52 @@
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/digital-blogger-transfer-to-hugo/</guid>
-        <description>
-
-&lt;h5 id=&#34;圖片來源-rawpixel-com-pexel-https-www-pexels-com-rawpixel&#34;&gt;圖片來源：&lt;a href=&#34;https://www.pexels.com/@rawpixel&#34;&gt;rawpixel.com @ PEXEL&lt;/a&gt;&lt;/h5&gt;
-
-&lt;h4 id=&#34;近年許多新興語言興起-go語言-golang-就是其中一款-能夠快速的編譯出靜態網頁-加上許多開源性的平台以及網路資源-提供了更好網站架設方式-經過許多評估與思考-決定要將自己網站打掉重練-來看看我的思考過程以及優缺點在哪呢&#34;&gt;近年許多新興語言興起，Go語言（golang）就是其中一款，能夠快速的編譯出靜態網頁，加上許多開源性的平台以及網路資源，提供了更好網站架設方式，經過許多評估與思考，決定要將自己網站打掉重練，來看看我的思考過程以及優缺點在哪呢？&lt;/h4&gt;
-
+        <description>&lt;h5 id=&#34;rawpixelcom--pexelhttpswwwpexelscomrawpixel&#34;&gt;圖片來源：&lt;a href=&#34;https://www.pexels.com/@rawpixel&#34;&gt;rawpixel.com @ PEXEL&lt;/a&gt;&lt;/h5&gt;
+&lt;h4 id=&#34;gogolang&#34;&gt;近年許多新興語言興起，Go語言（golang）就是其中一款，能夠快速的編譯出靜態網頁，加上許多開源性的平台以及網路資源，提供了更好網站架設方式，經過許多評估與思考，決定要將自己網站打掉重練，來看看我的思考過程以及優缺點在哪呢？&lt;/h4&gt;
 &lt;p&gt;最近花了一點時間，將原本架設在 Blogger 的網站，全數都轉使用 Hugo 的架構，並且利用 GitHub Pages 當作網頁伺服器，主要的三個網站：&lt;a href=&#34;https://www.herearoma.com&#34;&gt;循香匯&lt;/a&gt;、&lt;a href=&#34;https://blog.herearoma.com&#34;&gt;塔香食譜&lt;/a&gt;、&lt;a href=&#34;https://willliu.me/blog/&#34;&gt;未來6米&lt;/a&gt;，透過不同的版型全數上架。花了兩三個整天的時間，想說來特別來記錄一下。&lt;/p&gt;
-
-&lt;h2 id=&#34;為什麼想要換&#34;&gt;為什麼想要換&lt;/h2&gt;
-
+&lt;h2 id=&#34;heading&#34;&gt;為什麼想要換&lt;/h2&gt;
 &lt;p&gt;更換的原因可以列出很多，但如果找一個最主要的原因，其實是需求上的改變。&lt;/p&gt;
-
 &lt;p&gt;其實寫部落格已經超過 10 年了（自 eyewithouts 第一篇文章 2006.12.6 開始，網站已封存），在那個還是學生的時代，其實也寫過不少所謂的爆文，6 年累積了 14 多萬的點閱數，不乏有單篇過萬。但隨著人生階段的改變，以及數位工具的演進，寫作時間、觀點與模式都已經有所不同。&lt;/p&gt;
-
 &lt;p&gt;從寫作時間來說，以往能夠有一段完整的時間寫作，加上充份的 Input 與 Output 的情況下，只要開啟平台，就能夠行雲流水的寫出來。但隨著工作的繁重，以及自我成長的議題改變，時間愈趨碎片化，要能夠有一個完整的時間好好寫作，已經相對困難。&lt;/p&gt;
-
 &lt;p&gt;另外一方面，在 Blog 盛行的年代，許多寫作者並沒有太多工具可以選擇，甚至部分需要透過 HTML 去完整一篇文章。但就像我說的，當我們時間碎片化，要能夠兼顧排版等等，其實更需要有效的管理工具，這一部分 Blogger 相對來說，就支援有限。&lt;/p&gt;
-
 &lt;p&gt;因為 Blogger 目前並沒有一個很好的官方寫作平台，尤其是沒有一個能夠適用於各種裝置的平台，除非我們透過第三方軟體，但這也不是我習慣的方式。&lt;/p&gt;
-
 &lt;p&gt;同時，隨著越來越龐大的版型，每一次的修改版型對我的技術限制來說，就是疊床架屋，要重新梳理又太曠日費時，因此起了打掉重練的念頭。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;選擇的重點&#34;&gt;選擇的重點&lt;/h2&gt;
-
+&lt;hr&gt;
+&lt;h2 id=&#34;heading-1&#34;&gt;選擇的重點&lt;/h2&gt;
 &lt;p&gt;決定打掉重練之後，就會有一個選擇的過程，而在每一次的選擇之中，都是重新思考的需求的契機。&lt;/p&gt;
-
-&lt;p&gt;我這次的轉變，需求是：
-1. 簡單：操作與版型的調整簡單，所謂的簡單是在既有能力之下好操作。
-2. 方便：能夠適應新的書寫模式，並且打破書寫時間、環境的限制。
-3. 乾淨：讓閱讀者有良好的經驗，乾淨與跨裝飾自適應的版面。&lt;/p&gt;
-
+&lt;p&gt;我這次的轉變，需求是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;簡單：操作與版型的調整簡單，所謂的簡單是在既有能力之下好操作。&lt;/li&gt;
+&lt;li&gt;方便：能夠適應新的書寫模式，並且打破書寫時間、環境的限制。&lt;/li&gt;
+&lt;li&gt;乾淨：讓閱讀者有良好的經驗，乾淨與跨裝飾自適應的版面。&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;因為我實際的需求，並不是要架設一個複雜的網站，加上希望在成本低廉的情況下進行，所以能夠有免費資源可能是最重要的。&lt;/p&gt;
-
 &lt;p&gt;很開心現在的網路環境更加開放，以前要找個免費空間，不是被廣告綁架，就是有很多限制。現在開源的概念下，有了 GitHub 這個很棒的服務，能夠架設靜態網站架構，雖然會讓程式碼開源（可以加購 Pro 版改變隱私權），但因本來我所有東西都是公開的，就少了這層疑慮。&lt;/p&gt;
-
 &lt;p&gt;經過許多評估，期間看過 Wordpress、Jekyll 或者參考 Blogger 其他簡潔的版型，最後終於在看到 Hugo 的時候，找到了想要嘗試看看的標的。&lt;/p&gt;
-
 &lt;p&gt;選擇 Hugo 大致上已經滿足了以上的我的需求，其中一個就是書寫的環境，我近年使用 Markdown 的頻率增加，Hugo 可以完全支持 Markdown 並透過 CSS 設定格式，真的是大獲我心。&lt;/p&gt;
-
 &lt;p&gt;加上配置簡單，這兩點讓我最終在現行的需求下，選擇了 Hugo。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;更換後的感覺&#34;&gt;更換後的感覺&lt;/h2&gt;
-
+&lt;hr&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;更換後的感覺&lt;/h2&gt;
 &lt;p&gt;更換最痛苦的就是搬文章的過程，但好處是有重新省視的機會，還好 Hugo 兼容 Markdown 與 HTML，讓我不用每一篇都要重新用 Markdown 的方式編輯，這好像也是 Markdown 原生就可以跟 HTML 共生。&lt;/p&gt;
-
 &lt;p&gt;不過，在使用軟體與服務上面則大幅改變，也幫助我重新梳理我的數位工作型態，以往習慣寫好後用 Blogger 透過 HTML 完整編輯的方式，有了全新的套路。&lt;/p&gt;
-
-&lt;h3 id=&#34;編輯流程&#34;&gt;編輯流程&lt;/h3&gt;
-
+&lt;h3 id=&#34;heading-3&#34;&gt;編輯流程&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;書寫：MWeb&lt;/li&gt;
 &lt;li&gt;排版：Sublime Text&lt;/li&gt;
 &lt;li&gt;轉譯：Hugo&lt;/li&gt;
 &lt;li&gt;上傳：GitHub Desktop&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h3 id=&#34;圖床&#34;&gt;圖床&lt;/h3&gt;
-
+&lt;h3 id=&#34;heading-4&#34;&gt;圖床&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;根圖床：GitHub Page（與網站存放空間相同）&lt;/li&gt;
 &lt;li&gt;主圖床：imgbox（大型圖檔使用）&lt;/li&gt;
 &lt;li&gt;次圖床：imgur（備份用）&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;小提醒：圖片還是要在自己電腦中留一份。&lt;/p&gt;
-
 &lt;p&gt;其實這個新的流程，產生了一個新的數位寫作以及網站經營的模式，未來也會一一上述的軟體或者服務（Hugo已於這篇概述）來介紹一下。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;優缺點評析&#34;&gt;優缺點評析&lt;/h2&gt;
-
+&lt;hr&gt;
+&lt;h2 id=&#34;heading-5&#34;&gt;優缺點評析&lt;/h2&gt;
 &lt;p&gt;優點&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;能使用 Markdown 書寫，同時兼容 HTML&lt;/li&gt;
 &lt;li&gt;轉換成網頁的速度極快&lt;/li&gt;
@@ -101,9 +69,7 @@
 &lt;li&gt;多元的版型可以使用&lt;/li&gt;
 &lt;li&gt;靜態網頁的免費空間好找&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;缺點&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;靜態網頁生成，沒有互動性&lt;/li&gt;
 &lt;li&gt;互動要靠外掛模組，例如 DISQUS&lt;/li&gt;

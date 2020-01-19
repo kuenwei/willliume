@@ -2,7 +2,7 @@
 <html lang="zh-tw"><head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="generator" content="Hugo 0.57.2" />
+        <meta name="generator" content="Hugo 0.62.0" />
 	
 	
 	<link rel="icon" href="https://ik.imagekit.io/kuenwei/willliu_me/logo_yIlTPPZSv.png">
@@ -165,75 +165,56 @@
 
                     
                     <div class="article-post">
-                        
-
-<h4 id="把自己栽入-hugo-成為網站的工具的人生-一點點紀錄-然後有計劃地慢慢往前進">把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。</h4>
-
-<h2 id="目前使用-hugo-我的網站">目前使用 Hugo 我的網站</h2>
-
+                        <h4 id="-hugo-">把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。</h4>
+<h2 id="-hugo">目前使用 Hugo 我的網站</h2>
 <ul>
-<li>未來6米：<a href="https://willliu.me">https://willliu.me</a></li>
-<li>塔香食譜：<a href="https://blog.he2.in">https://blog.he2.in</a></li>
-<li>工作室：<a href="https://he2.in">https://he2.in</a></li>
+<li>未來6米：https://willliu.me</li>
+<li>塔香食譜：https://blog.he2.in</li>
+<li>工作室：https://he2.in</li>
 <li>色調：
 主色 #087eee3, rgb(8,126,227)
 強調色 #E37E08, rgb(227,126,8)</li>
 </ul>
-
-<h2 id="基礎設定-適用全體">基礎設定（適用全體）</h2>
-
+<h2 id="heading">基礎設定（適用全體）</h2>
 <ul>
 <li>Meta Tag 優化：單獨 partial 成一個頁面</li>
 <li>SEO 優化研究：刪除重複</li>
 <li>rss 訂閱頁面</li>
 <li>研究一下 .Paginate 函數（發覺來自 willliu.me）</li>
 </ul>
-
-<hr />
-
-<h2 id="hugo-重要設定-已完成">Hugo 重要設定（已完成）</h2>
-
+<hr>
+<h2 id="hugo-">Hugo 重要設定（已完成）</h2>
 <ul>
-<li><p>感謝 Google 大神，網路上找到了一段設定值，這個很有用，基本上同時解決了許多問題，包含(1)字數統計失真；(2)摘要擷取判斷錯誤。</p>
-
+<li>
+<p>感謝 Google 大神，網路上找到了一段設定值，這個很有用，基本上同時解決了許多問題，包含(1)字數統計失真；(2)摘要擷取判斷錯誤。</p>
 <pre><code>hasCJKLanguage (false)
 If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will make .Summary and .WordCount behave correctly for CJK languages.
-</code></pre>
-
-<ul>
-<li>RSS 更新
-原 rss 僅顯示摘要，為了方便訂閱者閱讀，要做全文的更新，但遇到困難點：圖片需要改為絕對位置，不能使用相對位置。因此參考以下文章，並增修絕對路徑如下。</li>
-</ul>
-
+</code></pre></li>
+<li>
+<p>RSS 更新
+原 rss 僅顯示摘要，為了方便訂閱者閱讀，要做全文的更新，但遇到困難點：圖片需要改為絕對位置，不能使用相對位置。因此參考以下文章，並增修絕對路徑如下。</p>
 <p>檔案的部分，需要放在你選用主題底下 <code>layouts/_default/rss.xml</code></p>
-
 <pre><code>&lt;description&gt;{{ replaceRE &quot;img src=\&quot;(.*?)\&quot;&quot; (printf &quot;%s%s%s&quot; &quot;img src=\&quot;&quot; .Site.Params.blogimgdir &quot;$1\&quot;&quot;) .Content | html }}&lt;/description&gt;
-</code></pre>
-
-<p>Source: <a href="https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/">https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/</a>
-Source: <a href="https://ar.al/2018/07/01/refining-the-rss/">https://ar.al/2018/07/01/refining-the-rss/</a></p></li>
-
-<li><p>更新圖片為絕對路徑
+</code></pre><p>Source: <a href="https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/">https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/</a>
+Source: <a href="https://ar.al/2018/07/01/refining-the-rss/">https://ar.al/2018/07/01/refining-the-rss/</a></p>
+</li>
+<li>
+<p>更新圖片為絕對路徑
 修改文章顯示文章的 partial HTML 內的 <code>{{ .Content }}</code> 如下。</p>
-
 <pre><code>{{ replaceRE &quot;img src=\&quot;(.*?)\&quot;&quot; (printf &quot;%s%s%s&quot; &quot;img src=\&quot;&quot; .Site.Params.blogimgdir &quot;$1\&quot;&quot;) .Content | safeHTML }}
-</code></pre>
-
-<p>同時於 <code>config.toml</code> 增加函數</p>
-
+</code></pre><p>同時於 <code>config.toml</code> 增加函數</p>
 <pre><code>[params]
   blogimgdir = &quot;/blog/&quot;
 </code></pre></li>
 </ul>
-
-<h3 id="相關文章">相關文章</h3>
-
+<h3 id="heading-1">相關文章</h3>
 <ul>
-<li>新增 partials HTML 檔案，原始檔案參考如下：
-Source: <a href="https://gohugo.io/content-management/related/">https://gohugo.io/content-management/related/</a></li>
-
-<li><p>修改 CSS 樣式</p>
-
+<li>
+<p>新增 partials HTML 檔案，原始檔案參考如下：
+Source: <a href="https://gohugo.io/content-management/related/">https://gohugo.io/content-management/related/</a></p>
+</li>
+<li>
+<p>修改 CSS 樣式</p>
 <pre><code>.related-post {
   width:100%;
   height: auto;
@@ -272,22 +253,18 @@ Source: <a href="https://gohugo.io/content-management/related/">https://gohugo.i
   object-fit: cover; //圖片裁切
 }
 </code></pre></li>
-
-<li><p>增加 <code>partial</code> 檔案在想要出現的地方</p></li>
+<li>
+<p>增加 <code>partial</code> 檔案在想要出現的地方</p>
+</li>
 </ul>
-
-<h3 id="標籤雲">標籤雲</h3>
-
+<h3 id="heading-2">標籤雲</h3>
 <p>單獨設定標籤與分類樣式，需要在 <code>layouts/_default/</code> 新增樣式設定檔案 <code>term.html</code>（或<a href="https://gohugo.io/templates/lookup-order/">其他可用的檔案名稱</a>），並設定成自己想要的模板。記得頭尾的 <code>partial</code> 都要引入。</p>
-
 <p>Source: <a href="http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/">http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/</a>
 Source: <a href="https://gohugo.io/templates/lookup-order/">https://gohugo.io/templates/lookup-order/</a>
 Source: <a href="https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/">https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/</a>
 Source: <a href="https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/">https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/</a>
 Source: <a href="https://note.qidong.name/2017/10/hugo-taxonomy/">https://note.qidong.name/2017/10/hugo-taxonomy/</a></p>
-
-<h2 id="未來-liu-me">未來 Liu.me</h2>
-
+<h2 id="-liume">未來 Liu.me</h2>
 <ul>
 <li>Tags/Categories 頁面的樣式設定：移除方框下面的多餘訊息，並看是否能夠增加每個分類的總數</li>
 <li>blog/media 改為絕對路徑</li>
@@ -295,28 +272,21 @@ Source: <a href="https://note.qidong.name/2017/10/hugo-taxonomy/">https://note.q
 <li>尾部的版權</li>
 <li>思考是否加入 Disqus 留言平台</li>
 </ul>
-
-<hr />
-
+<hr>
 <ul>
-<li><p>電子郵件訂閱〈短期方案 2019.4.8〉</p>
-
+<li>
+<p>電子郵件訂閱〈短期方案 2019.4.8〉</p>
 <p>先透過 Google Feedburner 收集 Email，未來在考慮是否移轉至電子報系統，目前參考系統為台灣廠商「電子豹」，但因正值改版時期，新版的訂閱表單還在開發中，尚無法透過表單收集。</p>
-
-<p>離開 Upscribe 的原因：(1) 無法自訂表單，代表活化的程度不高；(2) 已經不再使用 Medium 收集 Email，Upscribe 優勢較低。</p></li>
+<p>離開 Upscribe 的原因：(1) 無法自訂表單，代表活化的程度不高；(2) 已經不再使用 Medium 收集 Email，Upscribe 優勢較低。</p>
+</li>
 </ul>
-
-<hr />
-
+<hr>
 <ul>
-<li><p>Table 相關 css 修改〈已完成 2019.4.13〉</p>
-
+<li>
+<p>Table 相關 css 修改〈已完成 2019.4.13〉</p>
 <p>Hugo 支援使用 Markdown 語法建立的表格（但原始 Markdown 即不支援合併儲存格功能），因此需要自訂表格樣式。參考如下程式碼，並以黑白為設計樣式。</p>
-
 <p>Source: <a href="https://codepen.io/cssgrid/pen/pRXQzW">https://codepen.io/cssgrid/pen/pRXQzW</a></p>
-
 <p>Source: <a href="https://pjchender.blogspot.com/2015/12/table-with-border-radius.html">https://pjchender.blogspot.com/2015/12/table-with-border-radius.html</a></p>
-
 <pre><code>{
   box-sizing: border-box;
 }
@@ -368,13 +338,10 @@ td:last-child{
   border-bottom-right-radius: 10px;
 }
 </code></pre></li>
-
-<li><p>Table css 修改後，思考如何變成 Responsive〈已完成 2019.4.13〉</p>
-
+<li>
+<p>Table css 修改後，思考如何變成 Responsive〈已完成 2019.4.13〉</p>
 <p>本次採用若寬度小於表格寬度，則出現橫向 scroll bar 的方式，一方面是考慮資訊的完整性（以提供資訊為主的寫作方向），同時也能夠影響到最少的版型，構思的時候，有想到符碼記憶的表現方式。</p>
-
 <p>Source: <a href="https://codepen.io/cssgrid/pen/pRXQzW">https://codepen.io/cssgrid/pen/pRXQzW</a></p>
-
 <pre><code>table {
   margin: auto;
   border-collapse: collapse;
@@ -385,15 +352,13 @@ td:last-child{
   box-shadow: 0 0 1px 1px rgba(0, 0, 0, .1);
 }
 </code></pre></li>
-
-<li><p>作者下面增加 Categories 欄位〈已完成 2019.4.9〉</p></li>
-
-<li><p>連外網頁自動開新視窗〈已完成 2019.4.8〉</p>
-
+<li>
+<p>作者下面增加 Categories 欄位〈已完成 2019.4.9〉</p>
+</li>
+<li>
+<p>連外網頁自動開新視窗〈已完成 2019.4.8〉</p>
 <p>在頁尾 <code>&lt;/body&gt;</code> 前面加上以下程式碼</p>
-
-<p>Source：<a href="https://gist.github.com/CrocoDillon/7989214">https://gist.github.com/CrocoDillon/7989214</a></p>
-
+<p>Source：https://gist.github.com/CrocoDillon/7989214</p>
 <pre><code>&lt;!--判斷網域後外連網址--&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   var links = document.links;
@@ -404,114 +369,103 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
   }
 &lt;/script&gt;
 </code></pre></li>
-
-<li><p>左上角的 logo 改連至部落格主頁〈已完成 2019.4.8〉</p>
-
-<p>暫時使用絕對路徑後面連綴 <code>/blog/</code></p></li>
-
-<li><p>本文內的超連結改為黑色字體，主色的底線，移動過去後改變字體顏色（參考報導者網站後的想法）〈已完成 2019.4.8〉</p>
-
-<p>透過 css 單獨設定文章區塊的 <code>a</code> 以及 <code>a:hover</code></p></li>
-
-<li><p>LINE 的分享按鈕製作〈已完成 2019.4.7〉</p>
-
-<p>Source: <a href="https://org-media.line.me/zh_TW/how_to_install#lineitbutton">https://org-media.line.me/zh_TW/how_to_install#lineitbutton</a></p></li>
+<li>
+<p>左上角的 logo 改連至部落格主頁〈已完成 2019.4.8〉</p>
+<p>暫時使用絕對路徑後面連綴 <code>/blog/</code></p>
+</li>
+<li>
+<p>本文內的超連結改為黑色字體，主色的底線，移動過去後改變字體顏色（參考報導者網站後的想法）〈已完成 2019.4.8〉</p>
+<p>透過 css 單獨設定文章區塊的 <code>a</code> 以及 <code>a:hover</code></p>
+</li>
+<li>
+<p>LINE 的分享按鈕製作〈已完成 2019.4.7〉</p>
+<p>Source: <a href="https://org-media.line.me/zh_TW/how_to_install#lineitbutton">https://org-media.line.me/zh_TW/how_to_install#lineitbutton</a></p>
+</li>
 </ul>
-
-<hr />
-
-<h2 id="其他">其他</h2>
-
+<hr>
+<h2 id="heading-3">其他</h2>
 <ul>
 <li>研究 relLangURL、<a href="https://gohugo.io/functions/absurl/">absURL</a></li>
 <li>研究 <a href="https://gohugo.io/functions/urlize/">urlize</a></li>
 <li>電子報訂閱更新：Herearoma 首頁下方，blog 如何增加？</li>
 </ul>
-
-<hr />
-
-<h2 id="hugo-函數研究">Hugo 函數研究</h2>
-
+<hr>
+<h2 id="hugo--1">Hugo 函數研究</h2>
 <h3 id="replace">Replace</h3>
-
 <ul>
 <li><a href="https://gohugo.io/functions/replacere/">replaceRE</a>：可以規則表達式當替代目標的</li>
 </ul>
-
 <h3 id="html">HTML</h3>
-
 <ul>
 <li>html：正常 HTML 顯示成文字</li>
 <li><a href="https://gohugo.io/functions/htmlescape/">htmlEscape</a>：不顯示跳脫符號</li>
 <li><a href="https://gohugo.io/functions/htmlunescape/">htmlUnescape</a>：跳脫符號顯示</li>
 <li><a href="https://gohugo.io/functions/safehtml/">safeHTML</a>：將 HTML 正常顯示為 code。</li>
 </ul>
-
-<h3 id="字元">字元</h3>
-
+<h3 id="heading-4">字元</h3>
 <ul>
 <li><a href="https://gohugo.io/functions/strings.runecount/">strings.RuneCount</a>：計算字元數，會把英文字母當一個字元。</li>
 <li><a href="https://gohugo.io/functions/countrunes/">countrunes</a>：依照 CJK 方式計算字元</li>
 <li>更多參考資料：
 <a href="https://kodify.net/hugo/strings/string-length/">https://kodify.net/hugo/strings/string-length/</a></li>
 </ul>
-
-<hr />
-
+<hr>
 <h2 id="plugins">Plugins</h2>
-
 <h3 id="banner">Banner</h3>
-
 <p>使用 Javascript 方便在不同的頁面內嵌，透過文字跟底圖的方式，可用一張底圖代表活動類型，並每次修改文字，減少製圖的時間與金錢成本。</p>
-
 <ul>
-<li>透過時間判斷，自動下架已經不再開放的活動，避免需要手動下架。</li>
-<li>使用 div-table 讓文字可以自動置中。</li>
-
-<li><p>因應會在不同裝置的情況，不自動放大縮小，還是開放 scroll bar 捲動。</p>
-
+<li>
+<p>透過時間判斷，自動下架已經不再開放的活動，避免需要手動下架。</p>
+</li>
+<li>
+<p>使用 div-table 讓文字可以自動置中。</p>
+</li>
+<li>
+<p>因應會在不同裝置的情況，不自動放大縮小，還是開放 scroll bar 捲動。</p>
 <pre><code>
-const EventRegEnd = Date.parse('08 Mar 2020 09:00:00 GMT+8'); //設定活動截止公告時間
+  const EventRegEnd = Date.parse('08 Mar 2020 09:00:00 GMT+8'); //設定活動截止公告時間
 
-if ( EventRegEnd &gt; Date.now())
-{
+  if ( EventRegEnd &gt; Date.now())
+  {
 
-document.writeln('&lt;div style=&quot;display: table; overflow: hidden; width: 600px; height: 130px; max-height: 130px; margin: 0px auto; background-image: url(\'https://ik.imagekit.io/kuenwei/banner/20191208_EO_Background_800x150_ABaTu4uz3.png\'); background-repeat: no-repeat; background-size: cover; background-attachment: ; background-position: left top; padding-right: 1.5%; padding-left: 185px; border: 1px solid #333;&quot;&gt;');
-document.writeln('&lt;div style=&quot;display: table-cell; vertical-align: middle;&quot;&gt;');
-document.writeln('&lt;div&gt;');
-document.writeln('&lt;h3 style=&quot;font-size: 25px !important; margin:0px; margin-bottom: 3px; padding: 0px; text-align: left; line-height: 1.1em;&quot;&gt;EO 公益體驗&lt;/h3&gt;'); //活動標題
-document.writeln('&lt;span style=&quot;font-size: 15px !important; font-family: sans-serif; line-height: 0.9em;&quot;&gt;即日起至 2020/3/8 ，限額 15 人，額滿即止。&lt;/span&gt;'); //活動文字
-document.writeln('&lt;a href=&quot;https://he2.tw/eoevent&quot; style=&quot;font-weight: bold; font-size: 15px !important; cursor: pointer; font-family: sans-serif !important;&quot;&gt;【點此參加】&lt;/a&gt;'); //活動連結
-document.writeln('&lt;/div&gt;');
-document.writeln('&lt;/div&gt;');
-document.writeln('&lt;/div&gt;');
+  document.writeln('&lt;div style=&quot;display: table; overflow: hidden; width: 600px; height: 130px; max-height: 130px; margin: 0px auto; background-image: url(\'https://ik.imagekit.io/kuenwei/banner/20191208_EO_Background_800x150_ABaTu4uz3.png\'); background-repeat: no-repeat; background-size: cover; background-attachment: ; background-position: left top; padding-right: 1.5%; padding-left: 185px; border: 1px solid #333;&quot;&gt;');
+  document.writeln('&lt;div style=&quot;display: table-cell; vertical-align: middle;&quot;&gt;');
+  document.writeln('&lt;div&gt;');
+  document.writeln('&lt;h3 style=&quot;font-size: 25px !important; margin:0px; margin-bottom: 3px; padding: 0px; text-align: left; line-height: 1.1em;&quot;&gt;EO 公益體驗&lt;/h3&gt;'); //活動標題
+  document.writeln('&lt;span style=&quot;font-size: 15px !important; font-family: sans-serif; line-height: 0.9em;&quot;&gt;即日起至 2020/3/8 ，限額 15 人，額滿即止。&lt;/span&gt;'); //活動文字
+  document.writeln('&lt;a href=&quot;https://he2.tw/eoevent&quot; style=&quot;font-weight: bold; font-size: 15px !important; cursor: pointer; font-family: sans-serif !important;&quot;&gt;【點此參加】&lt;/a&gt;'); //活動連結
+  document.writeln('&lt;/div&gt;');
+  document.writeln('&lt;/div&gt;');
+  document.writeln('&lt;/div&gt;');
 
-}
+  }
 
 </code></pre></li>
 </ul>
-
-<hr />
-
-<h3 id="參考資料">參考資料</h3>
-
+<hr>
+<h3 id="heading-5">參考資料</h3>
 <ul>
 <li><a href="http://note.qidong.name/2017/10/hugo-taxonomy/">http://note.qidong.name/2017/10/hugo-taxonomy/</a></li>
 <li><a href="https://gohugo.io/functions/">https://gohugo.io/functions/</a></li>
 </ul>
 
                         
-                    </div>
-
-
-
-<div style="font-size: 15px !important;">
-<script type="text/javascript" src="https://js.he2.tw/blog/footer.js"></script>
+                    </div><div style="width: 400px; max-width:99%; height: auto; margin: 0px auto;">
+<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src="https://button.like.co/in/embed/willliu/button?referrer=https%3a%2f%2fwillliu.me%2fblog%2fhistory-of-edition-of-hugo%2f&type=wp"></iframe>
 </div>
 
 
 
+<div style="font-size: 15px !important;">
 
+
+<div id="sub-form-container"> <div id="sub-form-content"> <form action="https://api-backend.app.newsleopard.com/api/contacts/subscribe/402818dc6f5543b8016f5d47531000c5/verify" method="POST" target="popupwindow" onsubmit="return nl_1554802646254.subscribe()" id="sub-form" class="content active" > <div class="head"> <h1 class="title">訂閱我們的電子報</h1> <h2 class="description">感謝閱讀！如果想要第一時間收到文章與活動通知，請於下方欄位填寫您的 Email，之後將會收到不定期電子報。</h2> </div> <input id="sub-name" class="sub-inputs" name="name" placeholder="輸入姓名" required /> <input type="email" id="sub-mail" class="sub-inputs" name="email" placeholder="輸入 Email" required /> <button id="sub-submit" class="btn" type="submit">立即訂閱</button> </form> <div class="content confirm"> <div class="head"> <h1 class="title">訂閱服務確認</h1> <div class="description"> 已發送 Email 驗證信給你，請點擊信件連結以完成訂閱程序 </div> </div> </div> <div class="content err"> <div class="head"> <h1 class="title">訂閱失敗</h1> <div class="description">暫時無法接受訂閱，請稍候重新嘗試</div> </div> <button class="btn secondary" onclick="nl_1554802646254.retry()"> 重試 </button> </div> </div> </div> <script> var nl_1554802646254 = (function subIIFE() { function e() { var e = document.querySelector('.content.confirm'), t = document.querySelector('form#sub-form'); r(e), n(t); } function t(e) { var t = document.querySelector('.content.err'), u = document.querySelector('form#sub-form'); r(t), n(u); } function r(e) { e.className = e.className + ' active'; } function n(e) { e.className = e.className.replace(/\bactive\b/g, ''); } function u(e) { return encodeURIComponent(e); } return { subscribe: function() { var r, n, o, c, a, s = document.querySelector('form#sub-form'), i = s.getAttribute('action'), m = new FormData(s), l = m.get('email'), f = m.get('name') ? 'email=' + u(l) + '&name=' + u(m.get('name')) : 'email=' + u(l), d = (l = s.querySelector('#sub-mail'), s.querySelector('#sub-name'), s.querySelector('#sub-submit')); try { d.setAttribute('disabled', 'disabled'), r = { target: i, form: f, success: e, failure: t, finally: function() { d.removeAttribute('disabled'); }, }, n = new XMLHttpRequest, o = r.success || function() { }, c = r.failure || function() { }, a = r.finally || function() { }, n.onreadystatechange = function() { this.readyState === XMLHttpRequest.DONE && (this.status >= 200 && this.status < 300 ? (o(), a()) : (c(this.status), a())); }, n.open('POST', r.target, !0), n.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded'), n.send(r.form); } catch (e) { } return !1; }, retry: function() { var e = document.querySelector('.content.err'), t = document.querySelector('form#sub-form'); n(e), r(t); }, }; })(); </script> <style type="text/css"> #sub-form-container button { border: none; margin: 0; padding: 0; width: auto; overflow: visible; background: transparent; color: inherit; font: inherit; text-align: inherit; line-height: normal; appearance: none; -webkit-appearance: none; outline: none; cursor: pointer; transition: color 0.25s, background-color 0.25s; } #sub-form-container button:focus { outline: none; } #sub-form-container input, #sub-form-container label, #sub-form-container textarea { margin: 0; border: 0; padding: 0; display: inline-block; vertical-align: middle; white-space: normal; background: none; line-height: 1; outline: 0; font: inherit; } ::-webkit-input-placeholder { color: #ccc; } ::-moz-placeholder { color: #ccc; } :-ms-input-placeholder { color: #ccc; } :-moz-placeholder { color: #ccc; } #sub-form-container input:focus, #sub-form-container textarea:focus { outline: 0 !important; } #sub-form-container { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; background-color: #eee; border: 2px solid #eee; border-radius: 50px 20px; } #sub-form-container .content { position: absolute; top: -999999px; left: -999999px; opacity: 0; } #sub-form-container .content.active { position: initial; top: 0; left: 0; opacity: 1; } #sub-form-content { box-sizing: border-box; color: #555555; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column;   padding: 40px; border-radius: 10px; width: 100%; max-width: 490px;   } #sub-form-content .content { padding: 0; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; } #sub-form input { padding: 0px 10px; border-radius: 2px; border: 1px solid #cccccc; background-color: #ffffff; } #sub-form input:focus { border-color: #3f7dbd; outline: none; } #sub-form .sub-inputs { box-sizing: border-box; margin-bottom: 10px; height: 42px; width: 100%; } #sub-form .btn { margin-top: px; }   #sub-form-content .btn { box-sizing: border-box; border-color: #2678c9; background: #2678c9; color: #ffffff; border-radius: 4px; padding: 10px 32px; font-size: 16px; letter-spacing: 0.05em; cursor: pointer; } #sub-form-content .btn:disabled { opacity: 0.5; cursor: not-allowed; } #sub-form-content .btn.secondary { border-color: #666666; background-color: #666666; } #sub-form-content .content.confirm, #sub-form-content .content.err { -ms-flex-item-align: center; -ms-grid-row-align: center; align-self: center; width: 333px; } #sub-form-content .content .head { margin-bottom: 10px; text-align: center; } #sub-form-content .content .title { margin: 0; margin-bottom: 0px; font-size: 24px; letter-spacing: 0.03em; font-weight: bold; } #sub-form-content .content .description { margin: 0; font-size: 16px; line-height: 1.5; font-weight: normal; } @media (max-width: 480px) { #sub-form-container { -webkit-box-align: stretch; -ms-flex-align: stretch; align-items: stretch; } #sub-form { border-radius: 0px; padding: 30px 16px; } #sub-form-content { padding: 32px 24px; } } @media (min-width: 500px) { #sub-form-content { width: 490px; } } </style>
+
+</div>
+
+<div style="background-color: #ededed; line-height: 1.5em也; font-size: 1em; padding: 1em 1em; max-width: 100%; margin: 0px auto; margin-top: 1em;">
+如果您喜歡這篇文章，除了按讚、拍手，也歡迎分享到自己的社群中，文章採用<a href="https://creativecommons.org/licenses/by-nc-sa/3.0/tw/" target="_blank">創用 CC 姓名標示-非商業性-相同方式分享 3.0 台灣 授權條款</a>授權，分享、引用請依授權規定，並附上原文連結（按右鍵複製連結）：<a href="https://willliu.me/blog/history-of-edition-of-hugo/?utm_source=blogshare" target="_blank">Hugo Blog 進化筆記</a>。
+</div>
 
 <div id="related-post" class="related-post">
 <h3>&#128161;猜你也喜歡</h3>

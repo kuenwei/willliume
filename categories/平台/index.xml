@@ -15,75 +15,56 @@
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/history-of-edition-of-hugo/</guid>
-        <description>
-
-&lt;h4 id=&#34;把自己栽入-hugo-成為網站的工具的人生-一點點紀錄-然後有計劃地慢慢往前進&#34;&gt;把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。&lt;/h4&gt;
-
-&lt;h2 id=&#34;目前使用-hugo-我的網站&#34;&gt;目前使用 Hugo 我的網站&lt;/h2&gt;
-
+        <description>&lt;h4 id=&#34;-hugo-&#34;&gt;把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。&lt;/h4&gt;
+&lt;h2 id=&#34;-hugo&#34;&gt;目前使用 Hugo 我的網站&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;未來6米：&lt;a href=&#34;https://willliu.me&#34;&gt;https://willliu.me&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;塔香食譜：&lt;a href=&#34;https://blog.he2.in&#34;&gt;https://blog.he2.in&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;工作室：&lt;a href=&#34;https://he2.in&#34;&gt;https://he2.in&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;未來6米：https://willliu.me&lt;/li&gt;
+&lt;li&gt;塔香食譜：https://blog.he2.in&lt;/li&gt;
+&lt;li&gt;工作室：https://he2.in&lt;/li&gt;
 &lt;li&gt;色調：
 主色 #087eee3, rgb(8,126,227)
 強調色 #E37E08, rgb(227,126,8)&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;基礎設定-適用全體&#34;&gt;基礎設定（適用全體）&lt;/h2&gt;
-
+&lt;h2 id=&#34;heading&#34;&gt;基礎設定（適用全體）&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Meta Tag 優化：單獨 partial 成一個頁面&lt;/li&gt;
 &lt;li&gt;SEO 優化研究：刪除重複&lt;/li&gt;
 &lt;li&gt;rss 訂閱頁面&lt;/li&gt;
 &lt;li&gt;研究一下 .Paginate 函數（發覺來自 willliu.me）&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;hugo-重要設定-已完成&#34;&gt;Hugo 重要設定（已完成）&lt;/h2&gt;
-
+&lt;hr&gt;
+&lt;h2 id=&#34;hugo-&#34;&gt;Hugo 重要設定（已完成）&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;感謝 Google 大神，網路上找到了一段設定值，這個很有用，基本上同時解決了許多問題，包含(1)字數統計失真；(2)摘要擷取判斷錯誤。&lt;/p&gt;
-
+&lt;li&gt;
+&lt;p&gt;感謝 Google 大神，網路上找到了一段設定值，這個很有用，基本上同時解決了許多問題，包含(1)字數統計失真；(2)摘要擷取判斷錯誤。&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;hasCJKLanguage (false)
 If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will make .Summary and .WordCount behave correctly for CJK languages.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;ul&gt;
-&lt;li&gt;RSS 更新
-原 rss 僅顯示摘要，為了方便訂閱者閱讀，要做全文的更新，但遇到困難點：圖片需要改為絕對位置，不能使用相對位置。因此參考以下文章，並增修絕對路徑如下。&lt;/li&gt;
-&lt;/ul&gt;
-
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RSS 更新
+原 rss 僅顯示摘要，為了方便訂閱者閱讀，要做全文的更新，但遇到困難點：圖片需要改為絕對位置，不能使用相對位置。因此參考以下文章，並增修絕對路徑如下。&lt;/p&gt;
 &lt;p&gt;檔案的部分，需要放在你選用主題底下 &lt;code&gt;layouts/_default/rss.xml&lt;/code&gt;&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;&amp;lt;description&amp;gt;{{ replaceRE &amp;quot;img src=\&amp;quot;(.*?)\&amp;quot;&amp;quot; (printf &amp;quot;%s%s%s&amp;quot; &amp;quot;img src=\&amp;quot;&amp;quot; .Site.Params.blogimgdir &amp;quot;$1\&amp;quot;&amp;quot;) .Content | html }}&amp;lt;/description&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Source: &lt;a href=&#34;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&#34;&gt;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&lt;/a&gt;
-Source: &lt;a href=&#34;https://ar.al/2018/07/01/refining-the-rss/&#34;&gt;https://ar.al/2018/07/01/refining-the-rss/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;更新圖片為絕對路徑
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Source: &lt;a href=&#34;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&#34;&gt;https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/&lt;/a&gt;
+Source: &lt;a href=&#34;https://ar.al/2018/07/01/refining-the-rss/&#34;&gt;https://ar.al/2018/07/01/refining-the-rss/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;更新圖片為絕對路徑
 修改文章顯示文章的 partial HTML 內的 &lt;code&gt;{{ .Content }}&lt;/code&gt; 如下。&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;{{ replaceRE &amp;quot;img src=\&amp;quot;(.*?)\&amp;quot;&amp;quot; (printf &amp;quot;%s%s%s&amp;quot; &amp;quot;img src=\&amp;quot;&amp;quot; .Site.Params.blogimgdir &amp;quot;$1\&amp;quot;&amp;quot;) .Content | safeHTML }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;同時於 &lt;code&gt;config.toml&lt;/code&gt; 增加函數&lt;/p&gt;
-
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;同時於 &lt;code&gt;config.toml&lt;/code&gt; 增加函數&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;[params]
   blogimgdir = &amp;quot;/blog/&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h3 id=&#34;相關文章&#34;&gt;相關文章&lt;/h3&gt;
-
+&lt;h3 id=&#34;heading-1&#34;&gt;相關文章&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;新增 partials HTML 檔案，原始檔案參考如下：
-Source: &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;https://gohugo.io/content-management/related/&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;修改 CSS 樣式&lt;/p&gt;
-
+&lt;li&gt;
+&lt;p&gt;新增 partials HTML 檔案，原始檔案參考如下：
+Source: &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;https://gohugo.io/content-management/related/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修改 CSS 樣式&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;.related-post {
   width:100%;
   height: auto;
@@ -122,22 +103,18 @@ Source: &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;ht
   object-fit: cover; //圖片裁切
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;增加 &lt;code&gt;partial&lt;/code&gt; 檔案在想要出現的地方&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;增加 &lt;code&gt;partial&lt;/code&gt; 檔案在想要出現的地方&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h3 id=&#34;標籤雲&#34;&gt;標籤雲&lt;/h3&gt;
-
+&lt;h3 id=&#34;heading-2&#34;&gt;標籤雲&lt;/h3&gt;
 &lt;p&gt;單獨設定標籤與分類樣式，需要在 &lt;code&gt;layouts/_default/&lt;/code&gt; 新增樣式設定檔案 &lt;code&gt;term.html&lt;/code&gt;（或&lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;其他可用的檔案名稱&lt;/a&gt;），並設定成自己想要的模板。記得頭尾的 &lt;code&gt;partial&lt;/code&gt; 都要引入。&lt;/p&gt;
-
 &lt;p&gt;Source: &lt;a href=&#34;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&#34;&gt;http://www.g-var.com/posts/translation/hugo/hugo-36-taxonomy-templates/&lt;/a&gt;
 Source: &lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;https://gohugo.io/templates/lookup-order/&lt;/a&gt;
 Source: &lt;a href=&#34;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&#34;&gt;https://bwaycer.github.io/hugo_tutorial.hugo/templates/terms/&lt;/a&gt;
 Source: &lt;a href=&#34;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&#34;&gt;https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/&lt;/a&gt;
 Source: &lt;a href=&#34;https://note.qidong.name/2017/10/hugo-taxonomy/&#34;&gt;https://note.qidong.name/2017/10/hugo-taxonomy/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;未來-liu-me&#34;&gt;未來 Liu.me&lt;/h2&gt;
-
+&lt;h2 id=&#34;-liume&#34;&gt;未來 Liu.me&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Tags/Categories 頁面的樣式設定：移除方框下面的多餘訊息，並看是否能夠增加每個分類的總數&lt;/li&gt;
 &lt;li&gt;blog/media 改為絕對路徑&lt;/li&gt;
@@ -145,28 +122,21 @@ Source: &lt;a href=&#34;https://note.qidong.name/2017/10/hugo-taxonomy/&#34;&gt;
 &lt;li&gt;尾部的版權&lt;/li&gt;
 &lt;li&gt;思考是否加入 Disqus 留言平台&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;電子郵件訂閱〈短期方案 2019.4.8〉&lt;/p&gt;
-
+&lt;li&gt;
+&lt;p&gt;電子郵件訂閱〈短期方案 2019.4.8〉&lt;/p&gt;
 &lt;p&gt;先透過 Google Feedburner 收集 Email，未來在考慮是否移轉至電子報系統，目前參考系統為台灣廠商「電子豹」，但因正值改版時期，新版的訂閱表單還在開發中，尚無法透過表單收集。&lt;/p&gt;
-
-&lt;p&gt;離開 Upscribe 的原因：(1) 無法自訂表單，代表活化的程度不高；(2) 已經不再使用 Medium 收集 Email，Upscribe 優勢較低。&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;離開 Upscribe 的原因：(1) 無法自訂表單，代表活化的程度不高；(2) 已經不再使用 Medium 收集 Email，Upscribe 優勢較低。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Table 相關 css 修改〈已完成 2019.4.13〉&lt;/p&gt;
-
+&lt;li&gt;
+&lt;p&gt;Table 相關 css 修改〈已完成 2019.4.13〉&lt;/p&gt;
 &lt;p&gt;Hugo 支援使用 Markdown 語法建立的表格（但原始 Markdown 即不支援合併儲存格功能），因此需要自訂表格樣式。參考如下程式碼，並以黑白為設計樣式。&lt;/p&gt;
-
 &lt;p&gt;Source: &lt;a href=&#34;https://codepen.io/cssgrid/pen/pRXQzW&#34;&gt;https://codepen.io/cssgrid/pen/pRXQzW&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;Source: &lt;a href=&#34;https://pjchender.blogspot.com/2015/12/table-with-border-radius.html&#34;&gt;https://pjchender.blogspot.com/2015/12/table-with-border-radius.html&lt;/a&gt;&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;{
   box-sizing: border-box;
 }
@@ -218,13 +188,10 @@ td:last-child{
   border-bottom-right-radius: 10px;
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Table css 修改後，思考如何變成 Responsive〈已完成 2019.4.13〉&lt;/p&gt;
-
+&lt;li&gt;
+&lt;p&gt;Table css 修改後，思考如何變成 Responsive〈已完成 2019.4.13〉&lt;/p&gt;
 &lt;p&gt;本次採用若寬度小於表格寬度，則出現橫向 scroll bar 的方式，一方面是考慮資訊的完整性（以提供資訊為主的寫作方向），同時也能夠影響到最少的版型，構思的時候，有想到符碼記憶的表現方式。&lt;/p&gt;
-
 &lt;p&gt;Source: &lt;a href=&#34;https://codepen.io/cssgrid/pen/pRXQzW&#34;&gt;https://codepen.io/cssgrid/pen/pRXQzW&lt;/a&gt;&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;table {
   margin: auto;
   border-collapse: collapse;
@@ -235,15 +202,13 @@ td:last-child{
   box-shadow: 0 0 1px 1px rgba(0, 0, 0, .1);
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;作者下面增加 Categories 欄位〈已完成 2019.4.9〉&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;連外網頁自動開新視窗〈已完成 2019.4.8〉&lt;/p&gt;
-
+&lt;li&gt;
+&lt;p&gt;作者下面增加 Categories 欄位〈已完成 2019.4.9〉&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;連外網頁自動開新視窗〈已完成 2019.4.8〉&lt;/p&gt;
 &lt;p&gt;在頁尾 &lt;code&gt;&amp;lt;/body&amp;gt;&lt;/code&gt; 前面加上以下程式碼&lt;/p&gt;
-
-&lt;p&gt;Source：&lt;a href=&#34;https://gist.github.com/CrocoDillon/7989214&#34;&gt;https://gist.github.com/CrocoDillon/7989214&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;Source：https://gist.github.com/CrocoDillon/7989214&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;&amp;lt;!--判斷網域後外連網址--&amp;gt;
 &amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;
   var links = document.links;
@@ -254,97 +219,81 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
   }
 &amp;lt;/script&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;左上角的 logo 改連至部落格主頁〈已完成 2019.4.8〉&lt;/p&gt;
-
-&lt;p&gt;暫時使用絕對路徑後面連綴 &lt;code&gt;/blog/&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;本文內的超連結改為黑色字體，主色的底線，移動過去後改變字體顏色（參考報導者網站後的想法）〈已完成 2019.4.8〉&lt;/p&gt;
-
-&lt;p&gt;透過 css 單獨設定文章區塊的 &lt;code&gt;a&lt;/code&gt; 以及 &lt;code&gt;a:hover&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;LINE 的分享按鈕製作〈已完成 2019.4.7〉&lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&#34;https://org-media.line.me/zh_TW/how_to_install#lineitbutton&#34;&gt;https://org-media.line.me/zh_TW/how_to_install#lineitbutton&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;左上角的 logo 改連至部落格主頁〈已完成 2019.4.8〉&lt;/p&gt;
+&lt;p&gt;暫時使用絕對路徑後面連綴 &lt;code&gt;/blog/&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本文內的超連結改為黑色字體，主色的底線，移動過去後改變字體顏色（參考報導者網站後的想法）〈已完成 2019.4.8〉&lt;/p&gt;
+&lt;p&gt;透過 css 單獨設定文章區塊的 &lt;code&gt;a&lt;/code&gt; 以及 &lt;code&gt;a:hover&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LINE 的分享按鈕製作〈已完成 2019.4.7〉&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://org-media.line.me/zh_TW/how_to_install#lineitbutton&#34;&gt;https://org-media.line.me/zh_TW/how_to_install#lineitbutton&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;其他&#34;&gt;其他&lt;/h2&gt;
-
+&lt;hr&gt;
+&lt;h2 id=&#34;heading-3&#34;&gt;其他&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;研究 relLangURL、&lt;a href=&#34;https://gohugo.io/functions/absurl/&#34;&gt;absURL&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;研究 &lt;a href=&#34;https://gohugo.io/functions/urlize/&#34;&gt;urlize&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;電子報訂閱更新：Herearoma 首頁下方，blog 如何增加？&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;hugo-函數研究&#34;&gt;Hugo 函數研究&lt;/h2&gt;
-
+&lt;hr&gt;
+&lt;h2 id=&#34;hugo--1&#34;&gt;Hugo 函數研究&lt;/h2&gt;
 &lt;h3 id=&#34;replace&#34;&gt;Replace&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/replacere/&#34;&gt;replaceRE&lt;/a&gt;：可以規則表達式當替代目標的&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;html&#34;&gt;HTML&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;html：正常 HTML 顯示成文字&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/htmlescape/&#34;&gt;htmlEscape&lt;/a&gt;：不顯示跳脫符號&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/htmlunescape/&#34;&gt;htmlUnescape&lt;/a&gt;：跳脫符號顯示&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/safehtml/&#34;&gt;safeHTML&lt;/a&gt;：將 HTML 正常顯示為 code。&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h3 id=&#34;字元&#34;&gt;字元&lt;/h3&gt;
-
+&lt;h3 id=&#34;heading-4&#34;&gt;字元&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/strings.runecount/&#34;&gt;strings.RuneCount&lt;/a&gt;：計算字元數，會把英文字母當一個字元。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/countrunes/&#34;&gt;countrunes&lt;/a&gt;：依照 CJK 方式計算字元&lt;/li&gt;
 &lt;li&gt;更多參考資料：
 &lt;a href=&#34;https://kodify.net/hugo/strings/string-length/&#34;&gt;https://kodify.net/hugo/strings/string-length/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;h2 id=&#34;plugins&#34;&gt;Plugins&lt;/h2&gt;
-
 &lt;h3 id=&#34;banner&#34;&gt;Banner&lt;/h3&gt;
-
 &lt;p&gt;使用 Javascript 方便在不同的頁面內嵌，透過文字跟底圖的方式，可用一張底圖代表活動類型，並每次修改文字，減少製圖的時間與金錢成本。&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;透過時間判斷，自動下架已經不再開放的活動，避免需要手動下架。&lt;/li&gt;
-&lt;li&gt;使用 div-table 讓文字可以自動置中。&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;因應會在不同裝置的情況，不自動放大縮小，還是開放 scroll bar 捲動。&lt;/p&gt;
-
+&lt;li&gt;
+&lt;p&gt;透過時間判斷，自動下架已經不再開放的活動，避免需要手動下架。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用 div-table 讓文字可以自動置中。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;因應會在不同裝置的情況，不自動放大縮小，還是開放 scroll bar 捲動。&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;
-const EventRegEnd = Date.parse(&#39;08 Mar 2020 09:00:00 GMT+8&#39;); //設定活動截止公告時間
+  const EventRegEnd = Date.parse(&#39;08 Mar 2020 09:00:00 GMT+8&#39;); //設定活動截止公告時間
 
-if ( EventRegEnd &amp;gt; Date.now())
-{
+  if ( EventRegEnd &amp;gt; Date.now())
+  {
 
-document.writeln(&#39;&amp;lt;div style=&amp;quot;display: table; overflow: hidden; width: 600px; height: 130px; max-height: 130px; margin: 0px auto; background-image: url(\&#39;https://ik.imagekit.io/kuenwei/banner/20191208_EO_Background_800x150_ABaTu4uz3.png\&#39;); background-repeat: no-repeat; background-size: cover; background-attachment: ; background-position: left top; padding-right: 1.5%; padding-left: 185px; border: 1px solid #333;&amp;quot;&amp;gt;&#39;);
-document.writeln(&#39;&amp;lt;div style=&amp;quot;display: table-cell; vertical-align: middle;&amp;quot;&amp;gt;&#39;);
-document.writeln(&#39;&amp;lt;div&amp;gt;&#39;);
-document.writeln(&#39;&amp;lt;h3 style=&amp;quot;font-size: 25px !important; margin:0px; margin-bottom: 3px; padding: 0px; text-align: left; line-height: 1.1em;&amp;quot;&amp;gt;EO 公益體驗&amp;lt;/h3&amp;gt;&#39;); //活動標題
-document.writeln(&#39;&amp;lt;span style=&amp;quot;font-size: 15px !important; font-family: sans-serif; line-height: 0.9em;&amp;quot;&amp;gt;即日起至 2020/3/8 ，限額 15 人，額滿即止。&amp;lt;/span&amp;gt;&#39;); //活動文字
-document.writeln(&#39;&amp;lt;a href=&amp;quot;https://he2.tw/eoevent&amp;quot; style=&amp;quot;font-weight: bold; font-size: 15px !important; cursor: pointer; font-family: sans-serif !important;&amp;quot;&amp;gt;【點此參加】&amp;lt;/a&amp;gt;&#39;); //活動連結
-document.writeln(&#39;&amp;lt;/div&amp;gt;&#39;);
-document.writeln(&#39;&amp;lt;/div&amp;gt;&#39;);
-document.writeln(&#39;&amp;lt;/div&amp;gt;&#39;);
+  document.writeln(&#39;&amp;lt;div style=&amp;quot;display: table; overflow: hidden; width: 600px; height: 130px; max-height: 130px; margin: 0px auto; background-image: url(\&#39;https://ik.imagekit.io/kuenwei/banner/20191208_EO_Background_800x150_ABaTu4uz3.png\&#39;); background-repeat: no-repeat; background-size: cover; background-attachment: ; background-position: left top; padding-right: 1.5%; padding-left: 185px; border: 1px solid #333;&amp;quot;&amp;gt;&#39;);
+  document.writeln(&#39;&amp;lt;div style=&amp;quot;display: table-cell; vertical-align: middle;&amp;quot;&amp;gt;&#39;);
+  document.writeln(&#39;&amp;lt;div&amp;gt;&#39;);
+  document.writeln(&#39;&amp;lt;h3 style=&amp;quot;font-size: 25px !important; margin:0px; margin-bottom: 3px; padding: 0px; text-align: left; line-height: 1.1em;&amp;quot;&amp;gt;EO 公益體驗&amp;lt;/h3&amp;gt;&#39;); //活動標題
+  document.writeln(&#39;&amp;lt;span style=&amp;quot;font-size: 15px !important; font-family: sans-serif; line-height: 0.9em;&amp;quot;&amp;gt;即日起至 2020/3/8 ，限額 15 人，額滿即止。&amp;lt;/span&amp;gt;&#39;); //活動文字
+  document.writeln(&#39;&amp;lt;a href=&amp;quot;https://he2.tw/eoevent&amp;quot; style=&amp;quot;font-weight: bold; font-size: 15px !important; cursor: pointer; font-family: sans-serif !important;&amp;quot;&amp;gt;【點此參加】&amp;lt;/a&amp;gt;&#39;); //活動連結
+  document.writeln(&#39;&amp;lt;/div&amp;gt;&#39;);
+  document.writeln(&#39;&amp;lt;/div&amp;gt;&#39;);
+  document.writeln(&#39;&amp;lt;/div&amp;gt;&#39;);
 
-}
+  }
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
-
+&lt;hr&gt;
+&lt;h3 id=&#34;heading-5&#34;&gt;參考資料&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://note.qidong.name/2017/10/hugo-taxonomy/&#34;&gt;http://note.qidong.name/2017/10/hugo-taxonomy/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/&#34;&gt;https://gohugo.io/functions/&lt;/a&gt;&lt;/li&gt;

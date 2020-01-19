@@ -2,7 +2,7 @@
 <html lang="zh-tw"><head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="generator" content="Hugo 0.57.2" />
+        <meta name="generator" content="Hugo 0.62.0" />
 	
 	
 	<link rel="icon" href="https://ik.imagekit.io/kuenwei/willliu_me/logo_yIlTPPZSv.png">
@@ -161,84 +161,52 @@
 
                     
                     <div class="article-post">
-                        
-
-<h5 id="圖片來源-rawpixel-com-pexel-https-www-pexels-com-rawpixel">圖片來源：<a href="https://www.pexels.com/@rawpixel">rawpixel.com @ PEXEL</a></h5>
-
-<h4 id="近年許多新興語言興起-go語言-golang-就是其中一款-能夠快速的編譯出靜態網頁-加上許多開源性的平台以及網路資源-提供了更好網站架設方式-經過許多評估與思考-決定要將自己網站打掉重練-來看看我的思考過程以及優缺點在哪呢">近年許多新興語言興起，Go語言（golang）就是其中一款，能夠快速的編譯出靜態網頁，加上許多開源性的平台以及網路資源，提供了更好網站架設方式，經過許多評估與思考，決定要將自己網站打掉重練，來看看我的思考過程以及優缺點在哪呢？</h4>
-
+                        <h5 id="rawpixelcom--pexelhttpswwwpexelscomrawpixel">圖片來源：<a href="https://www.pexels.com/@rawpixel">rawpixel.com @ PEXEL</a></h5>
+<h4 id="gogolang">近年許多新興語言興起，Go語言（golang）就是其中一款，能夠快速的編譯出靜態網頁，加上許多開源性的平台以及網路資源，提供了更好網站架設方式，經過許多評估與思考，決定要將自己網站打掉重練，來看看我的思考過程以及優缺點在哪呢？</h4>
 <p>最近花了一點時間，將原本架設在 Blogger 的網站，全數都轉使用 Hugo 的架構，並且利用 GitHub Pages 當作網頁伺服器，主要的三個網站：<a href="https://www.herearoma.com">循香匯</a>、<a href="https://blog.herearoma.com">塔香食譜</a>、<a href="https://willliu.me/blog/">未來6米</a>，透過不同的版型全數上架。花了兩三個整天的時間，想說來特別來記錄一下。</p>
-
-<h2 id="為什麼想要換">為什麼想要換</h2>
-
+<h2 id="heading">為什麼想要換</h2>
 <p>更換的原因可以列出很多，但如果找一個最主要的原因，其實是需求上的改變。</p>
-
 <p>其實寫部落格已經超過 10 年了（自 eyewithouts 第一篇文章 2006.12.6 開始，網站已封存），在那個還是學生的時代，其實也寫過不少所謂的爆文，6 年累積了 14 多萬的點閱數，不乏有單篇過萬。但隨著人生階段的改變，以及數位工具的演進，寫作時間、觀點與模式都已經有所不同。</p>
-
 <p>從寫作時間來說，以往能夠有一段完整的時間寫作，加上充份的 Input 與 Output 的情況下，只要開啟平台，就能夠行雲流水的寫出來。但隨著工作的繁重，以及自我成長的議題改變，時間愈趨碎片化，要能夠有一個完整的時間好好寫作，已經相對困難。</p>
-
 <p>另外一方面，在 Blog 盛行的年代，許多寫作者並沒有太多工具可以選擇，甚至部分需要透過 HTML 去完整一篇文章。但就像我說的，當我們時間碎片化，要能夠兼顧排版等等，其實更需要有效的管理工具，這一部分 Blogger 相對來說，就支援有限。</p>
-
 <p>因為 Blogger 目前並沒有一個很好的官方寫作平台，尤其是沒有一個能夠適用於各種裝置的平台，除非我們透過第三方軟體，但這也不是我習慣的方式。</p>
-
 <p>同時，隨著越來越龐大的版型，每一次的修改版型對我的技術限制來說，就是疊床架屋，要重新梳理又太曠日費時，因此起了打掉重練的念頭。</p>
-
-<hr />
-
-<h2 id="選擇的重點">選擇的重點</h2>
-
+<hr>
+<h2 id="heading-1">選擇的重點</h2>
 <p>決定打掉重練之後，就會有一個選擇的過程，而在每一次的選擇之中，都是重新思考的需求的契機。</p>
-
-<p>我這次的轉變，需求是：
-1. 簡單：操作與版型的調整簡單，所謂的簡單是在既有能力之下好操作。
-2. 方便：能夠適應新的書寫模式，並且打破書寫時間、環境的限制。
-3. 乾淨：讓閱讀者有良好的經驗，乾淨與跨裝飾自適應的版面。</p>
-
+<p>我這次的轉變，需求是：</p>
+<ol>
+<li>簡單：操作與版型的調整簡單，所謂的簡單是在既有能力之下好操作。</li>
+<li>方便：能夠適應新的書寫模式，並且打破書寫時間、環境的限制。</li>
+<li>乾淨：讓閱讀者有良好的經驗，乾淨與跨裝飾自適應的版面。</li>
+</ol>
 <p>因為我實際的需求，並不是要架設一個複雜的網站，加上希望在成本低廉的情況下進行，所以能夠有免費資源可能是最重要的。</p>
-
 <p>很開心現在的網路環境更加開放，以前要找個免費空間，不是被廣告綁架，就是有很多限制。現在開源的概念下，有了 GitHub 這個很棒的服務，能夠架設靜態網站架構，雖然會讓程式碼開源（可以加購 Pro 版改變隱私權），但因本來我所有東西都是公開的，就少了這層疑慮。</p>
-
 <p>經過許多評估，期間看過 Wordpress、Jekyll 或者參考 Blogger 其他簡潔的版型，最後終於在看到 Hugo 的時候，找到了想要嘗試看看的標的。</p>
-
 <p>選擇 Hugo 大致上已經滿足了以上的我的需求，其中一個就是書寫的環境，我近年使用 Markdown 的頻率增加，Hugo 可以完全支持 Markdown 並透過 CSS 設定格式，真的是大獲我心。</p>
-
 <p>加上配置簡單，這兩點讓我最終在現行的需求下，選擇了 Hugo。</p>
-
-<hr />
-
-<h2 id="更換後的感覺">更換後的感覺</h2>
-
+<hr>
+<h2 id="heading-2">更換後的感覺</h2>
 <p>更換最痛苦的就是搬文章的過程，但好處是有重新省視的機會，還好 Hugo 兼容 Markdown 與 HTML，讓我不用每一篇都要重新用 Markdown 的方式編輯，這好像也是 Markdown 原生就可以跟 HTML 共生。</p>
-
 <p>不過，在使用軟體與服務上面則大幅改變，也幫助我重新梳理我的數位工作型態，以往習慣寫好後用 Blogger 透過 HTML 完整編輯的方式，有了全新的套路。</p>
-
-<h3 id="編輯流程">編輯流程</h3>
-
+<h3 id="heading-3">編輯流程</h3>
 <ul>
 <li>書寫：MWeb</li>
 <li>排版：Sublime Text</li>
 <li>轉譯：Hugo</li>
 <li>上傳：GitHub Desktop</li>
 </ul>
-
-<h3 id="圖床">圖床</h3>
-
+<h3 id="heading-4">圖床</h3>
 <ul>
 <li>根圖床：GitHub Page（與網站存放空間相同）</li>
 <li>主圖床：imgbox（大型圖檔使用）</li>
 <li>次圖床：imgur（備份用）</li>
 </ul>
-
 <p>小提醒：圖片還是要在自己電腦中留一份。</p>
-
 <p>其實這個新的流程，產生了一個新的數位寫作以及網站經營的模式，未來也會一一上述的軟體或者服務（Hugo已於這篇概述）來介紹一下。</p>
-
-<hr />
-
-<h2 id="優缺點評析">優缺點評析</h2>
-
+<hr>
+<h2 id="heading-5">優缺點評析</h2>
 <p>優點</p>
-
 <ul>
 <li>能使用 Markdown 書寫，同時兼容 HTML</li>
 <li>轉換成網頁的速度極快</li>
@@ -247,9 +215,7 @@
 <li>多元的版型可以使用</li>
 <li>靜態網頁的免費空間好找</li>
 </ul>
-
 <p>缺點</p>
-
 <ul>
 <li>靜態網頁生成，沒有互動性</li>
 <li>互動要靠外掛模組，例如 DISQUS</li>
@@ -261,17 +227,22 @@
 </ul>
 
                         
-                    </div>
-
-
-
-<div style="font-size: 15px !important;">
-<script type="text/javascript" src="https://js.he2.tw/blog/footer.js"></script>
+                    </div><div style="width: 400px; max-width:99%; height: auto; margin: 0px auto;">
+<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src="https://button.like.co/in/embed/willliu/button?referrer=https%3a%2f%2fwillliu.me%2fblog%2fdigital-blogger-transfer-to-hugo%2f&type=wp"></iframe>
 </div>
 
 
 
+<div style="font-size: 15px !important;">
 
+
+<div id="sub-form-container"> <div id="sub-form-content"> <form action="https://api-backend.app.newsleopard.com/api/contacts/subscribe/402818dc6f5543b8016f5d47531000c5/verify" method="POST" target="popupwindow" onsubmit="return nl_1554802646254.subscribe()" id="sub-form" class="content active" > <div class="head"> <h1 class="title">訂閱我們的電子報</h1> <h2 class="description">感謝閱讀！如果想要第一時間收到文章與活動通知，請於下方欄位填寫您的 Email，之後將會收到不定期電子報。</h2> </div> <input id="sub-name" class="sub-inputs" name="name" placeholder="輸入姓名" required /> <input type="email" id="sub-mail" class="sub-inputs" name="email" placeholder="輸入 Email" required /> <button id="sub-submit" class="btn" type="submit">立即訂閱</button> </form> <div class="content confirm"> <div class="head"> <h1 class="title">訂閱服務確認</h1> <div class="description"> 已發送 Email 驗證信給你，請點擊信件連結以完成訂閱程序 </div> </div> </div> <div class="content err"> <div class="head"> <h1 class="title">訂閱失敗</h1> <div class="description">暫時無法接受訂閱，請稍候重新嘗試</div> </div> <button class="btn secondary" onclick="nl_1554802646254.retry()"> 重試 </button> </div> </div> </div> <script> var nl_1554802646254 = (function subIIFE() { function e() { var e = document.querySelector('.content.confirm'), t = document.querySelector('form#sub-form'); r(e), n(t); } function t(e) { var t = document.querySelector('.content.err'), u = document.querySelector('form#sub-form'); r(t), n(u); } function r(e) { e.className = e.className + ' active'; } function n(e) { e.className = e.className.replace(/\bactive\b/g, ''); } function u(e) { return encodeURIComponent(e); } return { subscribe: function() { var r, n, o, c, a, s = document.querySelector('form#sub-form'), i = s.getAttribute('action'), m = new FormData(s), l = m.get('email'), f = m.get('name') ? 'email=' + u(l) + '&name=' + u(m.get('name')) : 'email=' + u(l), d = (l = s.querySelector('#sub-mail'), s.querySelector('#sub-name'), s.querySelector('#sub-submit')); try { d.setAttribute('disabled', 'disabled'), r = { target: i, form: f, success: e, failure: t, finally: function() { d.removeAttribute('disabled'); }, }, n = new XMLHttpRequest, o = r.success || function() { }, c = r.failure || function() { }, a = r.finally || function() { }, n.onreadystatechange = function() { this.readyState === XMLHttpRequest.DONE && (this.status >= 200 && this.status < 300 ? (o(), a()) : (c(this.status), a())); }, n.open('POST', r.target, !0), n.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded'), n.send(r.form); } catch (e) { } return !1; }, retry: function() { var e = document.querySelector('.content.err'), t = document.querySelector('form#sub-form'); n(e), r(t); }, }; })(); </script> <style type="text/css"> #sub-form-container button { border: none; margin: 0; padding: 0; width: auto; overflow: visible; background: transparent; color: inherit; font: inherit; text-align: inherit; line-height: normal; appearance: none; -webkit-appearance: none; outline: none; cursor: pointer; transition: color 0.25s, background-color 0.25s; } #sub-form-container button:focus { outline: none; } #sub-form-container input, #sub-form-container label, #sub-form-container textarea { margin: 0; border: 0; padding: 0; display: inline-block; vertical-align: middle; white-space: normal; background: none; line-height: 1; outline: 0; font: inherit; } ::-webkit-input-placeholder { color: #ccc; } ::-moz-placeholder { color: #ccc; } :-ms-input-placeholder { color: #ccc; } :-moz-placeholder { color: #ccc; } #sub-form-container input:focus, #sub-form-container textarea:focus { outline: 0 !important; } #sub-form-container { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; background-color: #eee; border: 2px solid #eee; border-radius: 50px 20px; } #sub-form-container .content { position: absolute; top: -999999px; left: -999999px; opacity: 0; } #sub-form-container .content.active { position: initial; top: 0; left: 0; opacity: 1; } #sub-form-content { box-sizing: border-box; color: #555555; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column;   padding: 40px; border-radius: 10px; width: 100%; max-width: 490px;   } #sub-form-content .content { padding: 0; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; } #sub-form input { padding: 0px 10px; border-radius: 2px; border: 1px solid #cccccc; background-color: #ffffff; } #sub-form input:focus { border-color: #3f7dbd; outline: none; } #sub-form .sub-inputs { box-sizing: border-box; margin-bottom: 10px; height: 42px; width: 100%; } #sub-form .btn { margin-top: px; }   #sub-form-content .btn { box-sizing: border-box; border-color: #2678c9; background: #2678c9; color: #ffffff; border-radius: 4px; padding: 10px 32px; font-size: 16px; letter-spacing: 0.05em; cursor: pointer; } #sub-form-content .btn:disabled { opacity: 0.5; cursor: not-allowed; } #sub-form-content .btn.secondary { border-color: #666666; background-color: #666666; } #sub-form-content .content.confirm, #sub-form-content .content.err { -ms-flex-item-align: center; -ms-grid-row-align: center; align-self: center; width: 333px; } #sub-form-content .content .head { margin-bottom: 10px; text-align: center; } #sub-form-content .content .title { margin: 0; margin-bottom: 0px; font-size: 24px; letter-spacing: 0.03em; font-weight: bold; } #sub-form-content .content .description { margin: 0; font-size: 16px; line-height: 1.5; font-weight: normal; } @media (max-width: 480px) { #sub-form-container { -webkit-box-align: stretch; -ms-flex-align: stretch; align-items: stretch; } #sub-form { border-radius: 0px; padding: 30px 16px; } #sub-form-content { padding: 32px 24px; } } @media (min-width: 500px) { #sub-form-content { width: 490px; } } </style>
+
+</div>
+
+<div style="background-color: #ededed; line-height: 1.5em也; font-size: 1em; padding: 1em 1em; max-width: 100%; margin: 0px auto; margin-top: 1em;">
+如果您喜歡這篇文章，除了按讚、拍手，也歡迎分享到自己的社群中，文章採用<a href="https://creativecommons.org/licenses/by-nc-sa/3.0/tw/" target="_blank">創用 CC 姓名標示-非商業性-相同方式分享 3.0 台灣 授權條款</a>授權，分享、引用請依授權規定，並附上原文連結（按右鍵複製連結）：<a href="https://willliu.me/blog/digital-blogger-transfer-to-hugo/?utm_source=blogshare" target="_blank">將 Blogger 轉換至 Hugo（含優缺點評析）</a>。
+</div>
 
 <div id="related-post" class="related-post">
 <h3>&#128161;猜你也喜歡</h3>
