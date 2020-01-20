@@ -31,7 +31,7 @@ pre {
     border-radius: 3px;
 }
 strong, b {
-    font-weight: 6 00;
+    font-weight: 600;
 }
 .mediumnavigation {
     background:rgba(255,255,255,.97);
@@ -556,7 +556,7 @@ ul.tags li a:hover {
 }
 
 .article-post h4, .article-post .h4 {
-    font-weight: 400 !important;
+    font-weight: 300 !important;
     padding: .8rem;
     color:;
     background-color: rgba(8,126,227,0.1) !important;
