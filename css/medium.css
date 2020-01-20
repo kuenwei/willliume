@@ -230,7 +230,7 @@ span.post-name a,span.post-read-more a:hover {
 .mainheading h1.posttitle {
     font-weight:700;
     margin-bottom:1rem;
-    font-family:  jf-jinxuan, sans-serif !important;
+    font-family: jf-jinxuanlatte, sans-serif !important;
 }
 .footer {
     border-top:1px solid rgba(0,0,0,.05)!important;
@@ -549,8 +549,8 @@ ul.tags li a:hover {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
-    font-family:  jf-jinxuan, sans-serif !important;
-    font-weight: 600;
+    font-family:  jf-jinxuanlatte, sans-serif !important;
+    font-weight: 500;
     margin-bottom: 1.5rem;
     margin-top: 2rem;
 }
