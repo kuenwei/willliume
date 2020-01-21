@@ -256,7 +256,7 @@ span.post-name a,span.post-read-more a:hover {
 blockquote {
     border-left:4px solid #087ee3;
     padding:0 20px;
-    font-style:italic;
+    /*font-style:italic;*/
     color:rgba(0,0,0,.5);
 }
 .article-post p,.article-post blockquote {
