@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>數位 on 未來6米</title>
-    <link>/tags/%E6%95%B8%E4%BD%8D/</link>
-    <description>Recent content in 數位 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Sat, 18 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E6%95%B8%E4%BD%8D/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>我怎麼選擇 App〈一〉如何選擇一個不完美的來用？</title>
-      <link>/blog/my-philosophy-on-apps-three-points-selection/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/my-philosophy-on-apps-three-points-selection/</guid>
-        <description>&lt;h4 id=&#34;2020-&#34;&gt;2020 想要好好耕耘數位工具使用這一塊，我一直都不是善於寫手把手教學，這類的文章也非常好搜尋到，但我想要說說：「為什麼這麼做？」並提供一些自己的方法。&lt;/h4&gt;
+<channel>
+  <title>數位 on 未來6米</title>
+  <link>https://willliu.me/tags/%E6%95%B8%E4%BD%8D/</link>
+  <description>Recent content in 數位 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Sat, 18 Jan 2020 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E6%95%B8%E4%BD%8D/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>我怎麼選擇 App〈一〉如何選擇一個不完美的來用？</title>
+    <link>https://willliu.me/blog/my-philosophy-on-apps-three-points-selection/</link>
+    <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/my-philosophy-on-apps-three-points-selection/</guid>
+    <description>&lt;h4 id=&#34;2020-&#34;&gt;2020 想要好好耕耘數位工具使用這一塊，我一直都不是善於寫手把手教學，這類的文章也非常好搜尋到，但我想要說說：「為什麼這麼做？」並提供一些自己的方法。&lt;/h4&gt;
 &lt;p&gt;廿一世紀真的是一個很特別的時代，最重要的就是幾乎人手都有智慧手機，難免就會面對到要安裝不同的 App（Application，手機軟體），最近一兩年我也添購了&lt;a href=&#34;https://willliu.me/blog/my-tools-and-services-list/#heading-2&#34;&gt;許多硬體設備&lt;/a&gt;，包含了 Macbook、iPad Pro 等等，慢慢轉換使用數位工具協助自己的工作、甚至延伸到日常生活。&lt;/p&gt;
 &lt;p&gt;然後發現裡面有太多的心路歷程，其實是因為有太多的衝突，而我習慣是需要一個理由才能好好地安撫自己，去了解為什麼、跟為什麼要對我來說很重要，時序進入新的一年（2020）剛好又進入了整理思緒的時間，同時也發現了一些不同的服務已經不再適用必須整理。&lt;/p&gt;
 &lt;p&gt;而在這過程中，有許多思路，想要在這邊慢慢寫出來跟大家分享。&lt;/p&gt;
@@ -71,17 +78,16 @@
 &lt;p&gt;最後我才發現，&lt;strong&gt;根本不會有完全符合我情境的 App，但我的情境裡面可以有好多不同的 App。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;而且，如果這個開發者還是持續的更新，我們必然可以透過回饋的方式，讓 App 一起成長，即使成長到了瓶頸，我們也能保留更多的餘裕，去等待其他開發者，並轉換過去。&lt;/p&gt;
 &lt;p&gt;所以，請不要等待，如果你想要成為數位開發者，現在開始評估、下載以及使用吧！&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>Medium 很好，「但是」我決定跟他說掰</title>
-      <link>/blog/good-bye-medium-and-the-reasons/</link>
-      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/good-bye-medium-and-the-reasons/</guid>
-        <description>&lt;h4 id=&#34;-medium-6httpsgwillliumezawnwh-medium-&#34;&gt;兩個月前，我做了一件事情，&lt;a href=&#34;https://g.willliu.me/ZawnWH&#34;&gt;離開了 Medium 寫作的環境，重新架設這個網站（部落格）未來6米&lt;/a&gt;，裡面講到了很多原因，但兩個月之後，我決定要把 Medium 的寫作內容完全終止，並且減少閱讀裡面文章的次數。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>Medium 很好，「但是」我決定跟他說掰</title>
+    <link>https://willliu.me/blog/good-bye-medium-and-the-reasons/</link>
+    <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/good-bye-medium-and-the-reasons/</guid>
+    <description>&lt;h4 id=&#34;-medium-6httpsgwillliumezawnwh-medium-&#34;&gt;兩個月前，我做了一件事情，&lt;a href=&#34;https://g.willliu.me/ZawnWH&#34;&gt;離開了 Medium 寫作的環境，重新架設這個網站（部落格）未來6米&lt;/a&gt;，裡面講到了很多原因，但兩個月之後，我決定要把 Medium 的寫作內容完全終止，並且減少閱讀裡面文章的次數。&lt;/h4&gt;
 &lt;h2 id=&#34;heading&#34;&gt;為什麼？&lt;/h2&gt;
 &lt;p&gt;其實我近幾個月已經很少使用 Medium 了，剛好最近看到&lt;a href=&#34;https://link.medium.com/RANb0GDrgX&#34;&gt;一篇文章&lt;/a&gt;說明了一些出走的狀況，裡面有幾個點，我看到之後才發現，真的跟我感覺越來越像，加上看到&lt;a href=&#34;https://medium.com/@leafwind/%E6%98%AF%E6%99%82%E5%80%99%E5%82%99%E4%BB%BD%E4%BD%A0%E7%9A%84-medium-%E6%96%87%E7%AB%A0%E4%BA%86-cd81ae59ce91&#34;&gt;相關文章&lt;/a&gt;也慢慢產生，不禁思考著到底想要的分享方式是什麼。&lt;/p&gt;
 &lt;p&gt;然後，我選擇了不要再花時間經營 Medium。主要的原因很大一部分是在於，跟我想要的東西以經不同，可能是因為 Medium 為一個持續發展的平台，會開始有不同的政策，加上也是需要盈利來面對投資者，漸漸就發現，跟我一開始加入的理由已經不同了。&lt;/p&gt;
@@ -104,7 +110,7 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;付費文章的極限&lt;/h2&gt;
 &lt;p&gt;近兩個月開始，所以發表文章都會告訴你，可以使用這一篇文章增加收益喔！甚至在四月的時候，我的發文還會預設是收費文章，不知道是不是我的設定錯誤。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15598932220572_Z-y1EjNdz.jpg&#34; alt=&#34;發表文章的頁面上方會一直有個貼心提醒：「可以開收費喔！」&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15598932220572_Z-y1EjNdz.jpg&#34; alt=&#34;發表文章的頁面上方會一直有個貼心提醒：「可以開收費喔！」&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-4&#34;&gt;發表文章的頁面上方會一直有個貼心提醒：「可以開收費喔！」&lt;/h5&gt;
 &lt;p&gt;在一開始提到的&lt;a href=&#34;https://link.medium.com/RANb0GDrgX&#34;&gt;文章&lt;/a&gt;中，進一步指出：「沒有開收費的文章已經很難被推上首頁」、「會有 Medium 勸流量大戶開收費，如果不成就有近一步想要『談合作』」。&lt;/p&gt;
 &lt;p&gt;目前看起來 Medium 並未想要積極置入廣告，等於付費文章、Membership 將成為收益的支柱來源，長期觀察中文創作者來看，收費文章本身就有局限，我追蹤的作者 &lt;a href=&#34;https://medium.com/@evonneyifangtsai&#34;&gt;Evonne Tsai&lt;/a&gt; 與&lt;a href=&#34;https://medium.com/@manzoo&#34;&gt;曼努&lt;/a&gt;分別對於收費文章的制度有不同看法（可參考&lt;a href=&#34;https://medium.com/@evonneyifangtsai/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E4%B8%8D%E5%8F%83%E8%88%87medium%E4%BB%98%E8%B2%BB%E7%89%86%E5%AF%AB%E4%BD%9C%E8%A8%88%E7%95%AB-8c2bb8cb1ee9&#34;&gt;為什麼我不參與Medium付費牆寫作計畫&lt;/a&gt;與 &lt;a href=&#34;https://medium.com/koom&#34;&gt;koom&lt;/a&gt;）。&lt;/p&gt;
@@ -118,17 +124,16 @@
 &lt;p&gt;至於閱讀習慣，目前透過 Facebook、RSS 閱讀器，加上電子書、實體書都已經有很大的滿足。未來實驗後再慢慢分享出來。&lt;/p&gt;
 &lt;p&gt;最後不免俗說一句。&lt;/p&gt;
 &lt;p&gt;Bye Medium~&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>把主站搬離 Medium 的理由以及未來走向</title>
-      <link>/blog/leave-meidum-and-how-to-use-it-in-the-future/</link>
-      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/leave-meidum-and-how-to-use-it-in-the-future/</guid>
-        <description>&lt;h5 id=&#34;2012--8--twitter-medium&#34;&gt;2012 年 8 月 Twitter 創辦人打造了新一代的寫作社群媒體「Medium」。&lt;/h5&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>把主站搬離 Medium 的理由以及未來走向</title>
+    <link>https://willliu.me/blog/leave-meidum-and-how-to-use-it-in-the-future/</link>
+    <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/leave-meidum-and-how-to-use-it-in-the-future/</guid>
+    <description>&lt;h5 id=&#34;2012--8--twitter-medium&#34;&gt;2012 年 8 月 Twitter 創辦人打造了新一代的寫作社群媒體「Medium」。&lt;/h5&gt;
 &lt;h4 id=&#34;medium--publicationmedium-&#34;&gt;Medium 中文社群有人稱作「米店」，是近兩三年來中文作者篇好發表的平台之一，我也在一年多前跟上了這個風潮，但最近我刪除了原先在上面的 Publication，同時也調整了經營的方向，因為我發現，在我的使用狀態中，Medium 相較於一個平台，更適合擔任作者聚集的社群媒體。&lt;/h4&gt;
 &lt;p&gt;過去一年，我在 &lt;a href=&#34;https://t.willliu.me/MEDIUM&#34;&gt;Medium&lt;/a&gt; 上的足跡有限，但也同時加入過 Membership 與 Partner Program，一個是能夠看收費文章的資格，一個是獲得用文章收費的資格。&lt;/p&gt;
 &lt;p&gt;老實說，這兩個我都沒有做得很好，看的文章數量不多，然後我雖然具有資格，但因為也沒有填稅務資料，所以也無法開啟收費文章，當然我也沒有真的想要，也真的沒有將任何一篇文章收費。&lt;/p&gt;
@@ -138,7 +143,7 @@
 &lt;h3 id=&#34;heading&#34;&gt;平台以英文角度出發，對中文作者的侷限&lt;/h3&gt;
 &lt;p&gt;Medium 是近年來走入 Web 3.0/4.0 的時候，廣受討論的平台，他跟過去很不一樣，我們都把文章跟社群分開，因為社群無法提供好看的文章排版，好的平台卻又沒有足夠的社群力量，明顯的例子就是在 Facebook 讀長文很痛苦，但寫在 Wordpress、Blogger 等平台寫的文章，轉到社群媒體時，主動觸及率往往一片慘綠。&lt;/p&gt;
 &lt;p&gt;Medium 是 Twitter 創辦人之一所設計的服務，希望透過好的文章質量，創造各個作者相連，去成為類似一本本的雜誌的網站。這一點，當你加入 Medium Mebmership 之後，感覺會更明顯，每週都會收到 The Editon，編輯幫你選文推薦。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15552339828931_Ie6CzbVS3n.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15552339828931_Ie6CzbVS3n.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;meidum--email-the-edition&#34;&gt;Meidum 每週都會透過 Email 提供文章精選「The Edition」&lt;/h5&gt;
 &lt;p&gt;看到上面，大家應該可以發現一個對中文作者來說的問題—Medium 的設計出發點是「英文」—也就是說對於以中文為創作主體的人，實際而言，跟其他的寫作平台差異性會瞬間縮小，由於英文的思維，導致能夠挹注中文作者的推廣、社群等資源有限。&lt;/p&gt;
 &lt;p&gt;從另外一個地方，也可以發現對於中文的支援度不足。在我使用的經驗上，不管是顯示中文或想要透過中文回覆文章、以中文命名 tag 等，都很容易出現錯誤訊息。很多次用中文回覆文章到一半會跳出錯誤訊息，我只能整段複製，重新整理頁面再貼上。&lt;/p&gt;
@@ -147,7 +152,7 @@
 &lt;h3 id=&#34;heading-1&#34;&gt;身為平台很好用，但有時候不夠用&lt;/h3&gt;
 &lt;p&gt;回過頭來說，使用 Medium 也帶給我不同的觀點與看法，過去十幾年來，我的寫作都以 &lt;a href=&#34;https://t.he2.tw/blogger&#34;&gt;Blogger&lt;/a&gt; 為主要的平台，龐大、很容易做得很「多采多姿」、放上無數的 widget、使用漂亮的模板、用不盡的網路資源的平台，但 Meidum 反其道而行。&lt;/p&gt;
 &lt;p&gt;從閱讀以及編輯體驗可以明顯感覺出來，&lt;strong&gt;整個設計是以「紙本出版」為核心概念&lt;/strong&gt;，兼具質感與方便性，卻也造成了很大的侷限，整個平台，就算你交互各種樣式，能使用的格式約莫 20 餘種（包含部分支援的 Markdown 語法）。其中像很基本的改變字體顏色，字體底色（需要透過 highlight）目前都無法做到。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15552363225435_uEQC6F6i8P.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15552363225435_uEQC6F6i8P.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;medium-&#34;&gt;Medium 編輯器提供簡單的格式設定&lt;/h5&gt;
 &lt;p&gt;這樣的侷限有好有壞。好處在於透過這平台能夠藉由專業的 UI/UX 來達到一致的使用體驗；壞的部份，一言以蔽之就是失去了彈性。例如表格（需要以圖片方式後插入）、文字底色、插入的區塊（需要 Medium 預設有支援），而這一些對我來說，看似不重要，但有時候真的會用到。&lt;/p&gt;
 &lt;p&gt;能理解做為一個堅固社群以及文章出版的平台，對於平台內容的格式化有其必要性，且編輯器以紙本邏輯為出發點，能夠減少轉換成出版品的痛點，不過也犧牲了版面的多元性，在 Medium 上想要有更多樣式，除了用圖片取代外，目前別無他途。&lt;/p&gt;
@@ -159,7 +164,7 @@
 &lt;p&gt;知識有價，但分享才是重點。傳播有價知識的渠道，應該跟分享的分開。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;以中文知識經濟的大宗「得到」來說，先不論商業模式，平台的定位就是以收費為導向，而且善於區別作者取向，提供不同的內容與服務形式。例如，創辦人羅胖（羅振宇）專心做行銷，提供免費內容，再找「大家」、「網紅」提供更多的收費內容，然後創造出一年的專欄、電子書、有聲書、技巧課、大師課等等。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15553707265744_qIQQdxv9I.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15553707265744_qIQQdxv9I.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-app&#34;&gt;得到 APP，由「羅輯思維」主講人羅振宇一手打造出的知識經濟產品。&lt;/h5&gt;
 &lt;p&gt;從這邊我能發現，在同一個平台上，想達到分享與成功的商業模式很有挑戰。**我認為，在同一個平台上，無法明顯的區別下，部分開放文章收費，創造的不是商業模式，只能說是一股可能的現金流，也就是俗稱的打工。**目前的商業模式上，除去廣告商的挹注，知識經濟最好的方式之一是訂閱，而且平台多為跟原始分享平台的區隔，例如阿滴英文（YouTube vs. Pressplay）、美的好朋友等。&lt;/p&gt;
 &lt;p&gt;目前，我還沒有穩定創作，也未開始有知識經濟的商業模式（講座、課程、訂閱文章等），以現況來講，&lt;strong&gt;我對於「發表文章並透過平台賺錢」的需求度非常的低&lt;/strong&gt;。重新評估後，我需要的平台是以分享為主，且中文分享為核心，Medium 的收費文章優勢對我而言，反而起不了作用。&lt;/p&gt;
@@ -175,17 +180,16 @@
 &lt;/blockquote&gt;
 &lt;p&gt;在這個觀念底下，未來 Medium 的內容會是個「引子」，透過引子讓更多人認識我，進一步點入觀看文章，了解更多的內容。同時，我也會把自己一寫比較雜記的心得，統整放在 Meidum，去整理數位足跡，也同時達到分享的效果。&lt;/p&gt;
 &lt;p&gt;這次的嘗試，期待透過社群的力量，讓許多不同的人，一起發現我，聚集在所創建的個人品牌。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>將 Blogger 轉換至 Hugo（含優缺點評析）</title>
-      <link>/blog/digital-blogger-transfer-to-hugo/</link>
-      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/digital-blogger-transfer-to-hugo/</guid>
-        <description>&lt;h5 id=&#34;rawpixelcom--pexelhttpswwwpexelscomrawpixel&#34;&gt;圖片來源：&lt;a href=&#34;https://www.pexels.com/@rawpixel&#34;&gt;rawpixel.com @ PEXEL&lt;/a&gt;&lt;/h5&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>將 Blogger 轉換至 Hugo（含優缺點評析）</title>
+    <link>https://willliu.me/blog/digital-blogger-transfer-to-hugo/</link>
+    <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/digital-blogger-transfer-to-hugo/</guid>
+    <description>&lt;h5 id=&#34;rawpixelcom--pexelhttpswwwpexelscomrawpixel&#34;&gt;圖片來源：&lt;a href=&#34;https://www.pexels.com/@rawpixel&#34;&gt;rawpixel.com @ PEXEL&lt;/a&gt;&lt;/h5&gt;
 &lt;h4 id=&#34;gogolang&#34;&gt;近年許多新興語言興起，Go語言（golang）就是其中一款，能夠快速的編譯出靜態網頁，加上許多開源性的平台以及網路資源，提供了更好網站架設方式，經過許多評估與思考，決定要將自己網站打掉重練，來看看我的思考過程以及優缺點在哪呢？&lt;/h4&gt;
 &lt;p&gt;最近花了一點時間，將原本架設在 Blogger 的網站，全數都轉使用 Hugo 的架構，並且利用 GitHub Pages 當作網頁伺服器，主要的三個網站：&lt;a href=&#34;https://www.herearoma.com&#34;&gt;循香匯&lt;/a&gt;、&lt;a href=&#34;https://blog.herearoma.com&#34;&gt;塔香食譜&lt;/a&gt;、&lt;a href=&#34;https://willliu.me/blog/&#34;&gt;未來6米&lt;/a&gt;，透過不同的版型全數上架。花了兩三個整天的時間，想說來特別來記錄一下。&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;為什麼想要換&lt;/h2&gt;
@@ -249,20 +253,19 @@
 &lt;li&gt;需要另外安裝在本機去執行轉譯&lt;/li&gt;
 &lt;li&gt;要能夠完整的發布，需要自己配置伺服器設定&lt;/li&gt;
 &lt;/ul&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>小額贊助，大大動力：使用「街口支付」</title>
-      <link>/blog/how-to-sponsor-me-via-jkopay/</link>
-      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/how-to-sponsor-me-via-jkopay/</guid>
-        <description>&lt;h4 id=&#34;-pay-&#34;&gt;三大 Pay 帶動行動支付在台灣闖出一片天，其實也有很多本土業者推出掃碼的行動支付服務，街口支付就是這樣的一個服務。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>小額贊助，大大動力：使用「街口支付」</title>
+    <link>https://willliu.me/blog/how-to-sponsor-me-via-jkopay/</link>
+    <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/how-to-sponsor-me-via-jkopay/</guid>
+    <description>&lt;h4 id=&#34;-pay-&#34;&gt;三大 Pay 帶動行動支付在台灣闖出一片天，其實也有很多本土業者推出掃碼的行動支付服務，街口支付就是這樣的一個服務。&lt;/h4&gt;
 &lt;p&gt;隨著優惠不斷加碼，街口在台灣也佔有一席地位。目前正開放轉帳的功能，目前仍是轉帳免手續費，加上街口的市佔率已經是行動支付的前幾名，從市佔率以及交易成本來看，不失為一個很好的贊助方式。&lt;/p&gt;
 &lt;p&gt;先提供給大家我的 QRCode，歡迎大家掃描透過街口支付轉帳的方式，贊助支持我！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15606294106013_IHU0jcQJ-.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15606294106013_IHU0jcQJ-.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-qrcode&#34;&gt;我的街口支付轉帳收款 QRCode，歡迎掃描轉帳給我喔！&lt;/h5&gt;
 &lt;p&gt;其實已經有很多人提供了許多街口的申請方式，大家可以參考 Evonnee Tsai 所寫的文章，她是一個我固定在追蹤很棒的作者，寫的文章都超仔細，且能感覺得出來心中滿滿的熱情。&lt;/p&gt;
 &lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://medium.com/@evonneyifangtsai/4462325afd59&#34;&gt;如何用街口支付小額支持作家&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;之前討論過在Medium上若要靠寫作賺一點錢，似乎只有加入付費牆這條路，因為要使用信用卡在網路上小額付款，也就是常見的「請我喝杯咖啡」，實在太麻煩了！我好幾次想請，但是每次看到要填這麼多資料，就決定要改的東西太多了，就改天吧～我在捐款上面花的時間，都比看文章還要長了，這我真的不行。 ...&lt;/p&gt;&lt;/blockquote&gt;
@@ -279,17 +282,16 @@
 &lt;li&gt;申請街口支付：&lt;a href=&#34;https://www.jkos.com/instructions/register.html&#34;&gt;按此前往申請說明&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;轉帳使用方式： &lt;a href=&#34;https://www.jkos.com/instructions/transfer.html&#34;&gt;轉帳說明請點此&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>我使用的服務/工具一覽</title>
-      <link>/blog/my-tools-and-services-list/</link>
-      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/my-tools-and-services-list/</guid>
-        <description>&lt;h2 id=&#34;heading&#34;&gt;我訂閱&amp;amp;購買的服務&lt;/h2&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>我使用的服務/工具一覽</title>
+    <link>https://willliu.me/blog/my-tools-and-services-list/</link>
+    <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/my-tools-and-services-list/</guid>
+    <description>&lt;h2 id=&#34;heading&#34;&gt;我訂閱&amp;amp;購買的服務&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Notion（於 2019.6.3 開始年度訂閱[以 Credit 折抵 USD$48]，2019.9.20 開始轉用教育方案[免費]）&lt;/li&gt;
 &lt;li&gt;愛奇藝 一年（已於 2018.11.27 購買一年期[TWD$990]，2018.3.20購買一年期[$1899]）&lt;/li&gt;
@@ -382,9 +384,8 @@
 &lt;li&gt;Instagram&lt;/li&gt;
 &lt;li&gt;Matter&lt;/li&gt;
 &lt;/ul&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

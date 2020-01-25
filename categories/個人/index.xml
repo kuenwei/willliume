@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>個人 on 未來6米</title>
-    <link>/categories/%E5%80%8B%E4%BA%BA/</link>
-    <description>Recent content in 個人 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Fri, 06 Apr 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/%E5%80%8B%E4%BA%BA/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>我使用的服務/工具一覽</title>
-      <link>/blog/my-tools-and-services-list/</link>
-      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/my-tools-and-services-list/</guid>
-        <description>&lt;h2 id=&#34;heading&#34;&gt;我訂閱&amp;amp;購買的服務&lt;/h2&gt;
+<channel>
+  <title>個人 on 未來6米</title>
+  <link>https://willliu.me/categories/%E5%80%8B%E4%BA%BA/</link>
+  <description>Recent content in 個人 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Fri, 06 Apr 2018 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/categories/%E5%80%8B%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>我使用的服務/工具一覽</title>
+    <link>https://willliu.me/blog/my-tools-and-services-list/</link>
+    <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/my-tools-and-services-list/</guid>
+    <description>&lt;h2 id=&#34;heading&#34;&gt;我訂閱&amp;amp;購買的服務&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Notion（於 2019.6.3 開始年度訂閱[以 Credit 折抵 USD$48]，2019.9.20 開始轉用教育方案[免費]）&lt;/li&gt;
 &lt;li&gt;愛奇藝 一年（已於 2018.11.27 購買一年期[TWD$990]，2018.3.20購買一年期[$1899]）&lt;/li&gt;
@@ -108,9 +115,8 @@
 &lt;li&gt;Instagram&lt;/li&gt;
 &lt;li&gt;Matter&lt;/li&gt;
 &lt;/ul&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

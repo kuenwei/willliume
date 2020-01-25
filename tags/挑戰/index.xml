@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>挑戰 on 未來6米</title>
-    <link>/tags/%E6%8C%91%E6%88%B0/</link>
-    <description>Recent content in 挑戰 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E6%8C%91%E6%88%B0/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>《許芳宜．我心我行 Salute》：人不是沒有選擇，而是選擇需要能力。</title>
-      <link>/blog/fang-yi-sheu-book-salute/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/fang-yi-sheu-book-salute/</guid>
-        <description>&lt;p&gt;已經找不到讓我買這本書的那篇文章了，我只記得，那一天看到一篇文章，講著許芳宜跟她自己身體的故事，模糊的印象中，有段文字告訴我們，要多去尊重自己的身體，去聽到身體想要跟你說的訊息。&lt;/p&gt;
+<channel>
+  <title>挑戰 on 未來6米</title>
+  <link>https://willliu.me/tags/%E6%8C%91%E6%88%B0/</link>
+  <description>Recent content in 挑戰 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E6%8C%91%E6%88%B0/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>《許芳宜．我心我行 Salute》：人不是沒有選擇，而是選擇需要能力。</title>
+    <link>https://willliu.me/blog/fang-yi-sheu-book-salute/</link>
+    <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/fang-yi-sheu-book-salute/</guid>
+    <description>&lt;p&gt;已經找不到讓我買這本書的那篇文章了，我只記得，那一天看到一篇文章，講著許芳宜跟她自己身體的故事，模糊的印象中，有段文字告訴我們，要多去尊重自己的身體，去聽到身體想要跟你說的訊息。&lt;/p&gt;
 &lt;p&gt;就是因為這樣跟身體的相處，所以讓我選擇買下了&lt;a href=&#34;https://www.kobo.com/tw/zh/ebook/salute-9&#34;&gt;《我心我行．Salute》&lt;/a&gt;這一本書，所以我一直以為這是一本，在講述許芳宜跟身體的故事，不過讀起來才發現，這是一本類似自傳的書，許芳宜完整地透過書籍分享了他的人生觀。&lt;/p&gt;
 &lt;p&gt;要先聲明，其實我對於閱讀自傳的興趣並不濃厚，畢竟每個人的故事不相同，如果不是故事剛好切中自己的點，閱讀起來會有點找不到味道，當然這一本書多少也令我有這樣的感覺。&lt;/p&gt;
 &lt;p&gt;然而，在經歷豐富的人生上，總是能夠看到一些關於不同的世界觀，身為國際知名的舞蹈家許芳宜，透過書中很大一部分想要告訴大家，很多時候都是苦過來的，但只要方向、目標能夠確認，再大的環境因素，都是能夠被克服的。&lt;/p&gt;
@@ -69,9 +76,8 @@
 &lt;p&gt;身體很聰明，害怕時會逃避，所以不能讓身體害怕，要幫助身體找回信心。當站著的動作太吃力時，就發展坐著的練習；坐著累了，就躺下來翻滾延伸肢體；當我發現腿力不足，就開始訓練手臂、加強核心，學習蜥蜴四肢爬行，分散四肢的力氣。這是身體給我的功課，沒有刺激就沒有學習。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;標題圖片來源：&lt;a href=&#34;https://www.pixabay.com&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

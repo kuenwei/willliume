@@ -1,25 +1,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>數位工作 on 未來6米</title>
-    <link>/tags/%E6%95%B8%E4%BD%8D%E5%B7%A5%E4%BD%9C/</link>
-    <description>Recent content in 數位工作 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E6%95%B8%E4%BD%8D%E5%B7%A5%E4%BD%9C/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>將 Facebook 中上百個珍藏項目，變成自己的一本電子書</title>
-      <link>/blog/facebook-read-later-to-a-book/</link>
-      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/facebook-read-later-to-a-book/</guid>
-        <description>&lt;h4 id=&#34;-facebook-&#34;&gt;這是一個我會不知不覺用的功能，叫做 Facebook 的珍藏內容，逐漸地裡面累積了上百個內容，我都還沒有看。這次整理後，發現有一些早已過時，但發現了一些內心實踐後的心得，原來不整理是因為我們不知道方法，懶惰只是一個藉口。&lt;/h4&gt;
+<channel>
+  <title>數位工作 on 未來6米</title>
+  <link>https://willliu.me/tags/%E6%95%B8%E4%BD%8D%E5%B7%A5%E4%BD%9C/</link>
+  <description>Recent content in 數位工作 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E6%95%B8%E4%BD%8D%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>將 Facebook 中上百個珍藏項目，變成自己的一本電子書</title>
+    <link>https://willliu.me/blog/facebook-read-later-to-a-book/</link>
+    <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/facebook-read-later-to-a-book/</guid>
+    <description>&lt;h4 id=&#34;-facebook-&#34;&gt;這是一個我會不知不覺用的功能，叫做 Facebook 的珍藏內容，逐漸地裡面累積了上百個內容，我都還沒有看。這次整理後，發現有一些早已過時，但發現了一些內心實踐後的心得，原來不整理是因為我們不知道方法，懶惰只是一個藉口。&lt;/h4&gt;
 &lt;p&gt;很久之前我寫過一篇文章關於&lt;a href=&#34;https://g.willliu.me/PNFG6&#34;&gt;待辦清單&lt;/a&gt;，這兩天適逢農曆新年長假，打算要好好重新整理所有&lt;a href=&#34;https://g.willliu.me/NDWKT&#34;&gt;數位助理&lt;/a&gt;的項目，滑臉書應該是多數人的習慣，我也不例外，同時我也不自覺得會把以後想看的文章，就這樣不斷地存入了珍藏項目。&lt;/p&gt;
 &lt;p&gt;結果當我今天一打開的時候，上百個項目大概是半年多以來的紀錄，記得我上次也是儲存了上百個，然後一個個慢慢的清掉。講上百個是因為我也不知道真實有幾個，畢竟臉書超過一百就只會顯示 99+ 右方的統計數字。&lt;/p&gt;
 &lt;p&gt;前幾個小時，我不斷整理歸納然後刪除項目，還是沒有辦法讓那個數字跳動，直到花費了約莫八個小時之後，那個數字總算有了遞減的趨勢。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-23___7.48.01_nf8Ml4-q_.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/__2020-01-23___7.48.01_nf8Ml4-q.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-23___7.48.01_nf8Ml4-q_.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/__2020-01-23___7.48.01_nf8Ml4-q.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading&#34;&gt;剛打開的畫面，一長串滑都滑不完。&lt;/h5&gt;
 &lt;p&gt;逐漸地整理到尾聲，我發現這幾百個項目，越整理越有心得，因為有很多東西，我根本就已經覺得不用去看他，也同時在閱讀了近百篇的文章之後，漸漸的知道怎麼把網路資訊，統合重新再利用。&lt;/p&gt;
 &lt;h2 id=&#34;heading-1&#34;&gt;整理結束時發現三大處理法&lt;/h2&gt;
@@ -34,11 +41,11 @@
 &lt;p&gt;原先放在以後要看的項目，突然變得已經不再重要。&lt;strong&gt;累積了這麼久的閱讀清單，其實自己真的能夠消化的反而不多。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;沒有標示時間的項目，都會隨間推移而重要性遞減。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;而我們也不應該有太多的文章被放進「以後再看」，尤其是那一些有明顯時效性的內容，例如活動報名等等，而且當你有了&lt;a href=&#34;https://t.willliu.me/%E6%95%B8%E4%BD%8D%E5%8A%A9%E7%90%86&#34;&gt;數位助理&lt;/a&gt;的時候，更應該把這些內容就放到待辦事項，並明確地列入日期，而不再依賴各平台自主收納（珍藏）的功能。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___8.52.14_hvVQV-UL0.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___8.52.14_hvVQV-UL0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___8.52.14_hvVQV-UL0.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___8.52.14_hvVQV-UL0.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-10-&#34;&gt;即使只剩下少少的 10 個項目，還是可以利用上面的三個分類進行歸納。&lt;/h5&gt;
 &lt;h2 id=&#34;-notion-&#34;&gt;用 Notion 打造自己的圖書館&lt;/h2&gt;
 &lt;p&gt;我原本就有在 Notion 設定了一個知識經濟分類，把我所有內容創作歸納，並且統一收集我&lt;a href=&#34;https://t.willliu.me/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84&#34;&gt;閱讀的經歷與內容&lt;/a&gt;，但經過這次的經驗後，我重新整理了一下欄位。除了既有的欄位之外，我把評分的內容放上去了。並透過閱讀牆的概念，可以一次看到標題名稱、閱讀狀態、作者以及評分。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.04.07_cGJ1ppWVy.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.04.07_cGJ1ppWVy.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.04.07_cGJ1ppWVy.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.04.07_cGJ1ppWVy.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-notion--wall-&#34;&gt;透過 Notion 中 Wall 的檢視，可以一目瞭然的看到自己「圖書館」的館藏&lt;/h5&gt;
 &lt;p&gt;關於怎麼使用 Notion 打造數位助理的文章，以及建構自己的數位圖書館，未來會有更多的內容分享出來。但這次的變革除了增加了部分欄位外，我也找到了一套目前可用的網路文章閱讀方法。&lt;/p&gt;
 &lt;h2 id=&#34;heading-2&#34;&gt;我如何閱讀「網路文章」&lt;/h2&gt;
@@ -47,10 +54,10 @@
 &lt;p&gt;繼上次把進度欄設計完成並放入，之後我也沒有再重新回顧過去的文章。所以導致所有的欄目都沒有訊息，很不想說，但是我心裡面知道，其實這代表上次的整理可以直接「宣告失敗」。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;沒有辦法回顧的整理，根本就不是一種整理。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;如上面所說，我以前整理就是把連結直接貼在文章之內，修改標題之後就直接存擋。我記得當時候沒有這麼多判斷的欄目，只有簡單的幾個狀態（以下截圖已經是現在使用的欄目），也是造成沒有辦法有追蹤紀錄的原因。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.18.28_HsZQE_WuH.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.18.28_HsZQE_WuH.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.18.28_HsZQE_WuH.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.18.28_HsZQE_WuH.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-3&#34;&gt;過往的方式：只留下了連結並使用嵌入的方式，放在內文頁面之中。&lt;/h5&gt;
 &lt;p&gt;參考更進化的版本，過去在閱讀的時候，會把文章的內容節錄出來，並作劃線標示。但內容並不是擷取全文，所以要看原文的時候，還是需要回到原本網站。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.17.32_j7l-R9m9y.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.17.32_j7l-R9m9y.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.17.32_j7l-R9m9y.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.17.32_j7l-R9m9y.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-4&#34;&gt;有些文章我擷取了有感覺的段落，然後畫了線，不過全篇文章還是要連出去看。&lt;/h5&gt;
 &lt;p&gt;這樣一段段的擷取內容，看起都是精華，不過真的要看全貌或者重新回味的時候，有時候會因為不知道整體的文章架構，也讓印象點沒有這麼深刻。要觀看的時候，會需要跳出你之前標記過的內容，回到原始網站上看，其實失去了整合的感覺。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;大量的閱讀時，我想要做到閱讀的整體性跟一致性。&lt;/em&gt;&lt;/p&gt;
@@ -77,7 +84,7 @@
 &lt;p&gt;透過單一軟體、同一個格式收納文章，還有一個很重要的好處，就是在閱讀上的體驗會非常的一致。&lt;/p&gt;
 &lt;p&gt;Notion 因為可以整合不同的內容，使得內容在閱讀的體驗上面，會創造一樣的氛圍，不管是要畫線標註、寫筆記、附註評論等等，都是用一樣的方式操作。在原本的格式之下，你可以自由地加上自己想要文字，例如英文單字的中文翻譯。&lt;/p&gt;
 &lt;p&gt;就好像，所有的文章收納後集結成冊，被放入一台電子書閱讀器，UI/UX 是一樣的讀起來就更像是一本書。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.03.39_dtQ2UxIKy.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.03.39_dtQ2UxIKy.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.03.39_dtQ2UxIKy.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.03.39_dtQ2UxIKy.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-notion&#34;&gt;直接擷取文章進入 Notion，會把原文以及大部分的內容都存入&lt;/h5&gt;
 &lt;p&gt;Notion 因為含有筆記本的概念，所以其實你在整理、閱讀以及標記的時候，就非常地符合閱讀體驗。如果使用電腦版，可以快速地重複螢光筆標記的功能 ⌘ command + ⇧ shift + H，如果使用 iPad 配合 Appencil 也可以達到選取標記的功能。&lt;/p&gt;
 &lt;p&gt;另外一方面，這樣的一致性也因為跨裝置的同步，等同今天你不管在哪個載具上面，都可以擁有這一本書。&lt;/p&gt;
@@ -89,17 +96,16 @@
 &lt;p&gt;而很剛好的許多充滿內容的平台，因為想要增加使用者的黏著，當然樂意提供儲存珍藏項目的功能，有時候會附加提醒說你還有很多珍藏沒有看，但當我們只會不斷收集累積的時候，下一步的庫存消化也是更重要。&lt;/p&gt;
 &lt;p&gt;不論你手上用什麼樣的筆記軟體，真的可以開始試試看規劃出自己的整理系統，漸漸收納成一本書，甚至創造自己的數位圖書館。&lt;/p&gt;
 &lt;p&gt;如果你還沒有使用筆記軟體，想要創造數位助理的人，我目前正在使用 Notion 不斷嘗試與演進，也推薦給你，期待跟你有更多的討論與分享。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>我怎麼選擇 App〈一〉如何選擇一個不完美的來用？</title>
-      <link>/blog/my-philosophy-on-apps-three-points-selection/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/my-philosophy-on-apps-three-points-selection/</guid>
-        <description>&lt;h4 id=&#34;2020-&#34;&gt;2020 想要好好耕耘數位工具使用這一塊，我一直都不是善於寫手把手教學，這類的文章也非常好搜尋到，但我想要說說：「為什麼這麼做？」並提供一些自己的方法。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>我怎麼選擇 App〈一〉如何選擇一個不完美的來用？</title>
+    <link>https://willliu.me/blog/my-philosophy-on-apps-three-points-selection/</link>
+    <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/my-philosophy-on-apps-three-points-selection/</guid>
+    <description>&lt;h4 id=&#34;2020-&#34;&gt;2020 想要好好耕耘數位工具使用這一塊，我一直都不是善於寫手把手教學，這類的文章也非常好搜尋到，但我想要說說：「為什麼這麼做？」並提供一些自己的方法。&lt;/h4&gt;
 &lt;p&gt;廿一世紀真的是一個很特別的時代，最重要的就是幾乎人手都有智慧手機，難免就會面對到要安裝不同的 App（Application，手機軟體），最近一兩年我也添購了&lt;a href=&#34;https://willliu.me/blog/my-tools-and-services-list/#heading-2&#34;&gt;許多硬體設備&lt;/a&gt;，包含了 Macbook、iPad Pro 等等，慢慢轉換使用數位工具協助自己的工作、甚至延伸到日常生活。&lt;/p&gt;
 &lt;p&gt;然後發現裡面有太多的心路歷程，其實是因為有太多的衝突，而我習慣是需要一個理由才能好好地安撫自己，去了解為什麼、跟為什麼要對我來說很重要，時序進入新的一年（2020）剛好又進入了整理思緒的時間，同時也發現了一些不同的服務已經不再適用必須整理。&lt;/p&gt;
 &lt;p&gt;而在這過程中，有許多思路，想要在這邊慢慢寫出來跟大家分享。&lt;/p&gt;
@@ -155,17 +161,16 @@
 &lt;p&gt;最後我才發現，&lt;strong&gt;根本不會有完全符合我情境的 App，但我的情境裡面可以有好多不同的 App。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;而且，如果這個開發者還是持續的更新，我們必然可以透過回饋的方式，讓 App 一起成長，即使成長到了瓶頸，我們也能保留更多的餘裕，去等待其他開發者，並轉換過去。&lt;/p&gt;
 &lt;p&gt;所以，請不要等待，如果你想要成為數位開發者，現在開始評估、下載以及使用吧！&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>學鋼鐵人打造 Jarvis，創造你的數位助理</title>
-      <link>/blog/personal-digital-assistant-three-principle-notion/</link>
-      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/personal-digital-assistant-three-principle-notion/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;一個不離身的手機，正是最適合幫助自己打造個人助理的載具，因為具備了「時時在身邊」的特性，這一系列文章的開頭，想要分享近期在思考工作模式轉變，並且使用身邊的數位工具，我是怎麼想的。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>學鋼鐵人打造 Jarvis，創造你的數位助理</title>
+    <link>https://willliu.me/blog/personal-digital-assistant-three-principle-notion/</link>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/personal-digital-assistant-three-principle-notion/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;一個不離身的手機，正是最適合幫助自己打造個人助理的載具，因為具備了「時時在身邊」的特性，這一系列文章的開頭，想要分享近期在思考工作模式轉變，並且使用身邊的數位工具，我是怎麼想的。&lt;/h4&gt;
 &lt;p&gt;最近唸了一本書在談時間管理的，裡面提到了一個觀念叫做「時間股利」，核心思想就是現在的經營、做法，會讓自己未來的時間增加，如同大家熟悉的存款觀念，你把一筆錢放入銀行，之後錢會變大。&lt;/p&gt;
 &lt;p&gt;但這裡強調不僅僅只是物理面有形的時間多了出來，還包含了心裡面的所提到的，感覺自己的時間足夠。（想看更多的內容，大家可以去翻閱《&lt;a href=&#34;https://www.kobo.com/tw/zh/ebook/P6X5wtED8zmAHPIcUnkNaw&#34;&gt;要忙，就忙得有意義&lt;/a&gt;》）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;有幾個方法可以幫助創造出時間股利，其中一個就是培養出一個好助理。&lt;/strong&gt;&lt;/p&gt;
@@ -208,17 +213,16 @@
 &lt;p&gt;在數位的年代，很多人都會被取代，這是一句常常聽到的話，其實我每次聽到都覺得很有危機感。但如果換一種思考模式，變成：「&lt;strong&gt;在數位的時代，很多人可以做的事情，可以用數位工具取代。&lt;/strong&gt;」就能夠發現「事」可以被取代，但人還是有不可或缺性。&lt;/p&gt;
 &lt;p&gt;以前我們想到很多雜事，就會很希望能有有一個統一的控制中心，幫助我們管理，也適時的提醒我們該做什麼。智慧型手機的出現，加上善用 App，正好有機會填補滿這個空缺。&lt;/p&gt;
 &lt;p&gt;Notion 是有提供免費方案的，如果你是學生、教師或者擁有 .edu 電子信箱，可以申請教育方案使用，等同於免費使用絕大部分的功能，並且儲存的內容沒有上限。相關的申請、教育方案等等，網路上中、英文資源甚多，大家可以自己找找看。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>那一天，我清掉所有待辦清單</title>
-      <link>/blog/the-day-i-clean-up-to-do-list/</link>
-      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/the-day-i-clean-up-to-do-list/</guid>
-        <description>&lt;p&gt;沒有清空的待辦事項，就是一種自虐的開始。&lt;/p&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>那一天，我清掉所有待辦清單</title>
+    <link>https://willliu.me/blog/the-day-i-clean-up-to-do-list/</link>
+    <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/the-day-i-clean-up-to-do-list/</guid>
+    <description>&lt;p&gt;沒有清空的待辦事項，就是一種自虐的開始。&lt;/p&gt;
 &lt;p&gt;在專案管理中，我有個很深的體悟：「把每一個小事情都做好，大事就會自然成形！」雖然每個人都希望能夠做大事，但其實不管是什麼樣的專案，如果沒有把每一件小事兼顧好，當走到後面的時候反而會發現更多問題。&lt;/p&gt;
 &lt;p&gt;對一個專案來說，能切割的最小片段就是能夠在手邊完成的事情，他不需要一直派工，只需要真的負責的人可以持續的做下去，有許多人都有提到 GTD 的任務管理法，以及艾森豪威爾法則以四象限來區分工作。我嘗試很多次，總是以失敗收場，有一天我下定決心，一次把我的待辦事項全部刪除了，然後重新思考到底怎麼了？為什麼總是會遇到失敗的情境呢？&lt;/p&gt;
 &lt;hr&gt;
@@ -241,9 +245,8 @@
 &lt;h3 id=&#34;heading-5&#34;&gt;要素三：連同工作時間與完成時間一起設定&lt;/h3&gt;
 &lt;p&gt;得到 App 中劉潤專欄曾經分享時間顆粒的概念，意思是每一個人對於時間利用程度不同，所以對時間單位的定義也不同。以我自己為例，我處理事情很快的人，但有個缺點容易分心，代表如果我持續做一件事情，很容易一不小心岔了出去，反而讓自己誤了一點時間。因此，我設定的時間顆粒為 30 分鐘，每 30 分鐘是我安排處理事情的節點，確保我在一定的時間內能夠專心，而又不會違背我會分心這個個性。&lt;/p&gt;
 &lt;p&gt;同時，我會配合行事曆一起設定工作時間，將每個顆粒需要做什麼事情都配合寫上去，以確保我有留時間去完成進度，不然反而會回到一開始我說明的，超出預期反而陷入做不完的崩潰情緒，以及推延後的自責感。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

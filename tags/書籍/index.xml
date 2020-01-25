@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>書籍 on 未來6米</title>
-    <link>/tags/%E6%9B%B8%E7%B1%8D/</link>
-    <description>Recent content in 書籍 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Tue, 16 Jan 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E6%9B%B8%E7%B1%8D/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>書籍清單：反芻知識，拓展見解</title>
-      <link>/blog/my-library-books-shopping-record/</link>
-      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/my-library-books-shopping-record/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;把自己買的、看的書都做紀錄，也希望把每一本書都看得實在，且能夠透過反芻的方式，把書中的知識為自己所用。一方面記錄，也希望與你分享。&lt;/h4&gt;
+<channel>
+  <title>書籍 on 未來6米</title>
+  <link>https://willliu.me/tags/%E6%9B%B8%E7%B1%8D/</link>
+  <description>Recent content in 書籍 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Tue, 16 Jan 2018 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E6%9B%B8%E7%B1%8D/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>書籍清單：反芻知識，拓展見解</title>
+    <link>https://willliu.me/blog/my-library-books-shopping-record/</link>
+    <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/my-library-books-shopping-record/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;把自己買的、看的書都做紀錄，也希望把每一本書都看得實在，且能夠透過反芻的方式，把書中的知識為自己所用。一方面記錄，也希望與你分享。&lt;/h4&gt;
 &lt;h2 id=&#34;2020--1-&#34;&gt;2020 年 1 月&lt;/h2&gt;
 &lt;h3 id=&#34;heading-1&#34;&gt;實體書&lt;/h3&gt;
 &lt;ol&gt;
@@ -231,9 +238,8 @@
 &lt;li&gt;秘密（&lt;a href=&#34;https://willliu.me/blog/bookreview-the-secret/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E7%A7%98%E5%AF%86&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
 &lt;li&gt;我們用假設創造這個世界（&lt;a href=&#34;https://blog.herearoma.com/post/only-habits-can-change-your-life//?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E6%88%91%E5%80%91%E7%94%A8%E5%81%87%E8%A8%AD%E5%89%B5%E9%80%A0%E9%80%99%E5%80%8B%E4%B8%96%E7%95%8C&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
 &lt;/ol&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

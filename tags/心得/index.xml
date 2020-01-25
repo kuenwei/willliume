@@ -1,25 +1,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>心得 on 未來6米</title>
-    <link>/tags/%E5%BF%83%E5%BE%97/</link>
-    <description>Recent content in 心得 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E5%BF%83%E5%BE%97/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>將 Facebook 中上百個珍藏項目，變成自己的一本電子書</title>
-      <link>/blog/facebook-read-later-to-a-book/</link>
-      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/facebook-read-later-to-a-book/</guid>
-        <description>&lt;h4 id=&#34;-facebook-&#34;&gt;這是一個我會不知不覺用的功能，叫做 Facebook 的珍藏內容，逐漸地裡面累積了上百個內容，我都還沒有看。這次整理後，發現有一些早已過時，但發現了一些內心實踐後的心得，原來不整理是因為我們不知道方法，懶惰只是一個藉口。&lt;/h4&gt;
+<channel>
+  <title>心得 on 未來6米</title>
+  <link>https://willliu.me/tags/%E5%BF%83%E5%BE%97/</link>
+  <description>Recent content in 心得 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>將 Facebook 中上百個珍藏項目，變成自己的一本電子書</title>
+    <link>https://willliu.me/blog/facebook-read-later-to-a-book/</link>
+    <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/facebook-read-later-to-a-book/</guid>
+    <description>&lt;h4 id=&#34;-facebook-&#34;&gt;這是一個我會不知不覺用的功能，叫做 Facebook 的珍藏內容，逐漸地裡面累積了上百個內容，我都還沒有看。這次整理後，發現有一些早已過時，但發現了一些內心實踐後的心得，原來不整理是因為我們不知道方法，懶惰只是一個藉口。&lt;/h4&gt;
 &lt;p&gt;很久之前我寫過一篇文章關於&lt;a href=&#34;https://g.willliu.me/PNFG6&#34;&gt;待辦清單&lt;/a&gt;，這兩天適逢農曆新年長假，打算要好好重新整理所有&lt;a href=&#34;https://g.willliu.me/NDWKT&#34;&gt;數位助理&lt;/a&gt;的項目，滑臉書應該是多數人的習慣，我也不例外，同時我也不自覺得會把以後想看的文章，就這樣不斷地存入了珍藏項目。&lt;/p&gt;
 &lt;p&gt;結果當我今天一打開的時候，上百個項目大概是半年多以來的紀錄，記得我上次也是儲存了上百個，然後一個個慢慢的清掉。講上百個是因為我也不知道真實有幾個，畢竟臉書超過一百就只會顯示 99+ 右方的統計數字。&lt;/p&gt;
 &lt;p&gt;前幾個小時，我不斷整理歸納然後刪除項目，還是沒有辦法讓那個數字跳動，直到花費了約莫八個小時之後，那個數字總算有了遞減的趨勢。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-23___7.48.01_nf8Ml4-q_.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/__2020-01-23___7.48.01_nf8Ml4-q.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-23___7.48.01_nf8Ml4-q_.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/__2020-01-23___7.48.01_nf8Ml4-q.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading&#34;&gt;剛打開的畫面，一長串滑都滑不完。&lt;/h5&gt;
 &lt;p&gt;逐漸地整理到尾聲，我發現這幾百個項目，越整理越有心得，因為有很多東西，我根本就已經覺得不用去看他，也同時在閱讀了近百篇的文章之後，漸漸的知道怎麼把網路資訊，統合重新再利用。&lt;/p&gt;
 &lt;h2 id=&#34;heading-1&#34;&gt;整理結束時發現三大處理法&lt;/h2&gt;
@@ -34,11 +41,11 @@
 &lt;p&gt;原先放在以後要看的項目，突然變得已經不再重要。&lt;strong&gt;累積了這麼久的閱讀清單，其實自己真的能夠消化的反而不多。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;沒有標示時間的項目，都會隨間推移而重要性遞減。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;而我們也不應該有太多的文章被放進「以後再看」，尤其是那一些有明顯時效性的內容，例如活動報名等等，而且當你有了&lt;a href=&#34;https://t.willliu.me/%E6%95%B8%E4%BD%8D%E5%8A%A9%E7%90%86&#34;&gt;數位助理&lt;/a&gt;的時候，更應該把這些內容就放到待辦事項，並明確地列入日期，而不再依賴各平台自主收納（珍藏）的功能。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___8.52.14_hvVQV-UL0.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___8.52.14_hvVQV-UL0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___8.52.14_hvVQV-UL0.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___8.52.14_hvVQV-UL0.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-10-&#34;&gt;即使只剩下少少的 10 個項目，還是可以利用上面的三個分類進行歸納。&lt;/h5&gt;
 &lt;h2 id=&#34;-notion-&#34;&gt;用 Notion 打造自己的圖書館&lt;/h2&gt;
 &lt;p&gt;我原本就有在 Notion 設定了一個知識經濟分類，把我所有內容創作歸納，並且統一收集我&lt;a href=&#34;https://t.willliu.me/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84&#34;&gt;閱讀的經歷與內容&lt;/a&gt;，但經過這次的經驗後，我重新整理了一下欄位。除了既有的欄位之外，我把評分的內容放上去了。並透過閱讀牆的概念，可以一次看到標題名稱、閱讀狀態、作者以及評分。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.04.07_cGJ1ppWVy.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.04.07_cGJ1ppWVy.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.04.07_cGJ1ppWVy.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.04.07_cGJ1ppWVy.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-notion--wall-&#34;&gt;透過 Notion 中 Wall 的檢視，可以一目瞭然的看到自己「圖書館」的館藏&lt;/h5&gt;
 &lt;p&gt;關於怎麼使用 Notion 打造數位助理的文章，以及建構自己的數位圖書館，未來會有更多的內容分享出來。但這次的變革除了增加了部分欄位外，我也找到了一套目前可用的網路文章閱讀方法。&lt;/p&gt;
 &lt;h2 id=&#34;heading-2&#34;&gt;我如何閱讀「網路文章」&lt;/h2&gt;
@@ -47,10 +54,10 @@
 &lt;p&gt;繼上次把進度欄設計完成並放入，之後我也沒有再重新回顧過去的文章。所以導致所有的欄目都沒有訊息，很不想說，但是我心裡面知道，其實這代表上次的整理可以直接「宣告失敗」。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;沒有辦法回顧的整理，根本就不是一種整理。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;如上面所說，我以前整理就是把連結直接貼在文章之內，修改標題之後就直接存擋。我記得當時候沒有這麼多判斷的欄目，只有簡單的幾個狀態（以下截圖已經是現在使用的欄目），也是造成沒有辦法有追蹤紀錄的原因。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.18.28_HsZQE_WuH.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.18.28_HsZQE_WuH.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.18.28_HsZQE_WuH.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.18.28_HsZQE_WuH.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-3&#34;&gt;過往的方式：只留下了連結並使用嵌入的方式，放在內文頁面之中。&lt;/h5&gt;
 &lt;p&gt;參考更進化的版本，過去在閱讀的時候，會把文章的內容節錄出來，並作劃線標示。但內容並不是擷取全文，所以要看原文的時候，還是需要回到原本網站。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.17.32_j7l-R9m9y.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.17.32_j7l-R9m9y.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.17.32_j7l-R9m9y.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___10.17.32_j7l-R9m9y.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-4&#34;&gt;有些文章我擷取了有感覺的段落，然後畫了線，不過全篇文章還是要連出去看。&lt;/h5&gt;
 &lt;p&gt;這樣一段段的擷取內容，看起都是精華，不過真的要看全貌或者重新回味的時候，有時候會因為不知道整體的文章架構，也讓印象點沒有這麼深刻。要觀看的時候，會需要跳出你之前標記過的內容，回到原始網站上看，其實失去了整合的感覺。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;大量的閱讀時，我想要做到閱讀的整體性跟一致性。&lt;/em&gt;&lt;/p&gt;
@@ -77,7 +84,7 @@
 &lt;p&gt;透過單一軟體、同一個格式收納文章，還有一個很重要的好處，就是在閱讀上的體驗會非常的一致。&lt;/p&gt;
 &lt;p&gt;Notion 因為可以整合不同的內容，使得內容在閱讀的體驗上面，會創造一樣的氛圍，不管是要畫線標註、寫筆記、附註評論等等，都是用一樣的方式操作。在原本的格式之下，你可以自由地加上自己想要文字，例如英文單字的中文翻譯。&lt;/p&gt;
 &lt;p&gt;就好像，所有的文章收納後集結成冊，被放入一台電子書閱讀器，UI/UX 是一樣的讀起來就更像是一本書。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.03.39_dtQ2UxIKy.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.03.39_dtQ2UxIKy.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.03.39_dtQ2UxIKy.png&#34; alt=&#34;https://ik.imagekit.io/kuenwei/willliu_me/___2020-01-24___11.03.39_dtQ2UxIKy.png&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-notion&#34;&gt;直接擷取文章進入 Notion，會把原文以及大部分的內容都存入&lt;/h5&gt;
 &lt;p&gt;Notion 因為含有筆記本的概念，所以其實你在整理、閱讀以及標記的時候，就非常地符合閱讀體驗。如果使用電腦版，可以快速地重複螢光筆標記的功能 ⌘ command + ⇧ shift + H，如果使用 iPad 配合 Appencil 也可以達到選取標記的功能。&lt;/p&gt;
 &lt;p&gt;另外一方面，這樣的一致性也因為跨裝置的同步，等同今天你不管在哪個載具上面，都可以擁有這一本書。&lt;/p&gt;
@@ -89,17 +96,16 @@
 &lt;p&gt;而很剛好的許多充滿內容的平台，因為想要增加使用者的黏著，當然樂意提供儲存珍藏項目的功能，有時候會附加提醒說你還有很多珍藏沒有看，但當我們只會不斷收集累積的時候，下一步的庫存消化也是更重要。&lt;/p&gt;
 &lt;p&gt;不論你手上用什麼樣的筆記軟體，真的可以開始試試看規劃出自己的整理系統，漸漸收納成一本書，甚至創造自己的數位圖書館。&lt;/p&gt;
 &lt;p&gt;如果你還沒有使用筆記軟體，想要創造數位助理的人，我目前正在使用 Notion 不斷嘗試與演進，也推薦給你，期待跟你有更多的討論與分享。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>我怎麼選擇 App〈一〉如何選擇一個不完美的來用？</title>
-      <link>/blog/my-philosophy-on-apps-three-points-selection/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/my-philosophy-on-apps-three-points-selection/</guid>
-        <description>&lt;h4 id=&#34;2020-&#34;&gt;2020 想要好好耕耘數位工具使用這一塊，我一直都不是善於寫手把手教學，這類的文章也非常好搜尋到，但我想要說說：「為什麼這麼做？」並提供一些自己的方法。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>我怎麼選擇 App〈一〉如何選擇一個不完美的來用？</title>
+    <link>https://willliu.me/blog/my-philosophy-on-apps-three-points-selection/</link>
+    <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/my-philosophy-on-apps-three-points-selection/</guid>
+    <description>&lt;h4 id=&#34;2020-&#34;&gt;2020 想要好好耕耘數位工具使用這一塊，我一直都不是善於寫手把手教學，這類的文章也非常好搜尋到，但我想要說說：「為什麼這麼做？」並提供一些自己的方法。&lt;/h4&gt;
 &lt;p&gt;廿一世紀真的是一個很特別的時代，最重要的就是幾乎人手都有智慧手機，難免就會面對到要安裝不同的 App（Application，手機軟體），最近一兩年我也添購了&lt;a href=&#34;https://willliu.me/blog/my-tools-and-services-list/#heading-2&#34;&gt;許多硬體設備&lt;/a&gt;，包含了 Macbook、iPad Pro 等等，慢慢轉換使用數位工具協助自己的工作、甚至延伸到日常生活。&lt;/p&gt;
 &lt;p&gt;然後發現裡面有太多的心路歷程，其實是因為有太多的衝突，而我習慣是需要一個理由才能好好地安撫自己，去了解為什麼、跟為什麼要對我來說很重要，時序進入新的一年（2020）剛好又進入了整理思緒的時間，同時也發現了一些不同的服務已經不再適用必須整理。&lt;/p&gt;
 &lt;p&gt;而在這過程中，有許多思路，想要在這邊慢慢寫出來跟大家分享。&lt;/p&gt;
@@ -155,30 +161,29 @@
 &lt;p&gt;最後我才發現，&lt;strong&gt;根本不會有完全符合我情境的 App，但我的情境裡面可以有好多不同的 App。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;而且，如果這個開發者還是持續的更新，我們必然可以透過回饋的方式，讓 App 一起成長，即使成長到了瓶頸，我們也能保留更多的餘裕，去等待其他開發者，並轉換過去。&lt;/p&gt;
 &lt;p&gt;所以，請不要等待，如果你想要成為數位開發者，現在開始評估、下載以及使用吧！&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>Keychron K1 V2 機械式鍵盤購入心得：比起完美，更重合用</title>
-      <link>/blog/keychron-k1-v2-mechanical-keyboard-and-how-i-use-it/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/keychron-k1-v2-mechanical-keyboard-and-how-i-use-it/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;最近幫自己添購了許多不同的設備，當然花了不少錢，不知道為什麼最近買產品，價格都偏高了一點，但既然要花錢，所以為了減少罪惡感，也不要增加荷包被減肥的痛感，決定要把這一筆筆的花費從頭到尾能夠詳盡的紀錄下來。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>Keychron K1 V2 機械式鍵盤購入心得：比起完美，更重合用</title>
+    <link>https://willliu.me/blog/keychron-k1-v2-mechanical-keyboard-and-how-i-use-it/</link>
+    <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/keychron-k1-v2-mechanical-keyboard-and-how-i-use-it/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;最近幫自己添購了許多不同的設備，當然花了不少錢，不知道為什麼最近買產品，價格都偏高了一點，但既然要花錢，所以為了減少罪惡感，也不要增加荷包被減肥的痛感，決定要把這一筆筆的花費從頭到尾能夠詳盡的紀錄下來。&lt;/h4&gt;
 &lt;p&gt;這個鍵盤，對我來說雖然不到夢幻逸品的層次，但也是讓我一償宿願，因為我真的想要相關的產品很久了，直到現在才讓我找到。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-1&#34;&gt;為什麼要購買這個鍵盤&lt;/h2&gt;
 &lt;p&gt;從很久以前，我就在找一個能夠同時支援有線與藍牙無線的鍵盤，因為我在工作的形態上，通常使用多的設備，包含了 Windows 桌機、iPad Pro，甚至會加上一台 Macbook Air/Pro。雖然每個裝置都有自己的鍵盤，但是想到要轉來轉去身體，就很希望找到一個簡單切換的方法。&lt;/p&gt;
 &lt;p&gt;一兩年前看到一個 &lt;a href=&#34;http://www.coolpc.com.tw/phpBB2/viewtopic.php?f=52&amp;amp;t=149722&amp;amp;view=next&#34;&gt;ZIPPY BW7050&lt;/a&gt; 可以同時支援有線與多組藍牙連接的機械鍵盤，很想下手，但其實已經絕版，市面上已經無法找到。&lt;/p&gt;
 &lt;p&gt;就這樣等了一兩年，市面上都沒相關的產品，所以我就買了 Cherry 紅軸、i-rock 等機械鍵盤來使用，但都是有線僅支援一台電腦的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15602608853900_57ZGnjfXY.jpg&#34; alt=&#34;Keychron K1 具有輕薄、無限、機械式鍵盤的三個特色&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15602608853900_57ZGnjfXY.jpg&#34; alt=&#34;Keychron K1 具有輕薄、無限、機械式鍵盤的三個特色&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;keychron-k1-&#34;&gt;Keychron K1 具有輕薄、無線、機械式鍵盤的三個特色&lt;/h5&gt;
 &lt;p&gt;直到 &lt;a href=&#34;https://www.keychron.com.tw&#34;&gt;Keychron&lt;/a&gt; K1  V2 被我在 Facebook 巧遇到（同時有看到 Taptek 募資專案，但因為還沒上市，我又想要入手使用，所以便沒有多加考慮），查了一下&lt;a href=&#34;https://applealmond.com/posts/53348&#34;&gt;相關的文章&lt;/a&gt;，反覆確認自己的實際需求，肯定了這就是我要的，當然趁還在搶鮮的優惠價中，先入手一組來試試看。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-2&#34;&gt;開箱的感覺&lt;/h2&gt;
 &lt;p&gt;這是從深圳的工廠或者倉庫直接出貨的，蠻好的服務是可以完全追蹤。為了怕淋到水，完整的用了防水的快遞包裝袋封起來（膠袋包很多層，很難拆），然後裡面就是完整的盒子，有點撞擊的痕跡。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15602590997789_KwH4-3SWHw.jpg&#34; alt=&#34;可以完整追蹤物流項目，是從深圳直接出貨&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15602590997789_KwH4-3SWHw.jpg&#34; alt=&#34;可以完整追蹤物流項目，是從深圳直接出貨&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-3&#34;&gt;可以完整追蹤物流狀態，是從深圳直接出貨&lt;/h5&gt;
 &lt;p&gt;拿起來的第一個感覺，這一組鍵盤很有份量。&lt;/p&gt;
 &lt;p&gt;可能是因為使用鋁合金製造，所以相較以前的鍵盤真的蠻重的，但因為鍵帽的設計是屬於扁平的感覺，所以並不會有很厚的感覺。跟我另外一個機械鍵盤的鍵盤 &lt;a href=&#34;http://mesak.tw/hardware/keyboard/7091/i-rocks-k60m&#34;&gt;irock K60&lt;/a&gt; 感覺差不多，可能會再輕一點點。&lt;/p&gt;
@@ -188,7 +193,7 @@
 &lt;h2 id=&#34;heading-4&#34;&gt;使用的心得&lt;/h2&gt;
 &lt;p&gt;我覺得最讓我驚豔的是「手感」，其實我已經使用機械式鍵盤很久了，以往總是習慣使用 Cherry 的紅軸鍵盤，整體的軟硬度、回饋的感覺都非常的好，聲音的部分也令我非常滿意，每打一個字都有一種在認真寫出什麼的感覺。&lt;/p&gt;
 &lt;p&gt;而 K1 這一組鍵盤，相較於 Cherry 來說，回饋的時間更快，而在敲打的時候，相對來說聲音清脆許多，加上使用的材質是鋁合金，聽起來方面，少了其他鍵盤那種塑料感，是另外一種令人想要不斷打字的激勵狀態。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15602609658473_OCV2w2lqA.jpg&#34; alt=&#34;背光模式讓鍵盤在打字的時耀眼又多一分趣味&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15602609658473_OCV2w2lqA.jpg&#34; alt=&#34;背光模式讓鍵盤在打字的時耀眼又多一分趣味&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-5&#34;&gt;背光模式讓鍵盤在打字的時耀眼又多一分趣味&lt;/h5&gt;
 &lt;h3 id=&#34;ipad-pro-129&#34;&gt;iPad Pro 12.9&lt;/h3&gt;
 &lt;p&gt;這是我第一個配對的設備，先用一句話來形容：「配置上與 Smart Keyboard 差異不大。」這一點是有點美中不足的，因為我已經有買了 Smart Keyboard，除了敲打的感覺外，有些功能鍵我認爲還是 Smart Keyboard 支援的比較完全，例如：使用 command + tab 切換視窗，在 K1 上怎麼實驗都還是沒辦法打出來。&lt;/p&gt;
@@ -229,17 +234,16 @@
 &lt;p&gt;&lt;em&gt;如果你問我，這個鍵盤是否解決一切問題，答案顯而易見：「沒有。」&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;因為從實際面來看，Macbook Pro、iPad Pro 對我來說都已經是有鍵盤的設施，以移動裝置來說，在另外帶鍵盤並不實際，但如果就工作站的設置、工作上的需求來說，這個鍵盤是我目前採取的最佳解決方案。&lt;/p&gt;
 &lt;p&gt;長期的夢想被實現的感覺，真的有一種舒暢感。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>秘密 The Secret: 吸引力法則</title>
-      <link>/blog/bookreview-the-secret/</link>
-      <pubDate>Fri, 05 Apr 2019 15:25:19 +0800</pubDate>
-      
-      <guid>/blog/bookreview-the-secret/</guid>
-        <description>&lt;h4 id=&#34;-eyewithouts-2007--12--9--40084&#34;&gt;舊文重發，原文發表於前部落格 Eyewithouts，時間為 2007 年 12 月 9 日，閱覽人次 40,084。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>秘密 The Secret: 吸引力法則</title>
+    <link>https://willliu.me/blog/bookreview-the-secret/</link>
+    <pubDate>Fri, 05 Apr 2019 15:25:19 +0800</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/bookreview-the-secret/</guid>
+    <description>&lt;h4 id=&#34;-eyewithouts-2007--12--9--40084&#34;&gt;舊文重發，原文發表於前部落格 Eyewithouts，時間為 2007 年 12 月 9 日，閱覽人次 40,084。&lt;/h4&gt;
 &lt;p&gt;這本書我其實很早就已經看完了，一直都想要推薦給大家，但是前陣的真的很忙碌，沒有時間靜下心來打打文章，這陣子打文章又有很多議題可以寫，想說先介紹電影、音樂這樣大家可以花比較少的時間體會，因為看書真的需要比較多時間，總算要跟大家介紹一這本書了。&lt;/p&gt;
 &lt;p&gt;其實早在我看到這一本書之前，這本書已經流行了很久了，從英文版出版到翻譯成中文也距離有半年之久，已經在美國造成很大的流行，看著書腰陳文茜、胡志強、歐普拉、妮可基嫚、賴瑞金都推薦這一本書，其實我家樓下那家何嘉仁書店也一直在打廣告，我本來還想怎麼有一個活動叫做秘密，等到有一天進去看之後才發現，原來不是活動，這是一本書！這本書其實是補充一張DVD，應該算是後續追蹤合起來寫出來的，還引起頗大的討論，正反評價都還蠻兩極的，我個人是比較偏向正面肯定這本書的。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;《秘密》這本書主要傳達出來的一個核心思想是「吸引力法則」(the law of attracting)，表示當一個人努力的期望某些事情的時候，只要你是「打從心底」的認定，宇宙自然會有力量吸引這些你需要、期盼的東西靠近你，最後這些力量會引導你得到你想要的，最後你就會美夢成真。&lt;/strong&gt;&lt;/p&gt;
@@ -250,17 +254,16 @@
 &lt;p&gt;吸引力法則究竟是不是真理或者定律不是重要的，&lt;strong&gt;其中重要的事情再於這本書藉由吸引力法則傳遞了一個很重要的觀念：「努力」，常常我們在說天助自助者，書中並不是較我們只要每天負責冥想就好了，而是要有所作為&lt;/strong&gt;，當我們開始所有的行動都轉化之後，接下來才是我們應該要轉化信念，選擇相信。我記得最清楚的例子是有一個男生想要結婚，卻都睡在雙人床的中央，當他開始睡一側之後，漸漸的開始有戀愛，最後也結婚了。&lt;/p&gt;
 &lt;p&gt;我從書中體悟到的不僅僅是吸引力法則的運作(書中也沒有詳盡介紹)，反而是了解到，當我們開始想要做什麼時候，必須要從生活中小小的地方改變起，當我們什麼都不改變，其實最好的狀況就是維持現狀；當我們開始選擇改變，現狀就會變成最壞的狀況。不過我們改變之後開始選擇心境轉變，當我們進入了相信的階段，很多事情就在轉瞬之間互相的集合，最後回饋到自己的身上，所以當我們改變之後，我們很容易離開最糟的狀態(為實現況)，反而可以進入自己期盼的願景之中，進而達成夢想，我覺得這才是吸引力法則真的運作真意，代表著我們需要努力去改變，這樣才會盡力的吸引我們想要的情出現，而且上帝才會找得到理由幫助你。&lt;/p&gt;
 &lt;p&gt;看完書之後我也去找了 DVD 來看，不過台灣好像沒有出版 DVD，我比較建議如果你要看書可以先看 DVD，如果你要看 DVD，不要先看書，因為台詞都是一樣的，書的內容還有後續的補充(案例增加)，因為我看 DVD 看到睡著了。但最後記得，&lt;strong&gt;我們不是只靠冥想就可以得到我們想要的東西，還是要從我們生活中每個小地方開始改變，當改變之後，不要懷疑繼續的往前進，因為上天將會幫助自助者。&lt;/strong&gt;&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>無名之輩（原文：无名之辈）：在社會底層的五個失去</title>
-      <link>/blog/movie-a-cool-fish-looses-of-chinese-society/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/movie-a-cool-fish-looses-of-chinese-society/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;《無名之輩》電影在網路上獲得很好的評價，加上有大腕演員陳建斌還有潛力新秀章宇的加持，這是我挑選要看這部片的很大原因。畢竟章宇在我不是藥神中的表現，真的令人印象深刻。沒有多著墨在劇情的研究，就直接開啟觀看。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>無名之輩（原文：无名之辈）：在社會底層的五個失去</title>
+    <link>https://willliu.me/blog/movie-a-cool-fish-looses-of-chinese-society/</link>
+    <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/movie-a-cool-fish-looses-of-chinese-society/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;《無名之輩》電影在網路上獲得很好的評價，加上有大腕演員陳建斌還有潛力新秀章宇的加持，這是我挑選要看這部片的很大原因。畢竟章宇在我不是藥神中的表現，真的令人印象深刻。沒有多著墨在劇情的研究，就直接開啟觀看。&lt;/h4&gt;
 &lt;p&gt;&lt;code&gt;分享內容可能牽涉部分劇情，建議想看且不喜歡被暴雷的朋友，可以觀賞後再來一起討論喔！&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;中國電影如果以現代為背景，很常會凸顯出一個族群「社會底層」，正因為中國這麼大，所以社會充滿了各種不同的面貌，往往能夠產生共鳴的，是屬於你我身邊的事情，例如我上一部分享的「&lt;a href=&#34;https://willliu.me/blog/movie-wo-bu-shi-yao-shen-dying-to-survive/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E6%88%91%E4%B8%8D%E6%98%AF%E8%97%A5%E7%A5%9E%EF%BC%88%E5%8E%9F%E6%96%87%EF%BC%9A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%EF%BC%89&#34;&gt;我不是藥神（原文：我不是药神）&lt;/a&gt;」，展現了社會底層對於生命的不能以及希望。&lt;/p&gt;
 &lt;p&gt;就如同片名所指出的，每一個角色相較於大城市的人，都顯得默默無名，沒有龐大的經濟實力，沒有傲人的傑出學歷，也沒有顯赫的家世背景，但卻活生生的在中國這個社會中存在，而且每個人都有屬於自己的故事與過往。&lt;/p&gt;
@@ -271,7 +274,7 @@
 &lt;h2 id=&#34;heading-2&#34;&gt;失寵&lt;/h2&gt;
 &lt;p&gt;「看不起」是第二個軸線，在打破生而平等的年代，相信自己有能力的人，對於別人的吐槽充滿了憤怒的眼神，而無法面對自己，外號「眼鏡」的胡廣生，虛構了死守的謊言，而「大頭」李海根為了情義，陪他一起大半輩子都在忽悠別人。&lt;/p&gt;
 &lt;p&gt;還有擔任工地保全的馬先勇、建商高明與他的情人、兒子，看似都在失去的過程，少了一個賴以為生的安全感，少了那份曾經存在的寵愛。所以拼命的想證明自己可以，自己可以撐起我認為的天地，義無反顧的前行。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15606201371647_Ufa7yoclu.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15606201371647_Ufa7yoclu.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-iqiyi-&#34;&gt;電影畫面，擷取自 IQIYI 愛奇藝&lt;/h5&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;失親&lt;/h2&gt;
 &lt;p&gt;在常看到的親子關係外，在手足的情份也同步描寫。透過一場令人無法原諒的意外，一個母親的死亡，創造了一段「不原諒」的親子關係，同一場意外之中，也造成了親人終身與輪椅相伴，再一次的加乘了不原諒。&lt;/p&gt;
@@ -288,28 +291,27 @@
 &lt;p&gt;你有多想當大哥，我就有多想死。你有多想結婚，我就有多想死。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;失去了行為能力，不僅只是生理上的不能，更意味「失去了人生的主導權」。嘉祺被動地成為了這樣的一個角色，一心求死，因為知道活著要面對的不堪太多，自己沒有準備好失去面子，卻每分每秒都在擔心，下一刻的無地自容。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15606201598493_HqqB0kDdP.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15606201598493_HqqB0kDdP.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-iqiyi--1&#34;&gt;電影畫面，擷取自 IQIYI 愛奇藝&lt;/h5&gt;
 &lt;h2 id=&#34;heading-5&#34;&gt;失愛&lt;/h2&gt;
 &lt;p&gt;當然沒有免去了人生最大的議題之一—「愛」—透過大頭跟霞妹的戀情，去延伸出男女情愛，進一步的延伸出所有種類的愛，並一次總結上面四個失去的面相在「愛」之中。&lt;/p&gt;
 &lt;p&gt;因為大家都少了一份愛，所以想著如何能夠讓自己過得更好，不論是踰越法律規範、放棄生命的念頭、或者一心一意尋找失物，都呈現了在無名之輩中，想要成就的慾望，想要獲取一份愛的可能。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15606201788540_e4A-1bx_f.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15606201788540_e4A-1bx_f.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-iqiyi--2&#34;&gt;電影畫面，擷取自 IQIYI 愛奇藝&lt;/h5&gt;
 &lt;h2 id=&#34;heading-6&#34;&gt;小結：面對失去，我們也要笑著活下去。&lt;/h2&gt;
 &lt;p&gt;最後電影以充滿意外與唐突的喜劇收場，就像全劇梳理的故事結構，看的時候可以充滿笑聲，但沈澱過後，會看到的是那些社會中無名之輩的內心，有一種想要為自己做點什麼的氣力，所以他們都努力的生活。&lt;/p&gt;
 &lt;p&gt;就如同在故事一開始那一把遺失的槍，最後卻出現了兩把，顛覆了從一開始到接近結束的時候，我們認為的小偷，但卻也呈現了世界上總是有很多表象下，我們無法察覺的真實。很巧妙地開了大家一個玩笑，顛覆了預設要大家進入的軸線。&lt;/p&gt;
 &lt;p&gt;而人生不也是這樣嗎？我們總是面對著許多的失去，總是會有許多我們無法接受的事情，但最後電影的每個角色，提醒著我們要「笑著活下去」。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>我不是藥神（原文：我不是药神）：在生命面前，我們如此脆弱</title>
-      <link>/blog/movie-wo-bu-shi-yao-shen-dying-to-survive/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/movie-wo-bu-shi-yao-shen-dying-to-survive/</guid>
-        <description>&lt;h5 id=&#34;heading&#34;&gt;我不是藥神電影片段照片（擷取自愛奇藝）&lt;/h5&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>我不是藥神（原文：我不是药神）：在生命面前，我們如此脆弱</title>
+    <link>https://willliu.me/blog/movie-wo-bu-shi-yao-shen-dying-to-survive/</link>
+    <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/movie-wo-bu-shi-yao-shen-dying-to-survive/</guid>
+    <description>&lt;h5 id=&#34;heading&#34;&gt;我不是藥神電影片段照片（擷取自愛奇藝）&lt;/h5&gt;
 &lt;h4 id=&#34;heading-1&#34;&gt;這是一部後勁很強的電影，一開始看起來就是套中國電影的公式拍法，但逐漸地心情開始有了起伏動靜，然後潰堤。&lt;/h4&gt;
 &lt;p&gt;&lt;code&gt;所有評論可能牽涉部分劇情，建議想要觀看又不喜歡被暴雷的朋友，可以先看完電影再來一起討論喔！&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;在不是訴諸親情與愛情的題材，已經很久沒有看到後勁這麼強的電影了！&lt;/p&gt;
@@ -318,7 +320,7 @@
 &lt;p&gt;我不是藥神，其實不脫這個邏輯，但整部電影的功力，卻是在轉的時候完美呈現了出來。&lt;/p&gt;
 &lt;p&gt;很巧妙的一開始就透過了五個不同背景人物的架構，去創了所有合理卻又會產生矛盾的空間，失敗的生意人、有妻小的病友、在歡場工作的媽媽、牧師與離鄉的少年。因為一個「錢」的因素，把彼此連在了一起，但其實是創造了一個「共命」。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15606205818829_A3qGNUPRW.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15606205818829_A3qGNUPRW.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-3&#34;&gt;我不是藥神電影片段照片（擷取自愛奇藝）&lt;/h5&gt;
 &lt;p&gt;##「命就是錢」的資本主義邏輯&lt;/p&gt;
 &lt;p&gt;在社會主義的中國政治統治概念中，資本主義卻是無所不在。甚至在台詞中直接點出：「命就是錢」這四個大字。透過藥價的差異，同時點出了資本主義與社會主義的扞格。&lt;/p&gt;
@@ -328,36 +330,35 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-4&#34;&gt;你能保證你一輩子不生病嗎&lt;/h2&gt;
 &lt;p&gt;事情越演越烈，查禁假藥動作頻繁，既然查不到來源，就從使用者詢問。這裡的使用者很敏感，因為其實就是慢粒白血病患者，在電影背景的年代，能夠存活比率不到 50%，而服藥是他們的希望，但昂貴的藥價去活生生奪去了這一塊浮木。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15606206029697_A5roJ6G-t.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15606206029697_A5roJ6G-t.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-5&#34;&gt;我不是藥神電影片段照片（擷取自愛奇藝）&lt;/h5&gt;
 &lt;blockquote&gt;
 &lt;p&gt;「領導，我求求你，別再查『假藥』了行嗎？這藥假不假，我們這些吃藥的人還不知道嗎？我吃了三年正版藥，房子吃沒了，家也吃垮了。現在好不容易有了便宜藥，可你們非說這是『假藥』。不吃藥，我們就只能等死，我不想死，我想活著。」&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;片中的老太太說出這段話時，心中不由得滿是酸楚，如此的真切：「不吃藥，我們就只能等死，我不想死，我想活著。」到這，所有現實面的金錢，都昇華成了生命的議題。&lt;/p&gt;
 &lt;p&gt;在生命的面前，他們沒有真藥、假藥的問題，因為所有的思考都是「活下去」，但無情的金錢讓病人感覺到感覺到，想活著好難，更難的是，一天天看著自己走向絕望。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15606206293956_J7tCdTjMb.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15606206293956_J7tCdTjMb.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-6&#34;&gt;我不是藥神電影片段照片（擷取自愛奇藝）&lt;/h5&gt;
 &lt;p&gt;我們無法保證自己能夠逃過「病」的糾纏，這正是無常的所在。而正因為在無常之中的掙扎，我們也希望能夠時時刻刻看見希望。&lt;/p&gt;
 &lt;p&gt;沒有人回答了老太太的問題：「你能保證自己不生病嗎？」我想，也無法有人肯定地給出任何答案。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15606206394703_y5AcSU5lb.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15606206394703_y5AcSU5lb.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-7&#34;&gt;我不是藥神電影片段照片（擷取自愛奇藝）&lt;/h5&gt;
 &lt;h2 id=&#34;heading-8&#34;&gt;在生與死之間我們選擇勇敢&lt;/h2&gt;
 &lt;p&gt;死亡既是一種必然，但當時間比我們預想的還快的時候，我們又將如何去詮釋「死亡」。對當年這些沒有要的慢粒白血病患者，死亡似乎是下一刻隨時會到來的事情。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;到了劇情的末段，電影講的已經超過的劇情，而是一場生與死的對談。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;便宜的藥（假藥）給了他們一線希望，不是抗拒死亡的希望，而是能夠延長時間，因為只有延長了時間，才能減少悔恨的機會。好似多的每一分每一秒，就可以做一些什麼，來回饋給家人、朋友或者那些我們想彌補的人。&lt;/p&gt;
 &lt;p&gt;這就是一個死與生的故事，用這樣的議題，去衝撞既有的社會體制。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>從腸道養出逆齡體質（二）：下世代益生菌看菌株</title>
-      <link>/blog/kskhealth-thinking-from-gut-next-generation/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/kskhealth-thinking-from-gut-next-generation/</guid>
-        <description>&lt;p&gt;精神健康可以從腸道保健開始&lt;/p&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>從腸道養出逆齡體質（二）：下世代益生菌看菌株</title>
+    <link>https://willliu.me/blog/kskhealth-thinking-from-gut-next-generation/</link>
+    <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/kskhealth-thinking-from-gut-next-generation/</guid>
+    <description>&lt;p&gt;精神健康可以從腸道保健開始&lt;/p&gt;
 &lt;p&gt;身為台灣乳酸菌協會創辦人與榮譽理事長，在益生菌耕耘了許多年，也研發許多專利產品，一上台就開宗明義說：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;下個世代的益生菌要看「菌株」&lt;/p&gt;
@@ -392,23 +393,22 @@
 &lt;p&gt;不然就是讓自己過得超級健康，身體能夠維持在好的菌叢生態，但現在生活作息的改變，其實要能夠順應天時養生，基本上都甚為困難，近幾年保健食品當道，想必可能也是受到生活型態難以調整的影響。&lt;/p&gt;
 &lt;p&gt;所以請找適合自己想解決的問題的菌株，並且能夠配合自己生活模式的方式，不然買再多放著沒有吃都是枉然。&lt;/p&gt;
 &lt;h2 id=&#34;heading-2&#34;&gt;番外篇：為什麼蔡老師的產品在台灣好像不太有名？&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15598872395388_8QMa2q0zr.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15598872395388_8QMa2q0zr.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-3&#34;&gt;惠生妍益生菌已行銷多國，並透過不同品牌帶給許多人腸道保健選擇。&lt;/h5&gt;
 &lt;p&gt;這一段只是我個人的番外篇，我想這一部分是因為台灣法規的規定，即使已經透過動物實驗或者人體測試，達到一定的可能結果，因為食品還是不能夠使用來治療。&lt;/p&gt;
 &lt;p&gt;我同意這樣的觀點，食品就是食品，不應該當作藥品來看待，但也進一步限縮了療效。而這造成了一個弱勢，為了回饋到研發出特殊菌種的研發經費，好的東西的確很難便宜下來，這也限制了發展的可能性。&lt;/p&gt;
 &lt;p&gt;而台灣我覺得長期以來對於「專業」的尊重已經逐漸弱化，也少了使用者付費，好的東西貴一點的觀念，使得市場難以打進，要打市場卻又需要犧牲利潤，這可能是老師對於台灣可能公益性質大於獲利性質的經營方式的出發點吧！&lt;/p&gt;
 &lt;p&gt;想看上集營養學博士吳映蓉的講座紀錄，請點選&lt;a href=&#34;http://g.willliu.me/oFUdKV&#34;&gt;這邊&lt;/a&gt;喔！&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>從腸道養出逆齡體質（一）：用飲食對抗老化殺手</title>
-      <link>/blog/kskhealth-gut-and-age-by-drwu/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/kskhealth-gut-and-age-by-drwu/</guid>
-        <description>&lt;p&gt;2018.12.23 益福生醫集團舉辦的「從腸道養出逆齡體質」講座，邀請營養學專家吳映蓉博士，與亞洲益生菌研究先驅蔡英傑教授，分享如何透過飲食的方式，規劃自己的不老人生。這一篇，主要是針對當天我聽到的重點重新整理，也分享給大家各種不同的觀點。&lt;/p&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>從腸道養出逆齡體質（一）：用飲食對抗老化殺手</title>
+    <link>https://willliu.me/blog/kskhealth-gut-and-age-by-drwu/</link>
+    <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/kskhealth-gut-and-age-by-drwu/</guid>
+    <description>&lt;p&gt;2018.12.23 益福生醫集團舉辦的「從腸道養出逆齡體質」講座，邀請營養學專家吳映蓉博士，與亞洲益生菌研究先驅蔡英傑教授，分享如何透過飲食的方式，規劃自己的不老人生。這一篇，主要是針對當天我聽到的重點重新整理，也分享給大家各種不同的觀點。&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;疾病起於腸道&lt;/h2&gt;
 &lt;p&gt;希波克拉底（Hippocrates 460-377 B.C.）曾經說過：「疾病始於腸道。」所以要面對老化，不得不回來看一夏，我們如何好好調整飲食，去影響腸道健康。&lt;/p&gt;
 &lt;p&gt;吳映蓉博士特別指出：「腸道是第二個大腦。」因為當腸道發現不對勁時，會集體的開始團結去找救兵。可見腸道他是具有接近於思考能力，並進一步去調節全身上下組織的可能。&lt;/p&gt;
@@ -426,7 +426,7 @@ Poppy(Julianne Morre), Kingsman: The Golden Circle&lt;/p&gt;
 &lt;p&gt;這是一段金牌特務第二集最令我印象深刻的話，剛好吳博士也應證了，糖（所謂的精製糖）是人體很大的殺手。&lt;/p&gt;
 &lt;p&gt;有在做菜的人可能知道，如果我們把糖放到鍋子裡面，炒到最後會跟鍋子黏住，那個鍋子就怎麼刷都刷不掉了。代表糖在加熱的狀態下，會有一個「糖化」的過程，而身體其實就是一個烤箱，所以堂在身體之中，就會有類似糖化的概念。&lt;/p&gt;
 &lt;p&gt;不過更有趣的事，如果葡萄糖碰到了蛋白質，兩個人就會開始起化學反應，出現了一個不可逆的產物叫做「AGE(Advanced Glycation Endproducts)」，這物質有點類似黏劑，會固著在身體組織之中，進一步產生影響。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15598868411561_luPREVIQA.png&#34; alt=&#34;葡萄糖與蛋白質結合的不可逆產物：AGEs(Advanced Glycation Endproducts)&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15598868411561_luPREVIQA.png&#34; alt=&#34;葡萄糖與蛋白質結合的不可逆產物：AGEs(Advanced Glycation Endproducts)&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;agesadvanced-glycation-endproducts&#34;&gt;葡萄糖與蛋白質結合的不可逆產物：AGEs(Advanced Glycation Endproducts)&lt;/h5&gt;
 &lt;p&gt;如果透過案例說明：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -460,17 +460,16 @@ Poppy(Julianne Morre), Kingsman: The Golden Circle&lt;/p&gt;
 &lt;p&gt;225：每天攝取少於 22.5 克的糖&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;有點長了，關於下一集亞洲益生菌專家蔡老師的演講，分成第二集再上來分享給大家。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>戀愛纜車</title>
-      <link>/blog/book-higashino-keigo-love-story-on-cable-car/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/book-higashino-keigo-love-story-on-cable-car/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;第一次看東野圭吾的書是「解憂雜貨店」，因為從來沒有看過，對東野常常使用的行文方式完全沒有概念。所以，當把整本書看完的時候，整個人陷入一種震撼之中，覺得怎麼會有這麼厲害的作者，能環環相扣但到最後一刻才讓讀者完整知曉。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>戀愛纜車</title>
+    <link>https://willliu.me/blog/book-higashino-keigo-love-story-on-cable-car/</link>
+    <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/book-higashino-keigo-love-story-on-cable-car/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;第一次看東野圭吾的書是「解憂雜貨店」，因為從來沒有看過，對東野常常使用的行文方式完全沒有概念。所以，當把整本書看完的時候，整個人陷入一種震撼之中，覺得怎麼會有這麼厲害的作者，能環環相扣但到最後一刻才讓讀者完整知曉。&lt;/h4&gt;
 &lt;p&gt;在戀愛纜車中，東野使用了一樣的行文方式。只不過是用在錯綜複雜的戀愛關係之中。不同人帶著不同的計劃，在一個在滑雪場產生一段段的故事，當然最後揭曉的時候，也是令人覺得膽戰心驚。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-1&#34;&gt;這個世界很小，每個人總是交疊著&lt;/h2&gt;
@@ -488,17 +487,16 @@ Poppy(Julianne Morre), Kingsman: The Golden Circle&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;如果，你也想要讀這本書&lt;/h2&gt;
 &lt;p&gt;戀愛纜車，不是一本傳統的愛情小說，主角非常多元，故事軸線也蠻多的，我猜這應該是東野圭吾常用的手法，所以習慣的讀者應該會容易連接上他想要說的事情。但如果你是第一次接觸東野圭吾，我建議真的花一個完整的時間把書一次讀完，並且慢慢的咀嚼文字。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>聽風的歌</title>
-      <link>/blog/book-murakami-haruki-wind-pinball/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/book-murakami-haruki-wind-pinball/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;老實說，每次看村上春樹的書，都是從摸不著頭緒開始，村上的行文方式是一種非常強調感覺的狀態。我每次讀完村上的書，都會覺得：「好看。」事實上，當要問為什麼的時候，總是很難說出所以然來。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>聽風的歌</title>
+    <link>https://willliu.me/blog/book-murakami-haruki-wind-pinball/</link>
+    <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/book-murakami-haruki-wind-pinball/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;老實說，每次看村上春樹的書，都是從摸不著頭緒開始，村上的行文方式是一種非常強調感覺的狀態。我每次讀完村上的書，都會覺得：「好看。」事實上，當要問為什麼的時候，總是很難說出所以然來。&lt;/h4&gt;
 &lt;h2 id=&#34;heading-1&#34;&gt;高度自傳的寫法&lt;/h2&gt;
 &lt;p&gt;沒有人名，但是主角的刻畫如此清晰，總是覺得到底村上在下筆的時候，寫的是自己呢？還是真的是一個虛幻的人物。但正因為這樣看起來好像是村上本人在故事之中，讓我更能深入其境，好像每一個畫面、每一次具對話，都是有一個具象的影片在腦海中上演。好像真的有這麼一個人，就好像看著電影一般。&lt;/p&gt;
 &lt;h2 id=&#34;heading-2&#34;&gt;好像是這樣但好像不是&lt;/h2&gt;
@@ -506,290 +504,8 @@ Poppy(Julianne Morre), Kingsman: The Golden Circle&lt;/p&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;關於聽風的歌&lt;/h2&gt;
 &lt;p&gt;這是第一本作品，看到最後才發現為什麼村上由此開始在文壇上大放異彩，因為故事裡面的角色，充滿著不同人生的形象，無奈感、興奮感還有深深的自我，而且不自覺讀到最後，我好像就在人物之間一樣，看著這樣的故事發生。這種悄悄、生活化的語句，同時也將讀者帶入情境，就是村上厲害的地方。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;他沒有讓你感覺你在外面，也不會硬拉你進裡面，但不知不覺之中，你就在那中間。&lt;/em&gt;&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>迫害效應：再次看到從藤井樹變成的吳子雲</title>
-      <link>/blog/book-hiyawu-persecution-effect/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/book-hiyawu-persecution-effect/</guid>
-        <description>&lt;h4 id=&#34;-ptt--20-&#34;&gt;在紙本書大放異彩的年代，我有收集幾個我特別喜歡的作者，藤井樹的作品就是我書架上必備的書籍，從 PTT 網路小說創作開始至今，快滿 20 年的創作歷程，藤井樹變成了吳子雲，寫作的素材也產生了很大的變化，上一本「暗社工」已經讓我大吃一驚，這本迫害效應，又展現了不同的議題。&lt;/h4&gt;
-&lt;h2 id=&#34;heading&#34;&gt;看似愛情，卻又有社會議題&lt;/h2&gt;
-&lt;p&gt;從行文的方式，可看出吳子雲仍在熟悉的感情領域上著墨，但更為大膽露骨，用許多 18 禁的詞語，表現出大感，進一步讓讀者可以感覺到激情。但同時，也在描繪男女主角的感情時，那種淡淡言語中，感覺得出來兩人的濃烈。&lt;/p&gt;
-&lt;p&gt;同時，從社會常見的議題注入，受到性侵的女主角，用自己的生命去凸顯法律、社會的不合理，作者巧妙的把許多深刻研究的鋪陳，放在很後面的章節才出來，盡量在前面留給感情抒發，完整的描寫愛情、親情與友情，實際上單純看前面的時候，是無法理解書名與內容的連結，直到最後急轉直下的劇情，才發現作者想要表現的議題。&lt;/p&gt;
-&lt;p&gt;而從後面回扣到故事前端，中間時空交替的手法，令人在讀書的時候不會有不耐感，但也不會有跟不上的壓力，反而是到最後才發現，原來我看的一個故事，在現實生活中可能只有短短的幾小時的心理狀態與回憶。當我讀到最後，不由得回去翻了一下最前面，環環相扣的手法，無失誤的一氣呵成。&lt;/p&gt;
-&lt;h2 id=&#34;heading-1&#34;&gt;跟讀者一起生活，但感覺差分分的作品&lt;/h2&gt;
-&lt;p&gt;描寫親情、愛情的部分，書中看起來很完整，但擺脫了過去藤井樹習慣的模式後，可以發現，這個愛情好像沒有這麼可愛了，多了一分社會感，或許正是吳子雲想要帶給我們的，陪伴著讀者，從大學追版的時代，一路走到了現在現實社會之中，作品也隨之演變。&lt;/p&gt;
-&lt;p&gt;書的篇幅其實很少，大概兩百多頁的小說，要融入感情與社會議題其實非常困難。這也是我覺得讀起來總有差分分（台語）的感覺，當看到濃烈的感情後，進入社會、政治議題時，劇情急轉直下，從潺潺流水的故事，變成一道道沖刷而下的急流瀑布，增加了急促感，卻令我有輕輕帶過的感覺。&lt;/p&gt;
-&lt;h2 id=&#34;heading-2&#34;&gt;如果，你也想讀這本書&lt;/h2&gt;
-&lt;p&gt;習慣藤井樹的朋友，如果沒有持續地看著吳子雲，可能會覺得這樣的風格，很不像當年看「有個女孩叫 Feeling」、「我們不結婚，好嗎」、「貓空愛情故事」等，大學生活、純純的愛。&lt;/p&gt;
-&lt;p&gt;就像我上面說的，這本書是吳子雲跟著讀者成長的作品，一樣是吳子雲的風格，但多了一點社會感、一點寫實的氛圍，如果你也準備好從看藤井樹，轉變成看吳子雲，就快下手閱讀吧！&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>《可以善良，但你要有底線不當好人》不要忽視自己創造出來合理</title>
-      <link>/blog/book-guideline-for-a-nice-guy/</link>
-      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/book-guideline-for-a-nice-guy/</guid>
-        <description>&lt;h4 id=&#34;-kobo-&#34;&gt;這一本書，是使用樂天 Kobo 電子書買的，因為折扣比較多，加上作者午堂登紀雄，每本書基本上都很暢銷，所以想說至少在折扣下買了也不吃虧，因而入手此書。&lt;/h4&gt;
-&lt;p&gt;曾經有一陣子，我很常買日本作家的書籍，尤其以大前研一、勝間和代，麥肯錫出身的相關商業、自我管理書籍，但近幾年，基本上看到日本作者的商業書、自我成長的書籍，我都一率跳過。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;heading&#34;&gt;你順從，就會合理被欺負&lt;/h2&gt;
-&lt;p&gt;整本書，通篇都在說明「好人」跟「小惡」之間的關係。透過不同的情境，去教育讀者不同的思維。其中最重要的一點就是提醒大家，如果你順從了，別人對你做的一切就是「合理」的，再多的抱怨，都起源在你順從的當下。&lt;/p&gt;
-&lt;p&gt;東方社會，總是習慣在既有的標準下生活。然後期盼當有一個人，違反了標準之後，社會將出現一隊正義之師，平反自己的委屈，甚至大肆撻伐那些我們定義為「行惡」的人。&lt;/p&gt;
-&lt;p&gt;午堂登紀雄（作者）很明顯地點出了這一個盲點，當你選擇成為好人的當下，別人的評價就是你的主場，當主場優勢都在別人手上，要打勝仗就更加困難。但我們人生總是會這種不切實際的想法，想著別人對自己的評價，才去決斷自己的行為模式。&lt;/p&gt;
-&lt;p&gt;在書中，不管是怎樣的場景，都環繞這一點，你要拿回自已的主控權，而「好人」是很難做到這一點的。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;heading-1&#34;&gt;如何獨立：保有多個選項或是獲得選擇的能力&lt;/h2&gt;
-&lt;p&gt;要將好人從生命中的標籤拿掉，最重要的就是自主性，講實際一點就是，時時刻刻我們都能夠保持獨立，獨立行動、獨立思考、獨立生活。&lt;/p&gt;
-&lt;p&gt;但我個人權勢，這邊所說的獨立，並不是跟「孤單」完全劃上等號的，獨立可以成為一種中心思想，但孤單大部分是一種心理狀態。獨立最大的目標是，時時刻刻都可以不被影響的，靠自己真實的想法做決定。&lt;/p&gt;
-&lt;p&gt;會被影響，是因為我們把很多注意力放在外在，來自一種不安全感，所以才需要不斷地確定外在，來保全自己的內在。 午堂登紀雄指出，這樣的成因很可能是因為，自己覺得沒有其他可以選擇的項目，自己面臨了「無從選擇」的命運。&lt;/p&gt;
-&lt;p&gt;「讓自己保有多個選項」或「獲得選擇的能力」，當你知道離開現狀，你仍有可以選擇的時候，對離開、拒絕的恐懼將會降低，自己也更能夠「獨立」，將「好人」這個生活模式拿掉，將也會更加容易。因為不用再用屈服的觀點，去忍受害怕失去而做出的妥協。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;heading-2&#34;&gt;童年會影響你的人生，卻不會決定你人生&lt;/h2&gt;
-&lt;p&gt;這一段是讀起來非常有迴響的一段，整本書透過不同的角度，而這一段其實是近年來我最深的體會。一個人的童年會影響著一個人，近年來許多人都強調「原生家庭」的重要性，長年都在推廣親子教育等等，就是因為這個觀點。&lt;/p&gt;
-&lt;p&gt;午堂登紀雄在這邊指出了這一點，也說明很多人都被所謂的「經驗」壓得喘不過氣，其實是「情緒」上過不去，當情緒出來的時候，習慣的模式出現，完整地跳過的所有需要思考的過程，直接面對「喘不過氣」，所有的邏輯、思考都被拋諸九霄雲外。&lt;/p&gt;
-&lt;p&gt;其後的文章也提出了解法：「增加與自我心靈對話的時間。」這是一個很好的方式，去承認自己的恐懼，進一步讓自己願意跟自己戰鬥，會有麻煩且不願意面對的事情，但跟日復一日過下去的比較，或許是值得投資的一個自主管理方式。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;heading-3&#34;&gt;結語：提起勇氣改變吧！活出「啊～我好幸福」的人生&lt;/h2&gt;
-&lt;p&gt;整本書非常的勵志，而且有部分的觀點就一般人來看，可以歸類在比較極端。但若當你發現，人生目前經歷的一切，都是自己所形塑的，是否也能夠更有信心讓自己知道，自己也能建構不一樣的未來。&lt;/p&gt;
-&lt;p&gt;當然，午堂登紀雄在絕對的勵志之外，也現實的提出了，人生一定有些無法改變的事情，當這些事情發生的時候，我們要做的不是花「硬」力氣去改變它，而是用「氣度」去面對，進一步的去看清楚，並&lt;strong&gt;改變那些我們能改變的部分&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;當你思考與行動的目的，已經從回應外在的思想脫離的時候，才能夠進一步掌握到自己想要過的幸福人生。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>書籍清單：反芻知識，拓展見解</title>
-      <link>/blog/my-library-books-shopping-record/</link>
-      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/my-library-books-shopping-record/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;把自己買的、看的書都做紀錄，也希望把每一本書都看得實在，且能夠透過反芻的方式，把書中的知識為自己所用。一方面記錄，也希望與你分享。&lt;/h4&gt;
-&lt;h2 id=&#34;2020--1-&#34;&gt;2020 年 1 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-1&#34;&gt;實體書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;正念芳療：英國IFA前教育主席教你用精油協助靜心冥想，全身放鬆，一夜好眠！&lt;/li&gt;
-&lt;li&gt;親愛的臥底經濟學家（2016全新封面版）&lt;/li&gt;
-&lt;li&gt;天然植物營養素 啟動健康正循環 打造人體最強防護力：75種五色蔬食×59種救命植化素×130道保健食譜&lt;/li&gt;
-&lt;li&gt;圖解經絡按摩自癒力：不吃藥、不動刀，每日三分鐘，壓力失眠痠痛百病消&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2019--8-&#34;&gt;2019 年 8 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-2&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;花掉的錢都會自己流回來&lt;/li&gt;
-&lt;li&gt;中醫師默默在做的減法養生：治病養生不是拚命補，陰陽平衡才是人體最佳湯藥！&lt;/li&gt;
-&lt;li&gt;你可以自私自利，同時當個好人：亞當斯密讓史丹佛經濟學家開啟的思辨之旅，重新認識「我是誰」，以及身而為人的意義與價值&lt;/li&gt;
-&lt;li&gt;拒絕生病：無病生活從65件日常小事開始&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2019--7-&#34;&gt;2019 年 7 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-3&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;關於人生，你可以問問亞里斯多德：不做決定，等於讓別人決定你。幸福，是有意識的思考、選擇和行動。&lt;/li&gt;
-&lt;li&gt;自私的藝術：50個突破關係困境的自私箴言，告別情緒勒索與道德綁架，就算做自己也不感到內疚&lt;/li&gt;
-&lt;li&gt;不瘋狂不成功，一個夢想家的冒險實錄&lt;/li&gt;
-&lt;li&gt;深度洞察力：克服認知偏見，喚醒自我覺察，看清內在的自己，也了解別人如何看待你&lt;/li&gt;
-&lt;li&gt;神的經濟學：信仰──經濟發展背後看不見的手&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2019--6-&#34;&gt;2019 年 6 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-4&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;高績效心智：全新聰明工作學，讓你成為最厲害的1%&lt;/li&gt;
-&lt;li&gt;原子習慣&lt;/li&gt;
-&lt;li&gt;生存的12條法則：當代最具影響力的公共知識分子，對混亂生活開出的解方&lt;/li&gt;
-&lt;li&gt;不費力的力量：順勢而為的管理藝術&lt;/li&gt;
-&lt;li&gt;超級大腦飲食計畫：擊敗失智、調校大腦，讓你更聰明、更快樂、更有創造力&lt;/li&gt;
-&lt;li&gt;CEO基因：四種致勝行為，帶他們走向世界頂尖之路&lt;/li&gt;
-&lt;li&gt;共好與同贏：哈佛快樂專家教你把個人潛力變成集體能力, 擴散成功與快樂的&lt;/li&gt;
-&lt;li&gt;OKR：做最重要的事&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;heading-5&#34;&gt;紙本書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;啟動你的內在療癒力，創造自己的人生奇蹟&lt;/li&gt;
-&lt;li&gt;開啟你的驚人天賦：科學證實你能活出極致美好的人生狀態&lt;/li&gt;
-&lt;li&gt;創客創業導師程天縱的專業力：個人發展與企業競爭的究竟根本&lt;/li&gt;
-&lt;li&gt;我的不正經人生觀&lt;/li&gt;
-&lt;li&gt;橡皮擦計畫&lt;/li&gt;
-&lt;li&gt;十種人性&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2019--5-&#34;&gt;2019 年 5 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-6&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;教孩子跟情緒做朋友：不是孩子不乖，而是他的左右腦處於分裂狀態！（0~12歲的全腦情緒教養法）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2019--2-&#34;&gt;2019 年 2 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-7&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;完成：把不了了之的待辦目標變成以實現的有效練習&lt;/li&gt;
-&lt;li&gt;不對稱陷阱&lt;/li&gt;
-&lt;li&gt;人生勝利聖經：向100位世界強者學習健康、財富和人生智慧&lt;/li&gt;
-&lt;li&gt;抗氧化物的奇蹟〔暢銷修訂版〕&lt;/li&gt;
-&lt;li&gt;翻牆讀金庸&lt;/li&gt;
-&lt;li&gt;正念飲食：覺察自己為什麼吃，比吃什麼、怎麼吃更重要！&lt;/li&gt;
-&lt;li&gt;全時美人：12經絡舒活養生帖&lt;/li&gt;
-&lt;li&gt;經絡解密 卷四&lt;/li&gt;
-&lt;li&gt;魂歸大稻埕&lt;/li&gt;
-&lt;li&gt;魂囚西門&lt;/li&gt;
-&lt;li&gt;生活槓桿：短時間發揮最大生產力，讓事業、生活、財富達到完美平衡的工作哲學&lt;/li&gt;
-&lt;li&gt;知識的不正義：偏見和缺乏理解，如何造成不公平？&lt;/li&gt;
-&lt;li&gt;別等到被欺負了才懂這些事: 第一時間就做好衝突管理&lt;/li&gt;
-&lt;li&gt;思考不過是一場即興演出，用行為心理學揭開深層心智的迷思&lt;/li&gt;
-&lt;li&gt;醫療靈媒．改變生命的食物&lt;/li&gt;
-&lt;li&gt;醫療靈媒：慢性與難解疾病背後的祕密，以及健康的終極之道&lt;/li&gt;
-&lt;li&gt;花園的祕密語言：彼得‧渥雷本的自然觀察筆記&lt;/li&gt;
-&lt;li&gt;自然的奇妙網路&lt;/li&gt;
-&lt;li&gt;從叢林到文明，人類身體的演化和疾病的產生&lt;/li&gt;
-&lt;li&gt;樹之歌：生物學家對宇宙萬物的哲學思索&lt;/li&gt;
-&lt;li&gt;意識究竟從何而來？（改版）：從神經科學看人類心智與自我的演化&lt;/li&gt;
-&lt;li&gt;惡血：矽谷獨角獸的醫療騙局！深藏血液裡的祕密、謊言與金錢&lt;/li&gt;
-&lt;li&gt;自己的肌膚自己救：最科學的保養知識全圖解&lt;/li&gt;
-&lt;li&gt;穴道導引：融合莊子、中醫、太極拳、瑜伽的身心放鬆術&lt;/li&gt;
-&lt;li&gt;跟陷阱說再見：還不知道你為什麼把人生過成這樣嗎&lt;/li&gt;
-&lt;li&gt;Learn Better學得更好&lt;/li&gt;
-&lt;li&gt;哈利波特終極哲學觀：麻瓜的霍格華茲&lt;/li&gt;
-&lt;li&gt;植物庄园：植物世界大观&lt;/li&gt;
-&lt;li&gt;樹的祕密語言：學會傾聽樹語，潛入樹的神祕世界&lt;/li&gt;
-&lt;li&gt;我心我行．Salute （&lt;a href=&#34;https://willliu.me/blog/fang-yi-sheu-book-salute/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E6%88%91%E5%BF%83%E6%88%91%E8%A1%8C%EF%BC%8ESalute&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
-&lt;li&gt;知識的假象：為什麼我們從未獨立思考？&lt;/li&gt;
-&lt;li&gt;給力&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2019--1-&#34;&gt;2019 年 1 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-8&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;植物比你想的更聰明：植物智能的探索之旅&lt;/li&gt;
-&lt;li&gt;鹿鼎記合集&lt;/li&gt;
-&lt;li&gt;笑傲江湖合集&lt;/li&gt;
-&lt;li&gt;俠客行合集&lt;/li&gt;
-&lt;li&gt;倚天屠龍記合集&lt;/li&gt;
-&lt;li&gt;連城訣合集&lt;/li&gt;
-&lt;li&gt;天龍八部合集&lt;/li&gt;
-&lt;li&gt;神鵰俠侶合集&lt;/li&gt;
-&lt;li&gt;射鵰英雄傳合集&lt;/li&gt;
-&lt;li&gt;碧血劍合集&lt;/li&gt;
-&lt;li&gt;飛狐外傳合集&lt;/li&gt;
-&lt;li&gt;雪山飛狐合集&lt;/li&gt;
-&lt;li&gt;書劍恩仇錄合集&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2018--12-&#34;&gt;2018 年 12 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-9&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;說理Ⅱ：後真相時代穿透分歧、建立共識的思維技術&lt;/li&gt;
-&lt;li&gt;說理Ｉ：任何場合都能展現智慧、達成說服的語言技術&lt;/li&gt;
-&lt;li&gt;病從排寒解：22個自主排寒關鍵，教你從飲食入手，徹底預防新病、根除舊疾、溫養一生&amp;hellip;&lt;/li&gt;
-&lt;li&gt;書呆與阿宅&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2018--10-&#34;&gt;2018 年 10 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-10&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;情緒排毒&lt;/li&gt;
-&lt;li&gt;調香手記：55種天然香料萃取實錄&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2018--9-&#34;&gt;2018 年 9 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-11&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;柔軟的心最有力量 偷&lt;/li&gt;
-&lt;li&gt;書賊：建構統治者神話的文化洗劫與記憶消滅&lt;/li&gt;
-&lt;li&gt;正義：一場思辨之旅【桑德爾指定授權，10周年全新譯本，收錄台灣版獨家序言】&lt;/li&gt;
-&lt;li&gt;從達爾文到愛因斯坦：科學理論的美麗錯誤與演進&lt;/li&gt;
-&lt;li&gt;好奇心：從達文西、費曼等天才身上尋找好奇心的運作機制，其實你我都擁有無限潛能&lt;/li&gt;
-&lt;li&gt;你要如何衡量你的人生? 哈佛商學院最重要的一堂課 (全新增修版)&lt;/li&gt;
-&lt;li&gt;經絡解密 卷三&lt;/li&gt;
-&lt;li&gt;蘋果橘子創意百科&lt;/li&gt;
-&lt;li&gt;人生複本【燒腦神作，零負評！】&lt;/li&gt;
-&lt;li&gt;時光邊緣的男人&lt;/li&gt;
-&lt;li&gt;找到你的為什麼 : 尋找最值得你燃燒自己、點亮別人熱情的行動計畫&lt;/li&gt;
-&lt;li&gt;金錢心理學：打破你對金錢的迷思，學會聰明花費&lt;/li&gt;
-&lt;li&gt;種子的勝利：穀類、堅果、果仁、豆類、核籽如何征服植物王國，形塑人類歷史&lt;/li&gt;
-&lt;li&gt;知識內容寫作課：寫一篇真材實料的網路爆紅好文章&lt;/li&gt;
-&lt;li&gt;平靜的心，專注的大腦 ： 禪修鍛鍊，如何改變身、心、大腦的科學與哲學&lt;/li&gt;
-&lt;li&gt;人類大命運&lt;/li&gt;
-&lt;li&gt;拖延心理學【暢銷35週年增修新版】：為什麼我老是愛拖延？是與生俱來的壞習慣，還是&amp;hellip;&lt;/li&gt;
-&lt;li&gt;探索人格潛能，看見更真實的自己：哈佛最受歡迎的心理學教授教你提升健康˙幸福˙成就&amp;hellip;&lt;/li&gt;
-&lt;li&gt;恆毅力&lt;/li&gt;
-&lt;li&gt;先知之後：伊斯蘭千年大分裂的起源&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2018--7-&#34;&gt;2018 年 7 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-12&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;動機背後的隱藏邏輯 （TED Books系列）&lt;/li&gt;
-&lt;li&gt;真確：扭轉十大直覺偏誤，發現事情比你想的美好&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2018--6-&#34;&gt;2018 年 6 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-13&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力（新增訂版）&lt;/li&gt;
-&lt;li&gt;北歐眾神&lt;/li&gt;
-&lt;li&gt;人生思考題&lt;/li&gt;
-&lt;li&gt;可以善良，但你要有底線不當好人 （&lt;a href=&#34;https://willliu.me/blog/book-guideline-for-a-nice-guy/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E5%8F%AF%E4%BB%A5%E5%96%84%E8%89%AF%EF%BC%8C%E4%BD%86%E4%BD%A0%E8%A6%81%E6%9C%89%E5%BA%95%E7%B7%9A%E4%B8%8D%E7%95%B6%E5%A5%BD%E4%BA%BA&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
-&lt;li&gt;西蒙和他的出櫃日誌&lt;/li&gt;
-&lt;li&gt;香料共和國：從洋茴香到鬱金，打開A-Z的味覺秘語&lt;/li&gt;
-&lt;li&gt;不當行為：行為經濟學之父教你更聰明的思考&lt;/li&gt;
-&lt;li&gt;覺察力：哈佛商學院教你察覺別人遺漏的訊息，掌握行動先機！&lt;/li&gt;
-&lt;li&gt;這一刻, 我們緊緊相依: 地球人老爸與星星少年的成長日記（[閱讀心得](&lt;a href=&#34;https://willliu.me/blog/book-review-tsai-dad-and-son/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=&#34;&gt;https://willliu.me/blog/book-review-tsai-dad-and-son/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=&lt;/a&gt;這一刻, 我們緊緊相依: 地球人老爸與星星少年的成長日記)）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2018--4-&#34;&gt;2018 年 4 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-14&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;神啊！我不想再努力了，請直接告訴我成功的方法吧！&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2018--2-&#34;&gt;2018 年 2 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-15&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;自卑與超越&lt;/li&gt;
-&lt;li&gt;榮格心理學不插電講堂：我的大象生活&lt;/li&gt;
-&lt;li&gt;吃的藝術：42個飲食行為的思考偏誤&lt;/li&gt;
-&lt;li&gt;勇於不敢愛而無傷：莊子，從心開始二&lt;/li&gt;
-&lt;li&gt;做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命&amp;hellip;&lt;/li&gt;
-&lt;li&gt;聖經與古蘭經：認識猶太教、基督宗教與伊斯蘭教的第一本書&lt;/li&gt;
-&lt;li&gt;情緒靈敏力：哈佛心理學家教你4步驟與情緒脫鉤&lt;/li&gt;
-&lt;li&gt;為什麼我出門買牛奶，卻騎了一輛腳踏車回家？：用心理學、行為科學教你不猶豫、不後悔&amp;hellip;&lt;/li&gt;
-&lt;li&gt;薩提爾的對話練習：以好奇的姿態，理解你的內在冰山，探索自己，連結他人&lt;/li&gt;
-&lt;li&gt;史丹佛大學心理學講義，人生順利的簡單法則&lt;/li&gt;
-&lt;li&gt;斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生&lt;/li&gt;
-&lt;li&gt;榮格論心理類型&lt;/li&gt;
-&lt;li&gt;美國眾神（影集書封版）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2018--1-&#34;&gt;2018 年 1 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-16&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;為什麼我們總是相信自己是對的？──不知不覺掉入的101種慣性思考陷阱&lt;/li&gt;
-&lt;li&gt;切開左右腦：葛詹尼加的腦科學人生&lt;/li&gt;
-&lt;li&gt;蘋果橘子思考術&lt;/li&gt;
-&lt;li&gt;誰說人是誠實的&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2017--9-&#34;&gt;2017 年 9 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-17&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;身為職業小說家&lt;/li&gt;
-&lt;li&gt;鏡子練習：21天創造生命的奇蹟&lt;/li&gt;
-&lt;li&gt;迫害效應（&lt;a href=&#34;https://willliu.me/blog/book-hiyawu-persecution-effect/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E8%BF%AB%E5%AE%B3%E6%95%88%E6%87%89&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;2017--6-&#34;&gt;2017 年 6 月&lt;/h2&gt;
-&lt;h3 id=&#34;heading-18&#34;&gt;電子書&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;情緒密碼&lt;/li&gt;
-&lt;li&gt;心態致勝&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;heading-19&#34;&gt;以下購買時間不可考（依照閱讀心得慢慢放上）&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;不合理的快樂 - 存在的喜悅（&lt;a href=&#34;https://willliu.me/blog/book-dr.john-yang-unreasonably-happy-the-joy-of-being/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E4%B8%8D%E5%90%88%E7%90%86%E7%9A%84%E5%BF%AB%E6%A8%82%E2%80%8A-%E2%80%8A%E5%AD%98%E5%9C%A8%E7%9A%84%E5%96%9C%E6%82%85&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
-&lt;li&gt;戀愛纜車（&lt;a href=&#34;https://willliu.me/blog/book-higashino-keigo-love-story-on-cable-car/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E6%88%80%E6%84%9B%E7%BA%9C%E8%BB%8A&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
-&lt;li&gt;1年計畫10年對話（&lt;a href=&#34;https://willliu.me/blog/book-cyrilchu-plan-now-for-next-ten-years/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=1%E5%B9%B4%E8%A8%88%E7%95%AB10%E5%B9%B4%E5%B0%8D%E8%A9%B1&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
-&lt;li&gt;覺醒的你（&lt;a href=&#34;https://willliu.me/blog/book-the-untethered-soul-the-journey-beyond-yourself/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E8%A6%BA%E9%86%92%E7%9A%84%E4%BD%A0&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
-&lt;li&gt;有日光的地方 （&lt;a href=&#34;https://willliu.me/blog/book-travel-to-nikko-japan-under-sunlight/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E6%9C%89%E6%97%A5%E5%85%89%E7%9A%84%E5%9C%B0%E6%96%B9&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
-&lt;li&gt;聽風的歌（&lt;a href=&#34;https://willliu.me/blog/book-murakami-haruki-wind-pinball/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E8%81%BD%E9%A2%A8%E7%9A%84%E6%AD%8C&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
-&lt;li&gt;秘密（&lt;a href=&#34;https://willliu.me/blog/bookreview-the-secret/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E7%A7%98%E5%AF%86&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
-&lt;li&gt;我們用假設創造這個世界（&lt;a href=&#34;https://blog.herearoma.com/post/only-habits-can-change-your-life//?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E6%88%91%E5%80%91%E7%94%A8%E5%81%87%E8%A8%AD%E5%89%B5%E9%80%A0%E9%80%99%E5%80%8B%E4%B8%96%E7%95%8C&#34;&gt;閱讀心得&lt;/a&gt;）&lt;/li&gt;
-&lt;/ol&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>HUGO on 未來6米</title>
-    <link>/tags/hugo/</link>
-    <description>Recent content in HUGO on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/hugo/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Hugo Blog 進化筆記</title>
-      <link>/blog/history-of-edition-of-hugo/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/history-of-edition-of-hugo/</guid>
-        <description>&lt;h4 id=&#34;-hugo-&#34;&gt;把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。&lt;/h4&gt;
+<channel>
+  <title>HUGO on 未來6米</title>
+  <link>https://willliu.me/tags/hugo/</link>
+  <description>Recent content in HUGO on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>Hugo Blog 進化筆記</title>
+    <link>https://willliu.me/blog/history-of-edition-of-hugo/</link>
+    <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/history-of-edition-of-hugo/</guid>
+    <description>&lt;h4 id=&#34;-hugo-&#34;&gt;把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。&lt;/h4&gt;
 &lt;h2 id=&#34;-hugo&#34;&gt;目前使用 Hugo 我的網站&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;未來6米：https://willliu.me&lt;/li&gt;
@@ -298,17 +305,16 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 &lt;li&gt;&lt;a href=&#34;http://note.qidong.name/2017/10/hugo-taxonomy/&#34;&gt;http://note.qidong.name/2017/10/hugo-taxonomy/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/&#34;&gt;https://gohugo.io/functions/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>整理跑道數位篇：部落格</title>
-      <link>/blog/leave-medium-go-to-hugo/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/leave-medium-go-to-hugo/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;這是延續近一個月來的「流動」這個主題，剛好假期有比較多的時間，本來想好好整理家裡，但一看到自己寫作的地方很亂、沒有組織，剛好順勢有一個比較長的時間，順勢整理起來。以下是一點心得。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>整理跑道數位篇：部落格</title>
+    <link>https://willliu.me/blog/leave-medium-go-to-hugo/</link>
+    <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/leave-medium-go-to-hugo/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;這是延續近一個月來的「流動」這個主題，剛好假期有比較多的時間，本來想好好整理家裡，但一看到自己寫作的地方很亂、沒有組織，剛好順勢有一個比較長的時間，順勢整理起來。以下是一點心得。&lt;/h4&gt;
 &lt;p&gt;雖然大家都說斜槓青年是近年流行的風潮，但因為嘗試了很多東西，加上跨界蠻大的，所以一直都維持平行的分享方式，把不同的主題放在不同的地方，讓彼此不太衝突。&lt;/p&gt;
 &lt;p&gt;漸漸的就有了四、五個放文章的地方，看起來好像很多東西，其實實際上因為紊亂，所以每次想到要管理跟分類，就會覺得還沒動手已經先累！&lt;/p&gt;
 &lt;p&gt;另外一方面，近年來社群的興起，自媒體的興盛，行銷已經不是注重分門別類的時代，更重要的是「個人品牌」，以人為主題的重要性已經漸漸地超越了，以不同分類為主體。&lt;/p&gt;
@@ -351,17 +357,16 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 &lt;li&gt;合：小結心得&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;而 Who, When, Where 其實會不斷穿插在這三者之間，不必然需要歸屬在任何一方。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>將 Blogger 轉換至 Hugo（含優缺點評析）</title>
-      <link>/blog/digital-blogger-transfer-to-hugo/</link>
-      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/digital-blogger-transfer-to-hugo/</guid>
-        <description>&lt;h5 id=&#34;rawpixelcom--pexelhttpswwwpexelscomrawpixel&#34;&gt;圖片來源：&lt;a href=&#34;https://www.pexels.com/@rawpixel&#34;&gt;rawpixel.com @ PEXEL&lt;/a&gt;&lt;/h5&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>將 Blogger 轉換至 Hugo（含優缺點評析）</title>
+    <link>https://willliu.me/blog/digital-blogger-transfer-to-hugo/</link>
+    <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/digital-blogger-transfer-to-hugo/</guid>
+    <description>&lt;h5 id=&#34;rawpixelcom--pexelhttpswwwpexelscomrawpixel&#34;&gt;圖片來源：&lt;a href=&#34;https://www.pexels.com/@rawpixel&#34;&gt;rawpixel.com @ PEXEL&lt;/a&gt;&lt;/h5&gt;
 &lt;h4 id=&#34;gogolang&#34;&gt;近年許多新興語言興起，Go語言（golang）就是其中一款，能夠快速的編譯出靜態網頁，加上許多開源性的平台以及網路資源，提供了更好網站架設方式，經過許多評估與思考，決定要將自己網站打掉重練，來看看我的思考過程以及優缺點在哪呢？&lt;/h4&gt;
 &lt;p&gt;最近花了一點時間，將原本架設在 Blogger 的網站，全數都轉使用 Hugo 的架構，並且利用 GitHub Pages 當作網頁伺服器，主要的三個網站：&lt;a href=&#34;https://www.herearoma.com&#34;&gt;循香匯&lt;/a&gt;、&lt;a href=&#34;https://blog.herearoma.com&#34;&gt;塔香食譜&lt;/a&gt;、&lt;a href=&#34;https://willliu.me/blog/&#34;&gt;未來6米&lt;/a&gt;，透過不同的版型全數上架。花了兩三個整天的時間，想說來特別來記錄一下。&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;為什麼想要換&lt;/h2&gt;
@@ -425,9 +430,8 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 &lt;li&gt;需要另外安裝在本機去執行轉譯&lt;/li&gt;
 &lt;li&gt;要能夠完整的發布，需要自己配置伺服器設定&lt;/li&gt;
 &lt;/ul&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

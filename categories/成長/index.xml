@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>成長 on 未來6米</title>
-    <link>/categories/%E6%88%90%E9%95%B7/</link>
-    <description>Recent content in 成長 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/%E6%88%90%E9%95%B7/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>整理跑道數位篇：部落格</title>
-      <link>/blog/leave-medium-go-to-hugo/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/leave-medium-go-to-hugo/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;這是延續近一個月來的「流動」這個主題，剛好假期有比較多的時間，本來想好好整理家裡，但一看到自己寫作的地方很亂、沒有組織，剛好順勢有一個比較長的時間，順勢整理起來。以下是一點心得。&lt;/h4&gt;
+<channel>
+  <title>成長 on 未來6米</title>
+  <link>https://willliu.me/categories/%E6%88%90%E9%95%B7/</link>
+  <description>Recent content in 成長 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/categories/%E6%88%90%E9%95%B7/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>整理跑道數位篇：部落格</title>
+    <link>https://willliu.me/blog/leave-medium-go-to-hugo/</link>
+    <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/leave-medium-go-to-hugo/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;這是延續近一個月來的「流動」這個主題，剛好假期有比較多的時間，本來想好好整理家裡，但一看到自己寫作的地方很亂、沒有組織，剛好順勢有一個比較長的時間，順勢整理起來。以下是一點心得。&lt;/h4&gt;
 &lt;p&gt;雖然大家都說斜槓青年是近年流行的風潮，但因為嘗試了很多東西，加上跨界蠻大的，所以一直都維持平行的分享方式，把不同的主題放在不同的地方，讓彼此不太衝突。&lt;/p&gt;
 &lt;p&gt;漸漸的就有了四、五個放文章的地方，看起來好像很多東西，其實實際上因為紊亂，所以每次想到要管理跟分類，就會覺得還沒動手已經先累！&lt;/p&gt;
 &lt;p&gt;另外一方面，近年來社群的興起，自媒體的興盛，行銷已經不是注重分門別類的時代，更重要的是「個人品牌」，以人為主題的重要性已經漸漸地超越了，以不同分類為主體。&lt;/p&gt;
@@ -58,17 +65,16 @@
 &lt;li&gt;合：小結心得&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;而 Who, When, Where 其實會不斷穿插在這三者之間，不必然需要歸屬在任何一方。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>那一天，我清掉所有待辦清單</title>
-      <link>/blog/the-day-i-clean-up-to-do-list/</link>
-      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/the-day-i-clean-up-to-do-list/</guid>
-        <description>&lt;p&gt;沒有清空的待辦事項，就是一種自虐的開始。&lt;/p&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>那一天，我清掉所有待辦清單</title>
+    <link>https://willliu.me/blog/the-day-i-clean-up-to-do-list/</link>
+    <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/the-day-i-clean-up-to-do-list/</guid>
+    <description>&lt;p&gt;沒有清空的待辦事項，就是一種自虐的開始。&lt;/p&gt;
 &lt;p&gt;在專案管理中，我有個很深的體悟：「把每一個小事情都做好，大事就會自然成形！」雖然每個人都希望能夠做大事，但其實不管是什麼樣的專案，如果沒有把每一件小事兼顧好，當走到後面的時候反而會發現更多問題。&lt;/p&gt;
 &lt;p&gt;對一個專案來說，能切割的最小片段就是能夠在手邊完成的事情，他不需要一直派工，只需要真的負責的人可以持續的做下去，有許多人都有提到 GTD 的任務管理法，以及艾森豪威爾法則以四象限來區分工作。我嘗試很多次，總是以失敗收場，有一天我下定決心，一次把我的待辦事項全部刪除了，然後重新思考到底怎麼了？為什麼總是會遇到失敗的情境呢？&lt;/p&gt;
 &lt;hr&gt;
@@ -91,9 +97,8 @@
 &lt;h3 id=&#34;heading-5&#34;&gt;要素三：連同工作時間與完成時間一起設定&lt;/h3&gt;
 &lt;p&gt;得到 App 中劉潤專欄曾經分享時間顆粒的概念，意思是每一個人對於時間利用程度不同，所以對時間單位的定義也不同。以我自己為例，我處理事情很快的人，但有個缺點容易分心，代表如果我持續做一件事情，很容易一不小心岔了出去，反而讓自己誤了一點時間。因此，我設定的時間顆粒為 30 分鐘，每 30 分鐘是我安排處理事情的節點，確保我在一定的時間內能夠專心，而又不會違背我會分心這個個性。&lt;/p&gt;
 &lt;p&gt;同時，我會配合行事曆一起設定工作時間，將每個顆粒需要做什麼事情都配合寫上去，以確保我有留時間去完成進度，不然反而會回到一開始我說明的，超出預期反而陷入做不完的崩潰情緒，以及推延後的自責感。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>企業 on 未來6米</title>
-    <link>/tags/%E4%BC%81%E6%A5%AD/</link>
-    <description>Recent content in 企業 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E4%BC%81%E6%A5%AD/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>華航罷工事件（上）：訴求達成的可能性與現況之矛盾</title>
-      <link>/blog/china-ariline-strike-conflict-between-both-sides/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/china-ariline-strike-conflict-between-both-sides/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;跳過諸多的法律條文跟主要訴求，相信這兩天大家打開電視新聞，都會被強迫了解這件事情。以簡單的方式說明這件事情，好似可以用「資逼勞反」一句話道出一切。&lt;/h4&gt;
+<channel>
+  <title>企業 on 未來6米</title>
+  <link>https://willliu.me/tags/%E4%BC%81%E6%A5%AD/</link>
+  <description>Recent content in 企業 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E4%BC%81%E6%A5%AD/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>華航罷工事件（上）：訴求達成的可能性與現況之矛盾</title>
+    <link>https://willliu.me/blog/china-ariline-strike-conflict-between-both-sides/</link>
+    <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/china-ariline-strike-conflict-between-both-sides/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;跳過諸多的法律條文跟主要訴求，相信這兩天大家打開電視新聞，都會被強迫了解這件事情。以簡單的方式說明這件事情，好似可以用「資逼勞反」一句話道出一切。&lt;/h4&gt;
 &lt;p&gt;大年初四，凌晨桃園機師工會宣布將啟動華航機師罷工，旋即在早上 8 點開始，許多華航機師已經不上工了！繼上次華航空服員罷工事件後，華航再度出現了使用已確立之「合法罷工權」之情事。&lt;/p&gt;
 &lt;p&gt;在這裡特別提出「合法罷工權」是因為勞動三法中針對罷工啟動的流程有明確的規範，網路上有許多&lt;a href=&#34;https://newtalk.tw/news/view/2018-08-07/134425&#34;&gt;文章&lt;/a&gt;，大家可以參考。所以這邊跟曠職不同，罷工需要經過工會、調解等程序，並經表決通過才能行使。&lt;/p&gt;
 &lt;p&gt;跳過諸多的法律條文跟主要訴求，相信這兩天大家打開電視新聞，都會被強迫了解這件事情。以簡單的方式說明這件事情，就是**「勞工們期許改善惡劣的勞動環境，但雇主考量的是成本將膨脹到無法負擔的地步」**。但目前看不出來經過任何精算到底成本的增加將如何侵蝕獲利。&lt;/p&gt;
@@ -37,23 +44,22 @@
 &lt;p&gt;意即，華航最多的損失就是「退票」，不用給予另外的賠償。所有的潛在損失將直接回到旅客（消費者）本身，不管是要轉機趕不上，預定住宿取消被扣的款項，都將跟華航無關。&lt;/p&gt;
 &lt;p&gt;在取消航班不多的情況下，短期損失非常好計算，因為就是把預售的票全數退回，華航可以先取消「相對冷門」的航線因應。&lt;/p&gt;
 &lt;p&gt;今天早上華航開始做的就是這樣的措施，整併航班、取消乘客較少的航線，也就是這些都是可控的風險。在風險可控的情況下，機師工會拿回談判的優勢，可能性非常的小。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15496109656362_WEyARDbt0R.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15496109656362_WEyARDbt0R.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;爭議點與未來可能性？&lt;/h2&gt;
 &lt;p&gt;但也不是沒有機會的，因為華航是一個公股企業，政府在民意壓力之下，必定需要出面處理。同時，時間拖越長，將會增加機師調度的難度，近一步影響的航班擴增，將會將兩造重新拉回談判桌，去協商一個可能的結果。&lt;/p&gt;
 &lt;p&gt;我們也應該去思考，當勞資爭議產生，罷工為必然手段的時候，該如何讓他更有效，這邊有幾個這次事件的爭議，可以看出一點端倪。&lt;/p&gt;
 &lt;p&gt;觀看下集請點此：&lt;a href=&#34;https://willliu.me/blog/china-ariline-strike-major-three-questions/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E8%8F%AF%E8%88%AA%E7%BD%B7%E5%B7%A5%E4%BA%8B%E4%BB%B6%EF%BC%88%E4%B8%8B%EF%BC%89%EF%BC%9A%E6%88%96%E8%A8%B1%E4%BD%A0%E6%9C%83%E5%95%8F%E9%80%99%E4%B8%89%E9%BB%9E%EF%BC%8C%E9%82%A3%E6%88%91%E5%80%91%E8%A9%B2%E6%80%8E%E9%BA%BC%E5%81%9A%EF%BC%9F&#34;&gt;華航罷工事件（下）：或許你會問這三點，那我們該怎麼做？&lt;/a&gt;&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>華航罷工事件（下）：或許你會問這三點，那我們該怎麼做？</title>
-      <link>/blog/china-ariline-strike-major-three-questions/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/china-ariline-strike-major-three-questions/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;在華人的社會中，不上班看以來是千古不赦的事情，所以罷工這兩個字，在很多人心中，很直觀的跟「無理取鬧」產生連結，但其實罷工是一種權益，我們不應該去阻止別人行使權益。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>華航罷工事件（下）：或許你會問這三點，那我們該怎麼做？</title>
+    <link>https://willliu.me/blog/china-ariline-strike-major-three-questions/</link>
+    <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/china-ariline-strike-major-three-questions/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;在華人的社會中，不上班看以來是千古不赦的事情，所以罷工這兩個字，在很多人心中，很直觀的跟「無理取鬧」產生連結，但其實罷工是一種權益，我們不應該去阻止別人行使權益。&lt;/h4&gt;
 &lt;p&gt;華人文化有幾個特別的習慣，對於出勤這件事情放得很重，還有對於規律的緊守，讓我們生活中少了很多彈性。我們常常以「開放」這個詞去陳述歐美文化，但並未討論文化的不同。&lt;/p&gt;
 &lt;p&gt;這次的罷工事件，並不是來得突然，從去（2018）年 8 月即開始有討論，直到現在才發生，就是經歷了將近半年的時間，仍然無法獲得共識的情況下，造成了今天上千旅客受影響。&lt;/p&gt;
 &lt;p&gt;其實 2017 年也有&lt;a href=&#34;https://www.moneysavingexpert.com/news/2017/06/doors-open-to-passengers-claiming-compensation-from-ba-for-next-months-strike/&#34;&gt;英國航空罷工事件&lt;/a&gt;，其實對許多國家勞工來說，罷工是一種不得不的時候，可以行使的手段之一，已確立可以在較為平等的情況之下，跟資方進行談判。&lt;/p&gt;
@@ -85,9 +91,8 @@
 &lt;p&gt;也就是說，旅客有權聲張自己的權益受損，進而可獲得最高 540 英鎊的賠償。當然&lt;strong&gt;最終的裁決機關在「法院」，如果大家都相信法院仲裁之客觀性與合理性，便提升了潛在的損失風險，這樣也進一步的可以保障旅客權益以及擴大航空公司、保險公司的重視程度。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;如果除外條款附上此但書—預先告知罷工與時間點則可能不列入特殊情況—後，也會增加工會在思考罷工這件事情的嚴謹性，一來可以更主動地公布罷工的決策與時間點，同時要去考量進行罷工必須要對資方造成「一定的損害」，這樣的罷工才能有意義，並將對旅客的影響降到最低。&lt;/p&gt;
 &lt;p&gt;觀看上集請點此：&lt;a href=&#34;https://willliu.me/blog/china-ariline-strike-conflict-between-both-sides/?utm_source=willliu.me&amp;amp;utm_medium=blog&amp;amp;utm_campaign=innertext&amp;amp;utm_term=&amp;amp;utm_content=%E8%8F%AF%E8%88%AA%E7%BD%B7%E5%B7%A5%E4%BA%8B%E4%BB%B6%EF%BC%88%E4%B8%8A%EF%BC%89%EF%BC%9A%E8%A8%B4%E6%B1%82%E9%81%94%E6%88%90%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E8%88%87%E7%8F%BE%E6%B3%81%E4%B9%8B%E7%9F%9B%E7%9B%BE&#34;&gt;華航罷工事件（上）：訴求達成的可能性與現況之矛盾&lt;/a&gt;&lt;/p&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>個人經驗 on 未來6米</title>
-    <link>/tags/%E5%80%8B%E4%BA%BA%E7%B6%93%E9%A9%97/</link>
-    <description>Recent content in 個人經驗 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E5%80%8B%E4%BA%BA%E7%B6%93%E9%A9%97/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Medium 很好，「但是」我決定跟他說掰</title>
-      <link>/blog/good-bye-medium-and-the-reasons/</link>
-      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/good-bye-medium-and-the-reasons/</guid>
-        <description>&lt;h4 id=&#34;-medium-6httpsgwillliumezawnwh-medium-&#34;&gt;兩個月前，我做了一件事情，&lt;a href=&#34;https://g.willliu.me/ZawnWH&#34;&gt;離開了 Medium 寫作的環境，重新架設這個網站（部落格）未來6米&lt;/a&gt;，裡面講到了很多原因，但兩個月之後，我決定要把 Medium 的寫作內容完全終止，並且減少閱讀裡面文章的次數。&lt;/h4&gt;
+<channel>
+  <title>個人經驗 on 未來6米</title>
+  <link>https://willliu.me/tags/%E5%80%8B%E4%BA%BA%E7%B6%93%E9%A9%97/</link>
+  <description>Recent content in 個人經驗 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E5%80%8B%E4%BA%BA%E7%B6%93%E9%A9%97/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>Medium 很好，「但是」我決定跟他說掰</title>
+    <link>https://willliu.me/blog/good-bye-medium-and-the-reasons/</link>
+    <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/good-bye-medium-and-the-reasons/</guid>
+    <description>&lt;h4 id=&#34;-medium-6httpsgwillliumezawnwh-medium-&#34;&gt;兩個月前，我做了一件事情，&lt;a href=&#34;https://g.willliu.me/ZawnWH&#34;&gt;離開了 Medium 寫作的環境，重新架設這個網站（部落格）未來6米&lt;/a&gt;，裡面講到了很多原因，但兩個月之後，我決定要把 Medium 的寫作內容完全終止，並且減少閱讀裡面文章的次數。&lt;/h4&gt;
 &lt;h2 id=&#34;heading&#34;&gt;為什麼？&lt;/h2&gt;
 &lt;p&gt;其實我近幾個月已經很少使用 Medium 了，剛好最近看到&lt;a href=&#34;https://link.medium.com/RANb0GDrgX&#34;&gt;一篇文章&lt;/a&gt;說明了一些出走的狀況，裡面有幾個點，我看到之後才發現，真的跟我感覺越來越像，加上看到&lt;a href=&#34;https://medium.com/@leafwind/%E6%98%AF%E6%99%82%E5%80%99%E5%82%99%E4%BB%BD%E4%BD%A0%E7%9A%84-medium-%E6%96%87%E7%AB%A0%E4%BA%86-cd81ae59ce91&#34;&gt;相關文章&lt;/a&gt;也慢慢產生，不禁思考著到底想要的分享方式是什麼。&lt;/p&gt;
 &lt;p&gt;然後，我選擇了不要再花時間經營 Medium。主要的原因很大一部分是在於，跟我想要的東西以經不同，可能是因為 Medium 為一個持續發展的平台，會開始有不同的政策，加上也是需要盈利來面對投資者，漸漸就發現，跟我一開始加入的理由已經不同了。&lt;/p&gt;
@@ -38,7 +45,7 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;付費文章的極限&lt;/h2&gt;
 &lt;p&gt;近兩個月開始，所以發表文章都會告訴你，可以使用這一篇文章增加收益喔！甚至在四月的時候，我的發文還會預設是收費文章，不知道是不是我的設定錯誤。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15598932220572_Z-y1EjNdz.jpg&#34; alt=&#34;發表文章的頁面上方會一直有個貼心提醒：「可以開收費喔！」&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15598932220572_Z-y1EjNdz.jpg&#34; alt=&#34;發表文章的頁面上方會一直有個貼心提醒：「可以開收費喔！」&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-4&#34;&gt;發表文章的頁面上方會一直有個貼心提醒：「可以開收費喔！」&lt;/h5&gt;
 &lt;p&gt;在一開始提到的&lt;a href=&#34;https://link.medium.com/RANb0GDrgX&#34;&gt;文章&lt;/a&gt;中，進一步指出：「沒有開收費的文章已經很難被推上首頁」、「會有 Medium 勸流量大戶開收費，如果不成就有近一步想要『談合作』」。&lt;/p&gt;
 &lt;p&gt;目前看起來 Medium 並未想要積極置入廣告，等於付費文章、Membership 將成為收益的支柱來源，長期觀察中文創作者來看，收費文章本身就有局限，我追蹤的作者 &lt;a href=&#34;https://medium.com/@evonneyifangtsai&#34;&gt;Evonne Tsai&lt;/a&gt; 與&lt;a href=&#34;https://medium.com/@manzoo&#34;&gt;曼努&lt;/a&gt;分別對於收費文章的制度有不同看法（可參考&lt;a href=&#34;https://medium.com/@evonneyifangtsai/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E4%B8%8D%E5%8F%83%E8%88%87medium%E4%BB%98%E8%B2%BB%E7%89%86%E5%AF%AB%E4%BD%9C%E8%A8%88%E7%95%AB-8c2bb8cb1ee9&#34;&gt;為什麼我不參與Medium付費牆寫作計畫&lt;/a&gt;與 &lt;a href=&#34;https://medium.com/koom&#34;&gt;koom&lt;/a&gt;）。&lt;/p&gt;
@@ -52,9 +59,8 @@
 &lt;p&gt;至於閱讀習慣，目前透過 Facebook、RSS 閱讀器，加上電子書、實體書都已經有很大的滿足。未來實驗後再慢慢分享出來。&lt;/p&gt;
 &lt;p&gt;最後不免俗說一句。&lt;/p&gt;
 &lt;p&gt;Bye Medium~&lt;/p&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

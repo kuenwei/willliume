@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>閱讀 on 未來6米</title>
-    <link>/tags/%E9%96%B1%E8%AE%80/</link>
-    <description>Recent content in 閱讀 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E9%96%B1%E8%AE%80/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>有日光的地方：會令人期待改版的一本書</title>
-      <link>/blog/book-travel-to-nikko-japan-under-sunlight/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/book-travel-to-nikko-japan-under-sunlight/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;是因為想要去日光才看了這本書，黃國華（有個稱號叫做總幹事，很多人稱呼為「總大」）是一個寫作資歷豐富的財經型人物，但隨著生活的豐富，開始慢慢的寫出了旅遊作品，之前我也看過幾本總大的財經書籍，寫的淺顯易懂，觀點獨到。&lt;/h4&gt;
+<channel>
+  <title>閱讀 on 未來6米</title>
+  <link>https://willliu.me/tags/%E9%96%B1%E8%AE%80/</link>
+  <description>Recent content in 閱讀 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E9%96%B1%E8%AE%80/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>有日光的地方：會令人期待改版的一本書</title>
+    <link>https://willliu.me/blog/book-travel-to-nikko-japan-under-sunlight/</link>
+    <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/book-travel-to-nikko-japan-under-sunlight/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;是因為想要去日光才看了這本書，黃國華（有個稱號叫做總幹事，很多人稱呼為「總大」）是一個寫作資歷豐富的財經型人物，但隨著生活的豐富，開始慢慢的寫出了旅遊作品，之前我也看過幾本總大的財經書籍，寫的淺顯易懂，觀點獨到。&lt;/h4&gt;
 &lt;h2 id=&#34;heading-1&#34;&gt;不僅僅只是旅遊這麼簡單&lt;/h2&gt;
 &lt;p&gt;這是一本旅遊介紹的書籍，總大非常推從喜歡日本的人一定要去一趟日光，但因為日光旅行在台灣不是很主流，所以特別寫了一本「專書」介紹。因為去過很多次，也用很多種不同的身份、形式去日光，書中收層的日光知識非常豐富，基本的交通、景點安排外，對景點深刻的描繪令人印象深刻。&lt;/p&gt;
 &lt;p&gt;而總大豐富的人生經歷，也部份的呈現在每一篇描述景點的文章之中，因為人生經歷很特殊，所以對於每個景點的看法，春夏秋冬的變化也都有不同的體會，讓我想著，如果有一天我到這個景點的時候，是否也將會有如同自己的感覺呢？&lt;/p&gt;
@@ -26,9 +33,8 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;如果，你也想讀這本書&lt;/h2&gt;
 &lt;p&gt;如果你沒有去日光的計畫，我建議先不用拿這本書起來看，要發揮一本旅遊書籍的最大價值，就是在你準備要去的時候，用它來做功課，或者就直接帶上它。書裡面對日光的介紹非常詳細，景點的交通、特色都有詳細的陳述，如果你是當讀物使用，實用性對你來說，可能不像真的在計劃時好用。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

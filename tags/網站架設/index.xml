@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>網站架設 on 未來6米</title>
-    <link>/tags/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD/</link>
-    <description>Recent content in 網站架設 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Sat, 13 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>把主站搬離 Medium 的理由以及未來走向</title>
-      <link>/blog/leave-meidum-and-how-to-use-it-in-the-future/</link>
-      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/leave-meidum-and-how-to-use-it-in-the-future/</guid>
-        <description>&lt;h5 id=&#34;2012--8--twitter-medium&#34;&gt;2012 年 8 月 Twitter 創辦人打造了新一代的寫作社群媒體「Medium」。&lt;/h5&gt;
+<channel>
+  <title>網站架設 on 未來6米</title>
+  <link>https://willliu.me/tags/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD/</link>
+  <description>Recent content in 網站架設 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Sat, 13 Apr 2019 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>把主站搬離 Medium 的理由以及未來走向</title>
+    <link>https://willliu.me/blog/leave-meidum-and-how-to-use-it-in-the-future/</link>
+    <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/leave-meidum-and-how-to-use-it-in-the-future/</guid>
+    <description>&lt;h5 id=&#34;2012--8--twitter-medium&#34;&gt;2012 年 8 月 Twitter 創辦人打造了新一代的寫作社群媒體「Medium」。&lt;/h5&gt;
 &lt;h4 id=&#34;medium--publicationmedium-&#34;&gt;Medium 中文社群有人稱作「米店」，是近兩三年來中文作者篇好發表的平台之一，我也在一年多前跟上了這個風潮，但最近我刪除了原先在上面的 Publication，同時也調整了經營的方向，因為我發現，在我的使用狀態中，Medium 相較於一個平台，更適合擔任作者聚集的社群媒體。&lt;/h4&gt;
 &lt;p&gt;過去一年，我在 &lt;a href=&#34;https://t.willliu.me/MEDIUM&#34;&gt;Medium&lt;/a&gt; 上的足跡有限，但也同時加入過 Membership 與 Partner Program，一個是能夠看收費文章的資格，一個是獲得用文章收費的資格。&lt;/p&gt;
 &lt;p&gt;老實說，這兩個我都沒有做得很好，看的文章數量不多，然後我雖然具有資格，但因為也沒有填稅務資料，所以也無法開啟收費文章，當然我也沒有真的想要，也真的沒有將任何一篇文章收費。&lt;/p&gt;
@@ -25,7 +32,7 @@
 &lt;h3 id=&#34;heading&#34;&gt;平台以英文角度出發，對中文作者的侷限&lt;/h3&gt;
 &lt;p&gt;Medium 是近年來走入 Web 3.0/4.0 的時候，廣受討論的平台，他跟過去很不一樣，我們都把文章跟社群分開，因為社群無法提供好看的文章排版，好的平台卻又沒有足夠的社群力量，明顯的例子就是在 Facebook 讀長文很痛苦，但寫在 Wordpress、Blogger 等平台寫的文章，轉到社群媒體時，主動觸及率往往一片慘綠。&lt;/p&gt;
 &lt;p&gt;Medium 是 Twitter 創辦人之一所設計的服務，希望透過好的文章質量，創造各個作者相連，去成為類似一本本的雜誌的網站。這一點，當你加入 Medium Mebmership 之後，感覺會更明顯，每週都會收到 The Editon，編輯幫你選文推薦。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15552339828931_Ie6CzbVS3n.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15552339828931_Ie6CzbVS3n.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;meidum--email-the-edition&#34;&gt;Meidum 每週都會透過 Email 提供文章精選「The Edition」&lt;/h5&gt;
 &lt;p&gt;看到上面，大家應該可以發現一個對中文作者來說的問題—Medium 的設計出發點是「英文」—也就是說對於以中文為創作主體的人，實際而言，跟其他的寫作平台差異性會瞬間縮小，由於英文的思維，導致能夠挹注中文作者的推廣、社群等資源有限。&lt;/p&gt;
 &lt;p&gt;從另外一個地方，也可以發現對於中文的支援度不足。在我使用的經驗上，不管是顯示中文或想要透過中文回覆文章、以中文命名 tag 等，都很容易出現錯誤訊息。很多次用中文回覆文章到一半會跳出錯誤訊息，我只能整段複製，重新整理頁面再貼上。&lt;/p&gt;
@@ -34,7 +41,7 @@
 &lt;h3 id=&#34;heading-1&#34;&gt;身為平台很好用，但有時候不夠用&lt;/h3&gt;
 &lt;p&gt;回過頭來說，使用 Medium 也帶給我不同的觀點與看法，過去十幾年來，我的寫作都以 &lt;a href=&#34;https://t.he2.tw/blogger&#34;&gt;Blogger&lt;/a&gt; 為主要的平台，龐大、很容易做得很「多采多姿」、放上無數的 widget、使用漂亮的模板、用不盡的網路資源的平台，但 Meidum 反其道而行。&lt;/p&gt;
 &lt;p&gt;從閱讀以及編輯體驗可以明顯感覺出來，&lt;strong&gt;整個設計是以「紙本出版」為核心概念&lt;/strong&gt;，兼具質感與方便性，卻也造成了很大的侷限，整個平台，就算你交互各種樣式，能使用的格式約莫 20 餘種（包含部分支援的 Markdown 語法）。其中像很基本的改變字體顏色，字體底色（需要透過 highlight）目前都無法做到。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15552363225435_uEQC6F6i8P.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15552363225435_uEQC6F6i8P.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;medium-&#34;&gt;Medium 編輯器提供簡單的格式設定&lt;/h5&gt;
 &lt;p&gt;這樣的侷限有好有壞。好處在於透過這平台能夠藉由專業的 UI/UX 來達到一致的使用體驗；壞的部份，一言以蔽之就是失去了彈性。例如表格（需要以圖片方式後插入）、文字底色、插入的區塊（需要 Medium 預設有支援），而這一些對我來說，看似不重要，但有時候真的會用到。&lt;/p&gt;
 &lt;p&gt;能理解做為一個堅固社群以及文章出版的平台，對於平台內容的格式化有其必要性，且編輯器以紙本邏輯為出發點，能夠減少轉換成出版品的痛點，不過也犧牲了版面的多元性，在 Medium 上想要有更多樣式，除了用圖片取代外，目前別無他途。&lt;/p&gt;
@@ -46,7 +53,7 @@
 &lt;p&gt;知識有價，但分享才是重點。傳播有價知識的渠道，應該跟分享的分開。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;以中文知識經濟的大宗「得到」來說，先不論商業模式，平台的定位就是以收費為導向，而且善於區別作者取向，提供不同的內容與服務形式。例如，創辦人羅胖（羅振宇）專心做行銷，提供免費內容，再找「大家」、「網紅」提供更多的收費內容，然後創造出一年的專欄、電子書、有聲書、技巧課、大師課等等。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15553707265744_qIQQdxv9I.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15553707265744_qIQQdxv9I.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;-app&#34;&gt;得到 APP，由「羅輯思維」主講人羅振宇一手打造出的知識經濟產品。&lt;/h5&gt;
 &lt;p&gt;從這邊我能發現，在同一個平台上，想達到分享與成功的商業模式很有挑戰。**我認為，在同一個平台上，無法明顯的區別下，部分開放文章收費，創造的不是商業模式，只能說是一股可能的現金流，也就是俗稱的打工。**目前的商業模式上，除去廣告商的挹注，知識經濟最好的方式之一是訂閱，而且平台多為跟原始分享平台的區隔，例如阿滴英文（YouTube vs. Pressplay）、美的好朋友等。&lt;/p&gt;
 &lt;p&gt;目前，我還沒有穩定創作，也未開始有知識經濟的商業模式（講座、課程、訂閱文章等），以現況來講，&lt;strong&gt;我對於「發表文章並透過平台賺錢」的需求度非常的低&lt;/strong&gt;。重新評估後，我需要的平台是以分享為主，且中文分享為核心，Medium 的收費文章優勢對我而言，反而起不了作用。&lt;/p&gt;
@@ -62,17 +69,16 @@
 &lt;/blockquote&gt;
 &lt;p&gt;在這個觀念底下，未來 Medium 的內容會是個「引子」，透過引子讓更多人認識我，進一步點入觀看文章，了解更多的內容。同時，我也會把自己一寫比較雜記的心得，統整放在 Meidum，去整理數位足跡，也同時達到分享的效果。&lt;/p&gt;
 &lt;p&gt;這次的嘗試，期待透過社群的力量，讓許多不同的人，一起發現我，聚集在所創建的個人品牌。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>Hugo Blog 進化筆記</title>
-      <link>/blog/history-of-edition-of-hugo/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/history-of-edition-of-hugo/</guid>
-        <description>&lt;h4 id=&#34;-hugo-&#34;&gt;把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>Hugo Blog 進化筆記</title>
+    <link>https://willliu.me/blog/history-of-edition-of-hugo/</link>
+    <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/history-of-edition-of-hugo/</guid>
+    <description>&lt;h4 id=&#34;-hugo-&#34;&gt;把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。&lt;/h4&gt;
 &lt;h2 id=&#34;-hugo&#34;&gt;目前使用 Hugo 我的網站&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;未來6米：https://willliu.me&lt;/li&gt;
@@ -355,9 +361,8 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 &lt;li&gt;&lt;a href=&#34;http://note.qidong.name/2017/10/hugo-taxonomy/&#34;&gt;http://note.qidong.name/2017/10/hugo-taxonomy/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/&#34;&gt;https://gohugo.io/functions/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

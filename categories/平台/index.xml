@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>平台 on 未來6米</title>
-    <link>/categories/%E5%B9%B3%E5%8F%B0/</link>
-    <description>Recent content in 平台 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/%E5%B9%B3%E5%8F%B0/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Hugo Blog 進化筆記</title>
-      <link>/blog/history-of-edition-of-hugo/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/history-of-edition-of-hugo/</guid>
-        <description>&lt;h4 id=&#34;-hugo-&#34;&gt;把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。&lt;/h4&gt;
+<channel>
+  <title>平台 on 未來6米</title>
+  <link>https://willliu.me/categories/%E5%B9%B3%E5%8F%B0/</link>
+  <description>Recent content in 平台 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/categories/%E5%B9%B3%E5%8F%B0/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>Hugo Blog 進化筆記</title>
+    <link>https://willliu.me/blog/history-of-edition-of-hugo/</link>
+    <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/history-of-edition-of-hugo/</guid>
+    <description>&lt;h4 id=&#34;-hugo-&#34;&gt;把自己栽入 Hugo 成為網站的工具的人生，一點點紀錄，然後有計劃地慢慢往前進。&lt;/h4&gt;
 &lt;h2 id=&#34;-hugo&#34;&gt;目前使用 Hugo 我的網站&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;未來6米：https://willliu.me&lt;/li&gt;
@@ -298,9 +305,8 @@ for (var i = 0, linksLength = links.length; i &amp;lt; linksLength; i++) {
 &lt;li&gt;&lt;a href=&#34;http://note.qidong.name/2017/10/hugo-taxonomy/&#34;&gt;http://note.qidong.name/2017/10/hugo-taxonomy/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/functions/&#34;&gt;https://gohugo.io/functions/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

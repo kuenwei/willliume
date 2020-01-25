@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>親情 on 未來6米</title>
-    <link>/tags/%E8%A6%AA%E6%83%85/</link>
-    <description>Recent content in 親情 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E8%A6%AA%E6%83%85/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>這一刻，我們緊緊相依：地球人老爸與星星少年的成長日記</title>
-      <link>/blog/book-review-tsai-dad-and-son/</link>
-      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/book-review-tsai-dad-and-son/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;打開這一本書，是受到下面這一篇文章深深的吸引，看完之後全身雞皮疙瘩直直冒。今天去逛書店，偶然又遇到了這本書，就在電子書商城馬上下單，並且花了一個晚上的時間看完。&lt;/h4&gt;
+<channel>
+  <title>親情 on 未來6米</title>
+  <link>https://willliu.me/tags/%E8%A6%AA%E6%83%85/</link>
+  <description>Recent content in 親情 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E8%A6%AA%E6%83%85/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>這一刻，我們緊緊相依：地球人老爸與星星少年的成長日記</title>
+    <link>https://willliu.me/blog/book-review-tsai-dad-and-son/</link>
+    <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/book-review-tsai-dad-and-son/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;打開這一本書，是受到下面這一篇文章深深的吸引，看完之後全身雞皮疙瘩直直冒。今天去逛書店，偶然又遇到了這本書，就在電子書商城馬上下單，並且花了一個晚上的時間看完。&lt;/h4&gt;
 &lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.facebook.com/tsaijey/posts/415138955352454&#34;&gt;蔡傑爸&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;在蔡傑六年級的時候， 我已經決定要讓他跨學區就讀， . 所以， 有空的時候， 我就會帶著蔡傑一起練習搭公車， . 練習算錢與投幣， 就算錢常常算錯， 會被我念， 他還是很喜歡搭公車， . 畢業後的暑假期間， 是訓練的高峰期， 有時候我們也會轉來轉去， 或是換搭火車， 練習看站牌或時刻表。 . 從小到大， 沒有一樣東西是這麼好訓練的，...&lt;/p&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;
 &lt;p&gt;相較於許多專職作家，蔡傑爸（蔡昭偉）並不是一個以文筆取勝的人，但每一個字卻是如實的去刻畫出了，照顧自閉症兒子蔡傑的所有真情。&lt;/p&gt;
@@ -40,9 +47,8 @@
 &lt;blockquote&gt;
 &lt;p&gt;我們能掌握的，其實只有「現在」而已。所以，我選擇活在當下，盡我所能做好我該做的，把握每一分鐘我能把握的幸福。&lt;/p&gt;
 &lt;/blockquote&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

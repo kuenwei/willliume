@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>工具 on 未來6米</title>
-    <link>/tags/%E5%B7%A5%E5%85%B7/</link>
-    <description>Recent content in 工具 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Sat, 18 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E5%B7%A5%E5%85%B7/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>我怎麼選擇 App〈一〉如何選擇一個不完美的來用？</title>
-      <link>/blog/my-philosophy-on-apps-three-points-selection/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/my-philosophy-on-apps-three-points-selection/</guid>
-        <description>&lt;h4 id=&#34;2020-&#34;&gt;2020 想要好好耕耘數位工具使用這一塊，我一直都不是善於寫手把手教學，這類的文章也非常好搜尋到，但我想要說說：「為什麼這麼做？」並提供一些自己的方法。&lt;/h4&gt;
+<channel>
+  <title>工具 on 未來6米</title>
+  <link>https://willliu.me/tags/%E5%B7%A5%E5%85%B7/</link>
+  <description>Recent content in 工具 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Sat, 18 Jan 2020 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>我怎麼選擇 App〈一〉如何選擇一個不完美的來用？</title>
+    <link>https://willliu.me/blog/my-philosophy-on-apps-three-points-selection/</link>
+    <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/my-philosophy-on-apps-three-points-selection/</guid>
+    <description>&lt;h4 id=&#34;2020-&#34;&gt;2020 想要好好耕耘數位工具使用這一塊，我一直都不是善於寫手把手教學，這類的文章也非常好搜尋到，但我想要說說：「為什麼這麼做？」並提供一些自己的方法。&lt;/h4&gt;
 &lt;p&gt;廿一世紀真的是一個很特別的時代，最重要的就是幾乎人手都有智慧手機，難免就會面對到要安裝不同的 App（Application，手機軟體），最近一兩年我也添購了&lt;a href=&#34;https://willliu.me/blog/my-tools-and-services-list/#heading-2&#34;&gt;許多硬體設備&lt;/a&gt;，包含了 Macbook、iPad Pro 等等，慢慢轉換使用數位工具協助自己的工作、甚至延伸到日常生活。&lt;/p&gt;
 &lt;p&gt;然後發現裡面有太多的心路歷程，其實是因為有太多的衝突，而我習慣是需要一個理由才能好好地安撫自己，去了解為什麼、跟為什麼要對我來說很重要，時序進入新的一年（2020）剛好又進入了整理思緒的時間，同時也發現了一些不同的服務已經不再適用必須整理。&lt;/p&gt;
 &lt;p&gt;而在這過程中，有許多思路，想要在這邊慢慢寫出來跟大家分享。&lt;/p&gt;
@@ -71,17 +78,16 @@
 &lt;p&gt;最後我才發現，&lt;strong&gt;根本不會有完全符合我情境的 App，但我的情境裡面可以有好多不同的 App。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;而且，如果這個開發者還是持續的更新，我們必然可以透過回饋的方式，讓 App 一起成長，即使成長到了瓶頸，我們也能保留更多的餘裕，去等待其他開發者，並轉換過去。&lt;/p&gt;
 &lt;p&gt;所以，請不要等待，如果你想要成為數位開發者，現在開始評估、下載以及使用吧！&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>學鋼鐵人打造 Jarvis，創造你的數位助理</title>
-      <link>/blog/personal-digital-assistant-three-principle-notion/</link>
-      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/personal-digital-assistant-three-principle-notion/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;一個不離身的手機，正是最適合幫助自己打造個人助理的載具，因為具備了「時時在身邊」的特性，這一系列文章的開頭，想要分享近期在思考工作模式轉變，並且使用身邊的數位工具，我是怎麼想的。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>學鋼鐵人打造 Jarvis，創造你的數位助理</title>
+    <link>https://willliu.me/blog/personal-digital-assistant-three-principle-notion/</link>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/personal-digital-assistant-three-principle-notion/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;一個不離身的手機，正是最適合幫助自己打造個人助理的載具，因為具備了「時時在身邊」的特性，這一系列文章的開頭，想要分享近期在思考工作模式轉變，並且使用身邊的數位工具，我是怎麼想的。&lt;/h4&gt;
 &lt;p&gt;最近唸了一本書在談時間管理的，裡面提到了一個觀念叫做「時間股利」，核心思想就是現在的經營、做法，會讓自己未來的時間增加，如同大家熟悉的存款觀念，你把一筆錢放入銀行，之後錢會變大。&lt;/p&gt;
 &lt;p&gt;但這裡強調不僅僅只是物理面有形的時間多了出來，還包含了心裡面的所提到的，感覺自己的時間足夠。（想看更多的內容，大家可以去翻閱《&lt;a href=&#34;https://www.kobo.com/tw/zh/ebook/P6X5wtED8zmAHPIcUnkNaw&#34;&gt;要忙，就忙得有意義&lt;/a&gt;》）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;有幾個方法可以幫助創造出時間股利，其中一個就是培養出一個好助理。&lt;/strong&gt;&lt;/p&gt;
@@ -124,30 +130,29 @@
 &lt;p&gt;在數位的年代，很多人都會被取代，這是一句常常聽到的話，其實我每次聽到都覺得很有危機感。但如果換一種思考模式，變成：「&lt;strong&gt;在數位的時代，很多人可以做的事情，可以用數位工具取代。&lt;/strong&gt;」就能夠發現「事」可以被取代，但人還是有不可或缺性。&lt;/p&gt;
 &lt;p&gt;以前我們想到很多雜事，就會很希望能有有一個統一的控制中心，幫助我們管理，也適時的提醒我們該做什麼。智慧型手機的出現，加上善用 App，正好有機會填補滿這個空缺。&lt;/p&gt;
 &lt;p&gt;Notion 是有提供免費方案的，如果你是學生、教師或者擁有 .edu 電子信箱，可以申請教育方案使用，等同於免費使用絕大部分的功能，並且儲存的內容沒有上限。相關的申請、教育方案等等，網路上中、英文資源甚多，大家可以自己找找看。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>Keychron K1 V2 機械式鍵盤購入心得：比起完美，更重合用</title>
-      <link>/blog/keychron-k1-v2-mechanical-keyboard-and-how-i-use-it/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/keychron-k1-v2-mechanical-keyboard-and-how-i-use-it/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;最近幫自己添購了許多不同的設備，當然花了不少錢，不知道為什麼最近買產品，價格都偏高了一點，但既然要花錢，所以為了減少罪惡感，也不要增加荷包被減肥的痛感，決定要把這一筆筆的花費從頭到尾能夠詳盡的紀錄下來。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>Keychron K1 V2 機械式鍵盤購入心得：比起完美，更重合用</title>
+    <link>https://willliu.me/blog/keychron-k1-v2-mechanical-keyboard-and-how-i-use-it/</link>
+    <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/keychron-k1-v2-mechanical-keyboard-and-how-i-use-it/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;最近幫自己添購了許多不同的設備，當然花了不少錢，不知道為什麼最近買產品，價格都偏高了一點，但既然要花錢，所以為了減少罪惡感，也不要增加荷包被減肥的痛感，決定要把這一筆筆的花費從頭到尾能夠詳盡的紀錄下來。&lt;/h4&gt;
 &lt;p&gt;這個鍵盤，對我來說雖然不到夢幻逸品的層次，但也是讓我一償宿願，因為我真的想要相關的產品很久了，直到現在才讓我找到。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-1&#34;&gt;為什麼要購買這個鍵盤&lt;/h2&gt;
 &lt;p&gt;從很久以前，我就在找一個能夠同時支援有線與藍牙無線的鍵盤，因為我在工作的形態上，通常使用多的設備，包含了 Windows 桌機、iPad Pro，甚至會加上一台 Macbook Air/Pro。雖然每個裝置都有自己的鍵盤，但是想到要轉來轉去身體，就很希望找到一個簡單切換的方法。&lt;/p&gt;
 &lt;p&gt;一兩年前看到一個 &lt;a href=&#34;http://www.coolpc.com.tw/phpBB2/viewtopic.php?f=52&amp;amp;t=149722&amp;amp;view=next&#34;&gt;ZIPPY BW7050&lt;/a&gt; 可以同時支援有線與多組藍牙連接的機械鍵盤，很想下手，但其實已經絕版，市面上已經無法找到。&lt;/p&gt;
 &lt;p&gt;就這樣等了一兩年，市面上都沒相關的產品，所以我就買了 Cherry 紅軸、i-rock 等機械鍵盤來使用，但都是有線僅支援一台電腦的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15602608853900_57ZGnjfXY.jpg&#34; alt=&#34;Keychron K1 具有輕薄、無限、機械式鍵盤的三個特色&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15602608853900_57ZGnjfXY.jpg&#34; alt=&#34;Keychron K1 具有輕薄、無限、機械式鍵盤的三個特色&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;keychron-k1-&#34;&gt;Keychron K1 具有輕薄、無線、機械式鍵盤的三個特色&lt;/h5&gt;
 &lt;p&gt;直到 &lt;a href=&#34;https://www.keychron.com.tw&#34;&gt;Keychron&lt;/a&gt; K1  V2 被我在 Facebook 巧遇到（同時有看到 Taptek 募資專案，但因為還沒上市，我又想要入手使用，所以便沒有多加考慮），查了一下&lt;a href=&#34;https://applealmond.com/posts/53348&#34;&gt;相關的文章&lt;/a&gt;，反覆確認自己的實際需求，肯定了這就是我要的，當然趁還在搶鮮的優惠價中，先入手一組來試試看。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-2&#34;&gt;開箱的感覺&lt;/h2&gt;
 &lt;p&gt;這是從深圳的工廠或者倉庫直接出貨的，蠻好的服務是可以完全追蹤。為了怕淋到水，完整的用了防水的快遞包裝袋封起來（膠袋包很多層，很難拆），然後裡面就是完整的盒子，有點撞擊的痕跡。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15602590997789_KwH4-3SWHw.jpg&#34; alt=&#34;可以完整追蹤物流項目，是從深圳直接出貨&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15602590997789_KwH4-3SWHw.jpg&#34; alt=&#34;可以完整追蹤物流項目，是從深圳直接出貨&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-3&#34;&gt;可以完整追蹤物流狀態，是從深圳直接出貨&lt;/h5&gt;
 &lt;p&gt;拿起來的第一個感覺，這一組鍵盤很有份量。&lt;/p&gt;
 &lt;p&gt;可能是因為使用鋁合金製造，所以相較以前的鍵盤真的蠻重的，但因為鍵帽的設計是屬於扁平的感覺，所以並不會有很厚的感覺。跟我另外一個機械鍵盤的鍵盤 &lt;a href=&#34;http://mesak.tw/hardware/keyboard/7091/i-rocks-k60m&#34;&gt;irock K60&lt;/a&gt; 感覺差不多，可能會再輕一點點。&lt;/p&gt;
@@ -157,7 +162,7 @@
 &lt;h2 id=&#34;heading-4&#34;&gt;使用的心得&lt;/h2&gt;
 &lt;p&gt;我覺得最讓我驚豔的是「手感」，其實我已經使用機械式鍵盤很久了，以往總是習慣使用 Cherry 的紅軸鍵盤，整體的軟硬度、回饋的感覺都非常的好，聲音的部分也令我非常滿意，每打一個字都有一種在認真寫出什麼的感覺。&lt;/p&gt;
 &lt;p&gt;而 K1 這一組鍵盤，相較於 Cherry 來說，回饋的時間更快，而在敲打的時候，相對來說聲音清脆許多，加上使用的材質是鋁合金，聽起來方面，少了其他鍵盤那種塑料感，是另外一種令人想要不斷打字的激勵狀態。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://willliu.me/blog/https://ik.imagekit.io/kuenwei/willliu_me/15602609658473_OCV2w2lqA.jpg&#34; alt=&#34;背光模式讓鍵盤在打字的時耀眼又多一分趣味&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ik.imagekit.io/kuenwei/willliu_me/15602609658473_OCV2w2lqA.jpg&#34; alt=&#34;背光模式讓鍵盤在打字的時耀眼又多一分趣味&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;heading-5&#34;&gt;背光模式讓鍵盤在打字的時耀眼又多一分趣味&lt;/h5&gt;
 &lt;h3 id=&#34;ipad-pro-129&#34;&gt;iPad Pro 12.9&lt;/h3&gt;
 &lt;p&gt;這是我第一個配對的設備，先用一句話來形容：「配置上與 Smart Keyboard 差異不大。」這一點是有點美中不足的，因為我已經有買了 Smart Keyboard，除了敲打的感覺外，有些功能鍵我認爲還是 Smart Keyboard 支援的比較完全，例如：使用 command + tab 切換視窗，在 K1 上怎麼實驗都還是沒辦法打出來。&lt;/p&gt;
@@ -198,17 +203,16 @@
 &lt;p&gt;&lt;em&gt;如果你問我，這個鍵盤是否解決一切問題，答案顯而易見：「沒有。」&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;因為從實際面來看，Macbook Pro、iPad Pro 對我來說都已經是有鍵盤的設施，以移動裝置來說，在另外帶鍵盤並不實際，但如果就工作站的設置、工作上的需求來說，這個鍵盤是我目前採取的最佳解決方案。&lt;/p&gt;
 &lt;p&gt;長期的夢想被實現的感覺，真的有一種舒暢感。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>我使用的服務/工具一覽</title>
-      <link>/blog/my-tools-and-services-list/</link>
-      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/my-tools-and-services-list/</guid>
-        <description>&lt;h2 id=&#34;heading&#34;&gt;我訂閱&amp;amp;購買的服務&lt;/h2&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>我使用的服務/工具一覽</title>
+    <link>https://willliu.me/blog/my-tools-and-services-list/</link>
+    <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/my-tools-and-services-list/</guid>
+    <description>&lt;h2 id=&#34;heading&#34;&gt;我訂閱&amp;amp;購買的服務&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Notion（於 2019.6.3 開始年度訂閱[以 Credit 折抵 USD$48]，2019.9.20 開始轉用教育方案[免費]）&lt;/li&gt;
 &lt;li&gt;愛奇藝 一年（已於 2018.11.27 購買一年期[TWD$990]，2018.3.20購買一年期[$1899]）&lt;/li&gt;
@@ -301,9 +305,8 @@
 &lt;li&gt;Instagram&lt;/li&gt;
 &lt;li&gt;Matter&lt;/li&gt;
 &lt;/ul&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>

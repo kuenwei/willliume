@@ -1,21 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>心態 on 未來6米</title>
-    <link>/tags/%E5%BF%83%E6%85%8B/</link>
-    <description>Recent content in 心態 on 未來6米</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/%E5%BF%83%E6%85%8B/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>整理跑道數位篇：部落格</title>
-      <link>/blog/leave-medium-go-to-hugo/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/leave-medium-go-to-hugo/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;這是延續近一個月來的「流動」這個主題，剛好假期有比較多的時間，本來想好好整理家裡，但一看到自己寫作的地方很亂、沒有組織，剛好順勢有一個比較長的時間，順勢整理起來。以下是一點心得。&lt;/h4&gt;
+<channel>
+  <title>心態 on 未來6米</title>
+  <link>https://willliu.me/tags/%E5%BF%83%E6%85%8B/</link>
+  <description>Recent content in 心態 on 未來6米</description>
+  <generator>Hugo -- gohugo.io</generator>
+  
+  <language>zh-tw</language>
+  
+  
+  
+  <copyright>willliu.me &amp; herearoma - All rights reserved</copyright>
+  
+  <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+  
+      <atom:link href="https://willliu.me/tags/%E5%BF%83%E6%85%8B/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>整理跑道數位篇：部落格</title>
+    <link>https://willliu.me/blog/leave-medium-go-to-hugo/</link>
+    <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/leave-medium-go-to-hugo/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;這是延續近一個月來的「流動」這個主題，剛好假期有比較多的時間，本來想好好整理家裡，但一看到自己寫作的地方很亂、沒有組織，剛好順勢有一個比較長的時間，順勢整理起來。以下是一點心得。&lt;/h4&gt;
 &lt;p&gt;雖然大家都說斜槓青年是近年流行的風潮，但因為嘗試了很多東西，加上跨界蠻大的，所以一直都維持平行的分享方式，把不同的主題放在不同的地方，讓彼此不太衝突。&lt;/p&gt;
 &lt;p&gt;漸漸的就有了四、五個放文章的地方，看起來好像很多東西，其實實際上因為紊亂，所以每次想到要管理跟分類，就會覺得還沒動手已經先累！&lt;/p&gt;
 &lt;p&gt;另外一方面，近年來社群的興起，自媒體的興盛，行銷已經不是注重分門別類的時代，更重要的是「個人品牌」，以人為主題的重要性已經漸漸地超越了，以不同分類為主體。&lt;/p&gt;
@@ -58,17 +65,16 @@
 &lt;li&gt;合：小結心得&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;而 Who, When, Where 其實會不斷穿插在這三者之間，不必然需要歸屬在任何一方。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title> 1年計畫10年對話：只要改變習慣，就會改變人生</title>
-      <link>/blog/book-cyrilchu-plan-now-for-next-ten-years/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/book-cyrilchu-plan-now-for-next-ten-years/</guid>
-        <description>&lt;h4 id=&#34;heading&#34;&gt;新的一年，不能免俗也幫自己計劃很多事情，而這一本書其實我去年就看到了，遲遲未下手。主要是，我對買書價值的衡量，希望能夠是真的值得一在回味的書，才會真的納入收藏。而這一本書，可以重複的看，但我想隨著人生經驗的成長，會從工具書慢慢變成一本故事書。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title> 1年計畫10年對話：只要改變習慣，就會改變人生</title>
+    <link>https://willliu.me/blog/book-cyrilchu-plan-now-for-next-ten-years/</link>
+    <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/book-cyrilchu-plan-now-for-next-ten-years/</guid>
+    <description>&lt;h4 id=&#34;heading&#34;&gt;新的一年，不能免俗也幫自己計劃很多事情，而這一本書其實我去年就看到了，遲遲未下手。主要是，我對買書價值的衡量，希望能夠是真的值得一在回味的書，才會真的納入收藏。而這一本書，可以重複的看，但我想隨著人生經驗的成長，會從工具書慢慢變成一本故事書。&lt;/h4&gt;
 &lt;h2 id=&#34;heading-1&#34;&gt;改變是一種心態還是一種方法&lt;/h2&gt;
 &lt;p&gt;如果有看過褚士瑩書的人，應該會知道他的經歷非常特別，就連現在的工作也是特別的。這本書，是他從他生活中累積的經驗，看到的各種案例來跟我們分享，如何制訂一年的計畫，要說真的是一個手把手的教學書，其實某種程度有，但我看完整本書，很多的部分是做「心法」的分享，他非常強調，當心態改變的時候，才有可能真的改變。&lt;/p&gt;
 &lt;p&gt;甚至也舉出了身邊很多的例子，尤其以他特別的經驗來看，很多例子可能是真的要在他的角色之中，才會真的被學習的的，例如怎麼成為跨國的 NGO 工作者，怎麼幫助緬甸的人等等。而這樣一步步改變習慣，進一步可以改變我們的人生。&lt;/p&gt;
@@ -79,17 +85,16 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;如果，你也想讀這本書&lt;/h2&gt;
 &lt;p&gt;直接的說，這本書就很像褚士瑩大部分的書一樣，具有高度個人風格，也是不斷的以自己人生經驗，去堆積出來一套新年的計畫方式。如果真的是想要學習很多方法的人，你也願意複製別人的成功經驗，這一本書將會是好選擇；但若你已經是一個很會計畫的人，這本書可能就偏作者個人的人生經驗分享，因為畢竟你可以有自己的故事與方式。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>《可以善良，但你要有底線不當好人》不要忽視自己創造出來合理</title>
-      <link>/blog/book-guideline-for-a-nice-guy/</link>
-      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/book-guideline-for-a-nice-guy/</guid>
-        <description>&lt;h4 id=&#34;-kobo-&#34;&gt;這一本書，是使用樂天 Kobo 電子書買的，因為折扣比較多，加上作者午堂登紀雄，每本書基本上都很暢銷，所以想說至少在折扣下買了也不吃虧，因而入手此書。&lt;/h4&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>《可以善良，但你要有底線不當好人》不要忽視自己創造出來合理</title>
+    <link>https://willliu.me/blog/book-guideline-for-a-nice-guy/</link>
+    <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/book-guideline-for-a-nice-guy/</guid>
+    <description>&lt;h4 id=&#34;-kobo-&#34;&gt;這一本書，是使用樂天 Kobo 電子書買的，因為折扣比較多，加上作者午堂登紀雄，每本書基本上都很暢銷，所以想說至少在折扣下買了也不吃虧，因而入手此書。&lt;/h4&gt;
 &lt;p&gt;曾經有一陣子，我很常買日本作家的書籍，尤其以大前研一、勝間和代，麥肯錫出身的相關商業、自我管理書籍，但近幾年，基本上看到日本作者的商業書、自我成長的書籍，我都一率跳過。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading&#34;&gt;你順從，就會合理被欺負&lt;/h2&gt;
@@ -113,17 +118,16 @@
 &lt;p&gt;整本書非常的勵志，而且有部分的觀點就一般人來看，可以歸類在比較極端。但若當你發現，人生目前經歷的一切，都是自己所形塑的，是否也能夠更有信心讓自己知道，自己也能建構不一樣的未來。&lt;/p&gt;
 &lt;p&gt;當然，午堂登紀雄在絕對的勵志之外，也現實的提出了，人生一定有些無法改變的事情，當這些事情發生的時候，我們要做的不是花「硬」力氣去改變它，而是用「氣度」去面對，進一步的去看清楚，並&lt;strong&gt;改變那些我們能改變的部分&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;當你思考與行動的目的，已經從回應外在的思想脫離的時候，才能夠進一步掌握到自己想要過的幸福人生。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-    <item>
-      <title>那一天，我清掉所有待辦清單</title>
-      <link>/blog/the-day-i-clean-up-to-do-list/</link>
-      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/the-day-i-clean-up-to-do-list/</guid>
-        <description>&lt;p&gt;沒有清空的待辦事項，就是一種自虐的開始。&lt;/p&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>那一天，我清掉所有待辦清單</title>
+    <link>https://willliu.me/blog/the-day-i-clean-up-to-do-list/</link>
+    <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+    <author> Will Liu </author>
+    <guid>https://willliu.me/blog/the-day-i-clean-up-to-do-list/</guid>
+    <description>&lt;p&gt;沒有清空的待辦事項，就是一種自虐的開始。&lt;/p&gt;
 &lt;p&gt;在專案管理中，我有個很深的體悟：「把每一個小事情都做好，大事就會自然成形！」雖然每個人都希望能夠做大事，但其實不管是什麼樣的專案，如果沒有把每一件小事兼顧好，當走到後面的時候反而會發現更多問題。&lt;/p&gt;
 &lt;p&gt;對一個專案來說，能切割的最小片段就是能夠在手邊完成的事情，他不需要一直派工，只需要真的負責的人可以持續的做下去，有許多人都有提到 GTD 的任務管理法，以及艾森豪威爾法則以四象限來區分工作。我嘗試很多次，總是以失敗收場，有一天我下定決心，一次把我的待辦事項全部刪除了，然後重新思考到底怎麼了？為什麼總是會遇到失敗的情境呢？&lt;/p&gt;
 &lt;hr&gt;
@@ -146,9 +150,8 @@
 &lt;h3 id=&#34;heading-5&#34;&gt;要素三：連同工作時間與完成時間一起設定&lt;/h3&gt;
 &lt;p&gt;得到 App 中劉潤專欄曾經分享時間顆粒的概念，意思是每一個人對於時間利用程度不同，所以對時間單位的定義也不同。以我自己為例，我處理事情很快的人，但有個缺點容易分心，代表如果我持續做一件事情，很容易一不小心岔了出去，反而讓自己誤了一點時間。因此，我設定的時間顆粒為 30 分鐘，每 30 分鐘是我安排處理事情的節點，確保我在一定的時間內能夠專心，而又不會違背我會分心這個個性。&lt;/p&gt;
 &lt;p&gt;同時，我會配合行事曆一起設定工作時間，將每個顆粒需要做什麼事情都配合寫上去，以確保我有留時間去完成進度，不然反而會回到一開始我說明的，超出預期反而陷入做不完的崩潰情緒，以及推延後的自責感。&lt;/p&gt;
-
-        </description>
-    </item>
-    
-  </channel>
+</description>
+  </item>
+  
+</channel>
 </rss>
