@@ -3,22 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://willliu.me/tags/app/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://willliu.me/blog/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://willliu.me/categories/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willliu.me/tags/notion/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://willliu.me/tags/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E5%B7%A5%E4%BD%9C%E6%B3%95/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/blog/my-philosophy-on-apps-finding-alternative/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/categories/%E6%88%91%E6%80%8E%E9%BA%BC%E9%81%B8%E6%93%87app/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E6%95%B4%E7%90%86%E8%A1%93/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E6%95%B8%E4%BD%8D%E5%B7%A5%E4%BD%9C/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/%E6%96%B7%E6%8D%A8%E9%9B%A2/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willliu.me/tags/notion/</loc>
     <lastmod>2020-01-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,22 +83,7 @@
   </url>
   
   <url>
-    <loc>https://willliu.me/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://willliu.me/categories/%E6%95%B8%E4%BD%8D%E5%8A%A9%E7%90%86/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willliu.me/tags/%E6%95%B8%E4%BD%8D%E5%B7%A5%E4%BD%9C/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willliu.me/</loc>
     <lastmod>2020-01-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,32 +103,12 @@
   </url>
   
   <url>
-    <loc>https://willliu.me/tags/app/</loc>
-    <lastmod>2020-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://willliu.me/tags/%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2020-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://willliu.me/tags/%E5%B7%A5%E4%BD%9C%E6%B3%95/</loc>
-    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willliu.me/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://willliu.me/blog/my-philosophy-on-apps-three-points-selection/</loc>
-    <lastmod>2020-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willliu.me/categories/%E6%88%91%E6%80%8E%E9%BA%BC%E9%81%B8%E6%93%87app/</loc>
     <lastmod>2020-01-18T00:00:00+00:00</lastmod>
   </url>
   
